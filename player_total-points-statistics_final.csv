@@ -1,0 +1,1032 @@
+,rank,name,type,matchs_played,score,profile_name,season,player_id,team_name,team_id
+0,1.0,Anup Kumar,Raider,16,169.0,/players/anup-kumar,1,29,/teams/u-mumba,5
+1,2.0,Rahul Chaudhari,Raider,14,161.0,/players/rahul-chaudhari,1,81,/teams/telugu-titans,8
+2,3.0,Maninder Singh,Raider,16,137.0,/players/maninder-singh,1,143,/teams/jaipur-pink-panthers,3
+3,4.0,Ajay Thakur,Raider,15,127.0,/players/ajay-thakur,1,26,/teams/bengaluru-bulls,1
+4,5.0,Kashiling Adake,Raider,14,122.0,/players/kashiling-adake,1,58,/teams/dabang-delhi-kc,2
+5,5.0,Manjeet Chhillar,All Rounder,16,122.0,/players/manjeet-chhillar,1,69,/teams/bengaluru-bulls,1
+6,7.0,Surjeet Narwal,Raider,14,120.0,/players/surjeet-narwal,1,118,/teams/dabang-delhi-kc,2
+7,8.0,Sandeep Narwal,All Rounder,16,119.0,/players/sandeep-narwal,1,142,/teams/patna-pirates,6
+8,9.0,Jasvir Singh,Raider,15,113.0,/players/jasvir-singh,1,52,/teams/jaipur-pink-panthers,3
+9,10.0,Wazir Singh,Raider,12,111.0,/players/wazir-singh,1,124,/teams/puneri-paltan,7
+10,10.0,Ravi Dalal,Raider,16,111.0,/players/ravi-dalal,1,92,/teams/patna-pirates,6
+11,12.0,Nitin Madane,Raider,12,107.0,/players/nitin-madane,1,75,/teams/bengal-warriors,4
+12,13.0,Rakesh Kumar,All Rounder,12,99.0,/players/rakesh-kumar,1,88,/teams/patna-pirates,6
+13,14.0,Rajesh Narwal,All Rounder,16,98.0,/players/rajesh-narwal,1,86,/teams/jaipur-pink-panthers,3
+14,15.0,Deepak Niwas Hooda,All Rounder,14,89.0,/players/deepak-niwas-hooda,1,41,/teams/telugu-titans,8
+15,16.0,Sukesh Hegde,Raider,14,83.0,/players/sukesh-hegde,1,111,/teams/telugu-titans,8
+16,17.0,Rishank Devadiga,Raider,16,77.0,/players/rishank-devadiga,1,94,/teams/u-mumba,5
+17,18.0,Shabeer Bappu,Raider,10,67.0,/players/shabeer-bappu,1,105,/teams/u-mumba,5
+18,19.0,Surender Nada,"Defender, left corner",15,61.0,/players/surender-nada,1,146,/teams/u-mumba,5
+19,20.0,Mahesh Goud,Raider,13,59.0,/players/mahesh-goud,1,66,/teams/bengal-warriors,4
+20,21.0,Jang Kun Lee,Raider,11,57.0,/players/jang-kun-lee,1,12,/teams/bengal-warriors,4
+21,22.0,Jitesh Joshi,All Rounder,14,53.0,/players/jitesh-joshi,1,55,/teams/puneri-paltan,7
+22,23.0,Dharmaraj Cheralathan,"Defender, right and left corner",16,52.0,/players/dharmaraj-cheralathan,1,42,/teams/bengaluru-bulls,1
+23,24.0,Sunil Jaipal,Raider,13,50.0,/players/sunil-jaipal,1,141,/teams/bengal-warriors,4
+24,24.0,Shrikant Tewthia,All Rounder,14,50.0,/players/shrikant-tewthia,1,107,/teams/dabang-delhi-kc,2
+25,26.0,Jasmer Singh Gulia,All Rounder,14,45.0,/players/jasmer-singh-gulia,1,51,/teams/dabang-delhi-kc,2
+26,27.0,Rajesh Mondal,Raider,15,44.0,/players/rajesh-mondal,1,85,/teams/bengaluru-bulls,1
+27,27.0,Pawan Kumar Kadian,Raider,10,44.0,/players/pawan-kumar-kadian,1,156,/teams/u-mumba,5
+28,29.0,Manoj Kumar,"Defender, left cover",14,42.0,/players/manoj-kumar,1,70,/teams/puneri-paltan,7
+29,30.0,Rohit Rana,"Defender, left cover",15,38.0,/players/rohit-rana,1,96,/teams/jaipur-pink-panthers,3
+30,31.0,Mohit Chhillar,"Defender, right corner",16,36.0,/players/mohit-chhillar,1,71,/teams/u-mumba,5
+31,31.0,Parmod Narwal,All Rounder,16,36.0,/players/parmod-narwal,1,150,/teams/bengaluru-bulls,1
+32,31.0,Ran Singh,All Rounder,10,36.0,/players/ran-singh,1,160,/teams/jaipur-pink-panthers,3
+33,34.0,Nilesh Shinde,"Defender, right corner",14,35.0,/players/nilesh-shinde,1,73,/teams/bengal-warriors,4
+34,35.0,Prashant Chavan,"Defender, right corner",15,33.0,/players/prashant-chavan,1,147,/teams/jaipur-pink-panthers,3
+35,36.0,Kalimuthu Balamahendran,"Defender, left corner",14,32.0,/players/kalimuthu-balamahendran,1,56,/teams/puneri-paltan,7
+36,37.0,Mahipal Narwal,All Rounder,5,31.0,/players/mahipal-narwal,1,67,/teams/puneri-paltan,7
+37,38.0,Amit Singh Chhillar,"Defender, left corner",14,30.0,/players/amit-singh-chhillar,1,28,/teams/dabang-delhi-kc,2
+38,39.0,Ravinder Pahal,"Defender, right corner",9,29.0,/players/ravinder-pahal,1,157,/teams/dabang-delhi-kc,2
+39,40.0,D. Suresh Kumar,"Defender, right cover",12,28.0,/players/d--suresh-kumar,1,162,/teams/patna-pirates,6
+40,40.0,Mangesh Bhagat,Raider,8,28.0,/players/mangesh-bhagat,1,168,/teams/puneri-paltan,7
+41,40.0,Shyam Kumar Sah,"Defender, left cover",13,28.0,/players/shyam-kumar-sah,1,108,/teams/bengal-warriors,4
+42,43.0,Sachin Khambe,"Defender, left corner",14,27.0,/players/sachin-khambe,1,98,/teams/bengal-warriors,4
+43,43.0,Wasim Sajjad,"Defender, right corner",15,27.0,/players/wasim-sajjad,1,20,/teams/patna-pirates,6
+44,43.0,Gurpreet Singh,"Defender, right corner",16,27.0,/players/gurpreet-singh,1,45,/teams/bengaluru-bulls,1
+45,43.0,D. Gopu,"Defender, right and left corner",15,27.0,/players/d--gopu,1,152,/teams/telugu-titans,8
+46,47.0,Girish Maruti Ernak,"Defender, left corner",12,25.0,/players/girish-maruti-ernak,1,161,/teams/patna-pirates,6
+47,48.0,Mahendra Ganesh Rajput,Raider,8,21.0,/players/mahendra-ganesh-rajput,1,163,/teams/bengal-warriors,4
+48,48.0,Deepak Kumar Dahiya,Raider,7,21.0,/players/deepak-kumar-dahiya,1,174,/teams/bengaluru-bulls,1
+49,48.0,Pravin Niwale,Raider,7,21.0,/players/pravin-niwale,1,79,/teams/puneri-paltan,7
+50,51.0,Vishal Mane,"Defender, right cover",16,20.0,/players/vishal-mane,1,123,/teams/u-mumba,5
+51,51.0,Sachin Shingade,"Defender, left cover",10,20.0,/players/sachin-shingade,1,165,/teams/telugu-titans,8
+53,54.0,Rajaguru Subramanian,"Defender, right cover",14,19.0,/players/rajaguru-subramanian,1,84,/teams/telugu-titans,8
+54,55.0,Ram Kumar Sah,"Defender, left cover",9,18.0,/players/ram-kumar-sah,1,89,/teams/patna-pirates,6
+55,56.0,Navneet Gautam,"Defender, left corner",14,17.0,/players/navneet-gautam,1,72,/teams/jaipur-pink-panthers,3
+56,57.0,Gangadhari Mallesh,Raider,10,16.0,/players/gangadhari-mallesh,1,44,/teams/jaipur-pink-panthers,3
+57,57.0,Jeeva Kumar,"Defender, right and left cover",9,16.0,/players/jeeva-kumar,1,54,/teams/u-mumba,5
+58,59.0,Waleed Al Hasani,Raider,6,14.0,/players/waleed-al-hasani,1,16,/teams/puneri-paltan,7
+59,60.0,Gurvinder Singh,Raider,7,13.0,/players/gurvinder-singh,1,46,/teams/patna-pirates,6
+60,61.0,Nitin More,"Defender, left cover",9,12.0,/players/nitin-more,1,76,/teams/puneri-paltan,7
+61,61.0,Preetam Chhillar,All Rounder,11,12.0,/players/preetam-chhillar,1,167,/teams/bengaluru-bulls,1
+62,61.0,Samarjeet Singh,All Rounder,12,12.0,/players/samarjeet-singh,1,159,/teams/jaipur-pink-panthers,3
+63,64.0,Bajirao Hodage,"Defender, right cover",6,11.0,/players/bajirao-hodage,1,164,/teams/bengal-warriors,4
+64,65.0,Sagar Khatale,"Defender, right corner",8,10.0,/players/sagar-khatale,1,169,/teams/puneri-paltan,7
+65,66.0,Balbir Singh,All Rounder,8,9.0,/players/balbir-singh,1,32,/teams/jaipur-pink-panthers,3
+66,67.0,Simon Kibura,Raider,4,8.0,/players/simon-kibura,1,10,/teams/puneri-paltan,7
+67,67.0,Swapnil Dilip Shinde,"Defender, right cover",8,8.0,/players/swapnil-dilip-shinde,1,170,/teams/puneri-paltan,7
+68,69.0,Suresu Kumar,Raider,3,6.0,/players/suresu-kumar,1,173,/teams/u-mumba,5
+69,69.0,Ehsan Zamani Fard,"Defender, left corner",8,6.0,/players/ehsan-zamani-fard,1,4,/teams/dabang-delhi-kc,2
+70,69.0,Chandran Ranjit,Raider,6,6.0,/players/chandran-ranjit,1,36,/teams/telugu-titans,8
+71,69.0,Jeeva Gopal,"Defender, left cover",11,6.0,/players/jeeva-gopal,1,53,/teams/u-mumba,5
+72,73.0,Wajid Ali,All Rounder,4,5.0,/players/wajid-ali,1,19,/teams/telugu-titans,8
+73,73.0,Kuldeep Singh,"Defender, left corner",3,5.0,/players/kuldeep-singh,1,61,/teams/patna-pirates,6
+74,73.0,Dadaso Balaso Awad,All Rounder,5,5.0,/players/dadaso-balaso-awad,1,38,/teams/dabang-delhi-kc,2
+75,73.0,Sinotharan Kanesharajah,Raider,1,5.0,/players/sinotharan-kanesharajah,1,21,/teams/bengaluru-bulls,1
+76,73.0,Seong Ryeol Kim,Defender,3,5.0,/players/seong-ryeol-kim,1,13,/teams/bengal-warriors,4
+77,73.0,Punit Kumar Teotia,Raider,4,5.0,/players/punit-kumar-teotia,1,80,/teams/dabang-delhi-kc,2
+78,73.0,Mandeep Kumar,Raider,7,5.0,/players/mandeep-kumar,1,68,/teams/patna-pirates,6
+79,73.0,Rupesh Tomar,All Rounder,5,5.0,/players/rupesh-tomar,1,97,/teams/telugu-titans,8
+80,73.0,Vikas Tomar,"Defender, right corner",8,5.0,/players/vikas-tomar,1,151,/teams/puneri-paltan,7
+81,73.0,Prashanth Kumar Rai,Raider,7,5.0,/players/prashanth-kumar-rai,1,155,/teams/telugu-titans,8
+82,83.0,Rakesh Singh Kumar,"Defender, left cover",9,4.0,/players/rakesh-singh-kumar,1,158,/teams/dabang-delhi-kc,2
+84,83.0,Sunil Hanumanthappa,Raider,5,4.0,/players/sunil-hanumanthappa,1,113,/teams/bengaluru-bulls,1
+85,83.0,Tae Deok Eom,All Rounder,9,4.0,/players/tae-deok-eom,1,14,/teams/patna-pirates,6
+86,83.0,Dovlet Boshimov,Raider,2,4.0,/players/dovlet-boshimov,1,23,/teams/patna-pirates,6
+87,88.0,Parveen Kumar,"Defender, right cover",8,3.0,/players/parveen-kumar,1,77,/teams/bengal-warriors,4
+88,89.0,Raju Lal Choudhary,"Defender, right corner",5,2.0,/players/raju-lal-choudhary,1,87,/teams/jaipur-pink-panthers,3
+89,89.0,Gokul Shitole,"Defender, right corner",3,2.0,/players/gokul-shitole,1,144,/teams/jaipur-pink-panthers,3
+90,89.0,Md. Aruduzzaman Munshi,Raider,5,2.0,/players/md--aruduzzaman-munshi,1,145,/teams/u-mumba,5
+91,89.0,Farhad Kamal Gharibi,"Defender, left corner",2,2.0,/players/farhad-kamal-gharibi,1,5,/teams/bengal-warriors,4
+92,89.0,Takamitsu Kono,All Rounder,1,2.0,/players/takamitsu-kono,1,9,/teams/dabang-delhi-kc,2
+93,94.0,Dong Ju Hong,All Rounder,2,1.0,/players/dong-ju-hong,1,11,/teams/dabang-delhi-kc,2
+94,94.0,Atif Waheed,All Rounder,3,1.0,/players/atif-waheed,1,17,/teams/telugu-titans,8
+95,94.0,Sunil Subhash Lande,"Defender, right corner",4,1.0,/players/sunil-subhash-lande,1,148,/teams/puneri-paltan,7
+0,1.0,Pawan Kumar Sehrawat,Raider,24,282.0,/players/pawan-kumar-sehrawat,6,318,/teams/bengaluru-bulls,1
+1,2.0,Pardeep Narwal,Raider,21,233.0,/players/pardeep-narwal,6,197,/teams/patna-pirates,6
+2,3.0,Siddharth Sirish Desai,Raider,21,221.0,/players/siddharth-sirish-desai,6,2026,/teams/u-mumba,5
+3,4.0,Deepak Niwas Hooda,All Rounder,22,208.0,/players/deepak-niwas-hooda,6,41,/teams/jaipur-pink-panthers,3
+4,5.0,Maninder Singh,Raider,22,206.0,/players/maninder-singh,6,143,/teams/bengal-warriors,4
+5,6.0,Ajay Thakur,Raider,22,204.0,/players/ajay-thakur,6,26,/teams/tamil-thalaivas,29
+6,6.0,Sachin Tanwar,Raider,23,204.0,/players/sachin-tanwar,6,757,/teams/gujarat-fortunegiants,31
+7,8.0,Vikash Kandola,Raider,22,177.0,/players/vikash-kandola,6,366,/teams/haryana-steelers,28
+8,8.0,Naveen Kumar,Raider,22,177.0,/players/naveen-kumar,6,2296,/teams/dabang-delhi-kc,2
+9,10.0,Rohit Kumar,Raider,24,171.0,/players/rohit-kumar,6,326,/teams/bengaluru-bulls,1
+10,11.0,Rahul Chaudhari,Raider,21,166.0,/players/rahul-chaudhari,6,81,/teams/telugu-titans,8
+11,12.0,Monu Goyat,Raider,20,164.0,/players/monu-goyat,6,388,/teams/haryana-steelers,28
+12,13.0,Chandran Ranjit,Raider,24,158.0,/players/chandran-ranjit,6,36,/teams/dabang-delhi-kc,2
+13,14.0,Prashanth Kumar Rai,Raider,21,147.0,/players/prashanth-kumar-rai,6,155,/teams/up-yoddha,30
+14,15.0,Shrikant Jadhav,Raider,25,146.0,/players/shrikant-jadhav,6,106,/teams/up-yoddha,30
+15,16.0,K. Prapanjan,Raider,22,123.0,/players/k--prapanjan,6,219,/teams/gujarat-fortunegiants,31
+16,17.0,Rohit Baliyan,Raider,19,108.0,/players/rohit-baliyan,6,261,/teams/u-mumba,5
+17,18.0,Rishank Devadiga,Raider,23,104.0,/players/rishank-devadiga,6,94,/teams/up-yoddha,30
+18,19.0,Nitin Tomar,Raider,11,102.0,/players/nitin-tomar,6,320,/teams/puneri-paltan,7
+19,19.0,Manjeet,Raider,22,102.0,/players/manjeet,6,763,/teams/patna-pirates,6
+20,19.0,Naveen,Raider,21,102.0,/players/naveen,6,2357,/teams/haryana-steelers,28
+21,22.0,Nitesh Kumar,Defender,25,101.0,/players/nitesh-kumar,6,725,/teams/up-yoddha,30
+22,23.0,Meraj Sheykh,All Rounder,19,97.0,/players/meraj-sheykh,6,251,/teams/dabang-delhi-kc,2
+23,24.0,More GB,Raider,22,91.0,/players/more-gb,6,772,/teams/puneri-paltan,7
+24,25.0,Parvesh Bhainswal,"Defender, left cover",25,86.0,/players/parvesh-bhainswal,6,357,/teams/gujarat-fortunegiants,31
+25,26.0,Nilesh Salunke,Raider,19,85.0,/players/nilesh-salunke,6,293,/teams/telugu-titans,8
+26,27.0,Kashiling Adake,Raider,20,84.0,/players/kashiling-adake,6,58,/teams/bengaluru-bulls,1
+27,28.0,Fazel Atrachali,"Defender, left corner",23,83.0,/players/fazel-atrachali,6,259,/teams/u-mumba,5
+28,29.0,Jang Kun Lee,Raider,18,82.0,/players/jang-kun-lee,6,12,/teams/bengal-warriors,4
+29,30.0,Sunil Kumar,Defender,25,76.0,/players/sunil-kumar,6,368,/teams/gujarat-fortunegiants,31
+30,31.0,Ajinkya Ashok Pawar,Raider,17,75.0,/players/ajinkya-ashok-pawar,6,2475,/teams/jaipur-pink-panthers,3
+31,32.0,Deepak Narwal,Raider,17,74.0,/players/deepak-narwal,6,211,/teams/patna-pirates,6
+32,33.0,Vijay,All Rounder,21,73.0,/players/vijay,6,745,/teams/patna-pirates,6
+33,34.0,Ran Singh,All Rounder,22,71.0,/players/ran-singh,6,160,/teams/bengal-warriors,4
+34,34.0,Sukesh Hegde,Raider,17,71.0,/players/sukesh-hegde,6,111,/teams/tamil-thalaivas,29
+35,36.0,Sachin Kumar,All Rounder,25,68.0,/players/sachin-kumar,6,218,/teams/up-yoddha,30
+36,37.0,Sandeep Kumar Dhull,"Defender, left corner",22,67.0,/players/sandeep-kumar-dhull,6,290,/teams/jaipur-pink-panthers,3
+37,37.0,Manjeet Chhillar,All Rounder,19,67.0,/players/manjeet-chhillar,6,69,/teams/tamil-thalaivas,29
+38,39.0,Sandeep Narwal,All Rounder,18,66.0,/players/sandeep-narwal,6,142,/teams/puneri-paltan,7
+39,40.0,Mahender Singh,"Defender, left cover",24,63.0,/players/mahender-singh,6,769,/teams/bengaluru-bulls,1
+40,41.0,Surender Singh,Defender,22,62.0,/players/surender-singh,6,733,/teams/u-mumba,5
+41,42.0,Rohit Gulia,All Rounder,19,61.0,/players/rohit-gulia,6,686,/teams/gujarat-fortunegiants,31
+42,43.0,Vishal Bhardwaj,Defender,17,60.0,/players/vishal-bhardwaj,6,358,/teams/telugu-titans,8
+43,44.0,Ravinder Pahal,"Defender, right corner",22,59.0,/players/ravinder-pahal,6,157,/teams/dabang-delhi-kc,2
+44,45.0,Jaideep,"Defender, left corner",22,58.0,/players/jaideep,6,579,/teams/patna-pirates,6
+45,46.0,PO Surjeet Singh,"Defender, right cover",23,57.0,/players/po-surjeet-singh,6,322,/teams/bengal-warriors,4
+46,46.0,Monu,Raider,14,57.0,/players/monu,6,795,/teams/puneri-paltan,7
+47,46.0,Girish Maruti Ernak,"Defender, left corner",20,57.0,/players/girish-maruti-ernak,6,161,/teams/puneri-paltan,7
+48,49.0,Mohsen Maghsoudloujafari,All Rounder,19,56.0,/players/mohsen-maghsoudloujafari,6,567,/teams/telugu-titans,8
+49,49.0,Abozar Mohajermighani,Defender,21,56.0,/players/abozar-mohajermighani,6,489,/teams/telugu-titans,8
+50,49.0,Athul MS,Raider,19,56.0,/players/athul-ms,6,376,/teams/tamil-thalaivas,29
+51,52.0,Abhishek Singh,Raider,15,53.0,/players/abhishek-singh,6,2028,/teams/u-mumba,5
+52,53.0,Vinod Kumar,All Rounder,17,51.0,/players/vinod-kumar,6,764,/teams/u-mumba,5
+53,53.0,Amit Hooda,"Defender, right corner",18,51.0,/players/amit-hooda,6,212,/teams/tamil-thalaivas,29
+54,53.0,Joginder Singh Narwal,"Defender, left corner",22,51.0,/players/joginder-singh-narwal,6,194,/teams/dabang-delhi-kc,2
+55,56.0,Anup Kumar,Raider,13,50.0,/players/anup-kumar,6,29,/teams/jaipur-pink-panthers,3
+56,56.0,Darshan Kadian,Raider,14,50.0,/players/darshan-kadian,6,324,/teams/u-mumba,5
+57,58.0,Kuldeep Singh,Defender,22,49.0,/players/kuldeep-singh,6,732,/teams/haryana-steelers,28
+58,59.0,Farhad Rahimi Milaghardan,All Rounder,22,47.0,/players/farhad-rahimi-milaghardan,6,482,/teams/telugu-titans,8
+59,59.0,Ruturaj Shivaji Koravi,Defender,23,47.0,/players/ruturaj-shivaji-koravi,6,2023,/teams/gujarat-fortunegiants,31
+60,61.0,Mahesh Goud,Raider,10,46.0,/players/mahesh-goud,6,66,/teams/bengal-warriors,4
+61,61.0,Jasvir Singh,Raider,16,46.0,/players/jasvir-singh,6,52,/teams/tamil-thalaivas,29
+62,63.0,Pawan Kumar Kadian,Raider,13,45.0,/players/pawan-kumar-kadian,6,156,/teams/dabang-delhi-kc,2
+63,63.0,Ashish Kumar,All Rounder,24,45.0,/players/ashish-kumar,6,202,/teams/bengaluru-bulls,1
+64,65.0,Ravindra Ramesh Kumawat,Raider,12,42.0,/players/ravindra-ramesh-kumawat,6,370,/teams/bengal-warriors,4
+65,65.0,Narender,All Rounder,25,42.0,/players/narender,6,778,/teams/up-yoddha,30
+66,67.0,Akshay Jadhav,Raider,18,41.0,/players/akshay-jadhav,6,365,/teams/puneri-paltan,7
+67,67.0,Selvamani K,Raider,15,41.0,/players/selvamani-k,6,264,/teams/jaipur-pink-panthers,3
+68,67.0,Sunil,"Defender, right corner",22,41.0,/players/sunil,6,2462,/teams/haryana-steelers,28
+69,70.0,Ravi Kumar,"Defender, right cover",22,40.0,/players/ravi-kumar,6,240,/teams/puneri-paltan,7
+70,70.0,Jeeva Kumar,"Defender, right and left cover",19,40.0,/players/jeeva-kumar,6,54,/teams/up-yoddha,30
+71,70.0,Dharmaraj Cheralathan,"Defender, right and left corner",22,40.0,/players/dharmaraj-cheralathan,6,42,/teams/u-mumba,5
+72,73.0,Vikas Kale,"Defender, right cover",22,39.0,/players/vikas-kale,6,179,/teams/patna-pirates,6
+73,74.0,Vishal Mane,"Defender, right cover",22,38.0,/players/vishal-mane,6,123,/teams/dabang-delhi-kc,2
+74,74.0,Rohit Rana,"Defender, left cover",19,38.0,/players/rohit-rana,6,96,/teams/u-mumba,5
+75,74.0,Sunil Siddhgavali,Defender,16,38.0,/players/sunil-siddhgavali,6,613,/teams/jaipur-pink-panthers,3
+76,74.0,Amit Sheoran,Defender,15,38.0,/players/amit-sheoran,6,794,/teams/bengaluru-bulls,1
+77,78.0,Vikas Jaglan,All Rounder,14,37.0,/players/vikas-jaglan,6,121,/teams/patna-pirates,6
+78,79.0,Deepak Kumar Dahiya,Raider,11,34.0,/players/deepak-kumar-dahiya,6,174,/teams/puneri-paltan,7
+79,80.0,Ajay Kumar,Raider,13,33.0,/players/ajay-kumar,6,389,/teams/gujarat-fortunegiants,31
+80,80.0,Amit Kumar,Raider,17,33.0,/players/amit-kumar,6,2476,/teams/jaipur-pink-panthers,3
+81,82.0,Nitin Rawal,All Rounder,9,31.0,/players/nitin-rawal,6,791,/teams/jaipur-pink-panthers,3
+82,82.0,Dong Geon Lee,Raider,11,31.0,/players/dong-geon-lee,6,522,/teams/gujarat-fortunegiants,31
+83,82.0,Mohit Chhillar,"Defender, right corner",14,31.0,/players/mohit-chhillar,6,71,/teams/jaipur-pink-panthers,3
+84,85.0,Mahendra Ganesh Rajput,Raider,13,30.0,/players/mahendra-ganesh-rajput,6,163,/teams/gujarat-fortunegiants,31
+85,85.0,Anil Kumar,"Defender, left cover",18,30.0,/players/anil-kumar,6,311,/teams/telugu-titans,8
+86,87.0,Baldev Singh,"Defender, right corner",18,28.0,/players/baldev-singh,6,621,/teams/bengal-warriors,4
+87,87.0,Sachin Vittala,"Defender, left corner",22,28.0,/players/sachin-vittala,6,232,/teams/gujarat-fortunegiants,31
+88,87.0,Parveen,"Defender, left cover",19,28.0,/players/parveen,6,2463,/teams/haryana-steelers,28
+89,90.0,Sachin Shingade,"Defender, left cover",19,25.0,/players/sachin-shingade,6,165,/teams/haryana-steelers,28
+90,90.0,Abolfazl Maghsodloumahali,Raider,10,25.0,/players/abolfazl-maghsodloumahali,6,300,/teams/u-mumba,5
+91,92.0,Mayur Shivtarkar,All Rounder,18,23.0,/players/mayur-shivtarkar,6,578,/teams/haryana-steelers,28
+92,92.0,Jawahar Dagar,Defender,15,23.0,/players/jawahar-dagar,6,390,/teams/patna-pirates,6
+93,92.0,Azad Singh,Raider,9,23.0,/players/azad-singh,6,2316,/teams/up-yoddha,30
+94,95.0,D. Pradap,All Rounder,13,22.0,/players/d--pradap,6,722,/teams/tamil-thalaivas,29
+95,96.0,Rinku Narwal,Defender,15,21.0,/players/rinku-narwal,6,796,/teams/puneri-paltan,7
+96,96.0,Amit Nagar,Raider,9,21.0,/players/amit-nagar,6,371,/teams/bengal-warriors,4
+97,96.0,Harish Naik,Raider,7,21.0,/players/harish-naik,6,372,/teams/bengaluru-bulls,1
+98,99.0,Tushar Patil,Raider,9,20.0,/players/tushar-patil,6,242,/teams/patna-pirates,6
+99,99.0,Rajesh Narwal,All Rounder,16,20.0,/players/rajesh-narwal,6,86,/teams/dabang-delhi-kc,2
+100,99.0,Raju Lal Choudhary,"Defender, right corner",16,20.0,/players/raju-lal-choudhary,6,87,/teams/bengaluru-bulls,1
+101,102.0,Hadi Oshtorak,All Rounder,13,18.0,/players/hadi-oshtorak,6,249,/teams/gujarat-fortunegiants,31
+102,102.0,Sagar B Krishna,All Rounder,20,18.0,/players/sagar-b-krishna,6,347,/teams/up-yoddha,30
+103,104.0,Ponparthiban Subramanian,"Defender, right cover",12,17.0,/players/ponparthiban-subramanian,6,2481,/teams/tamil-thalaivas,29
+104,105.0,Sandeep,"Defender, left corner",10,16.0,/players/sandeep,6,299,/teams/bengaluru-bulls,1
+105,105.0,CPO Surjeet Singh,Raider,9,16.0,/players/cpo-surjeet-singh,6,119,/teams/tamil-thalaivas,29
+106,107.0,Young Chang Ko,"Defender, left cover",13,15.0,/players/young-chang-ko,6,519,/teams/jaipur-pink-panthers,3
+107,107.0,Sumit Singh,Raider,8,15.0,/players/sumit-singh,6,363,/teams/bengaluru-bulls,1
+108,107.0,Satpal,"Defender, right corner",12,15.0,/players/satpal,6,773,/teams/dabang-delhi-kc,2
+109,107.0,Manish,"Defender, right cover",17,15.0,/players/manish,6,728,/teams/patna-pirates,6
+110,107.0,Kamal Singh,Raider,8,15.0,/players/kamal-singh,6,2307,/teams/telugu-titans,8
+111,107.0,Armaan,All Rounder,4,15.0,/players/armaan,6,2298,/teams/telugu-titans,8
+112,113.0,C Manoj Kumar,"Defender, left cover",12,14.0,/players/c-manoj-kumar,6,2274,/teams/telugu-titans,8
+113,113.0,Adarsh T,"Defender, left corner",10,14.0,/players/adarsh-t,6,2470,/teams/bengal-warriors,4
+114,113.0,Santhapanaselvam,All Rounder,14,14.0,/players/santhapanaselvam,6,676,/teams/jaipur-pink-panthers,3
+115,113.0,Rakshith,Raider,11,14.0,/players/rakshith,6,837,/teams/telugu-titans,8
+116,113.0,Rajesh Mondal,Raider,11,14.0,/players/rajesh-mondal,6,85,/teams/puneri-paltan,7
+117,118.0,Shrikant Tewthia,All Rounder,8,13.0,/players/shrikant-tewthia,6,107,/teams/bengal-warriors,4
+118,118.0,Bhupender Singh,All Rounder,4,13.0,/players/bhupender-singh,6,34,/teams/bengal-warriors,4
+119,118.0,Sunil,"Defender, left corner",11,13.0,/players/sunil,6,207,/teams/tamil-thalaivas,29
+120,118.0,Anand Patil,Raider,7,13.0,/players/anand-patil,6,576,/teams/jaipur-pink-panthers,3
+121,122.0,Ziaur Rahman,"Defender, left cover",18,12.0,/players/ziaur-rahman,6,536,/teams/bengal-warriors,4
+122,122.0,Parvesh,Raider,6,12.0,/players/parvesh,6,786,/teams/puneri-paltan,7
+123,122.0,Krushna Madane,Defender,6,12.0,/players/krushna-madane,6,274,/teams/telugu-titans,8
+124,122.0,Shubham Shinde,"Defender, right corner",10,12.0,/players/shubham-shinde,6,2479,/teams/puneri-paltan,7
+125,126.0,Kuldeep Singh,All Rounder,7,10.0,/players/kuldeep-singh,6,252,/teams/patna-pirates,6
+126,126.0,Rakesh Narwal,Raider,6,10.0,/players/rakesh-narwal,6,204,/teams/bengal-warriors,4
+127,126.0,Vijin Thangadurai,"Defender, right cover",16,10.0,/players/vijin-thangadurai,6,185,/teams/bengal-warriors,4
+128,126.0,Rajaguru Subramanian,"Defender, right cover",8,10.0,/players/rajaguru-subramanian,6,84,/teams/u-mumba,5
+129,126.0,Sandeep,All Rounder,5,10.0,/players/sandeep,6,731,/teams/puneri-paltan,7
+130,126.0,Vishal,All Rounder,6,10.0,/players/vishal,6,735,/teams/dabang-delhi-kc,2
+131,132.0,Anand Surendra Tomar,Raider,5,9.0,/players/anand-surendra-tomar,6,644,/teams/haryana-steelers,28
+132,132.0,Ajit Singh,Raider,6,9.0,/players/ajit-singh,6,648,/teams/jaipur-pink-panthers,3
+133,132.0,Ravinder Kumar,All Rounder,8,9.0,/players/ravinder-kumar,6,384,/teams/patna-pirates,6
+134,132.0,Bhanu Pratap Tomar,Raider,6,9.0,/players/bhanu-pratap-tomar,6,2278,/teams/up-yoddha,30
+135,132.0,Rajnish,Raider,4,9.0,/players/rajnish,6,2290,/teams/telugu-titans,8
+136,137.0,Amit Kumar,Raider,6,8.0,/players/amit-kumar,6,2291,/teams/puneri-paltan,7
+137,137.0,Anand,Raider,3,8.0,/players/anand,6,2325,/teams/tamil-thalaivas,29
+138,137.0,Anil Kumar,Raider,4,8.0,/players/anil-kumar,6,765,/teams/tamil-thalaivas,29
+139,137.0,C. Arun,"Defender, left cover",16,8.0,/players/c--arun,6,191,/teams/tamil-thalaivas,29
+140,137.0,Yogesh Hooda,Raider,6,8.0,/players/yogesh-hooda,6,245,/teams/dabang-delhi-kc,2
+141,142.0,Shabeer Bappu,Raider,6,7.0,/players/shabeer-bappu,6,105,/teams/dabang-delhi-kc,2
+142,142.0,D. Gopu,"Defender, right and left corner",5,7.0,/players/d--gopu,6,152,/teams/tamil-thalaivas,29
+143,142.0,Anil Kumar,"Defender, left corner",5,7.0,/players/anil-kumar,6,386,/teams/dabang-delhi-kc,2
+144,142.0,Lalit Chaudhary,Raider,3,7.0,/players/lalit-chaudhary,6,2306,/teams/gujarat-fortunegiants,31
+145,142.0,Mahesh Maruti Magdum,All Rounder,4,7.0,/players/mahesh-maruti-magdum,6,2266,/teams/bengaluru-bulls,1
+146,147.0,Victor Onyango Obiero,All Rounder,3,6.0,/players/victor-onyango-obiero,6,2257,/teams/tamil-thalaivas,29
+147,147.0,Anuj Kumar,"Defender, right cover",7,6.0,/players/anuj-kumar,6,2336,/teams/telugu-titans,8
+148,147.0,Bhuvneshwar Gaur,Raider,6,6.0,/players/bhuvneshwar-gaur,6,2315,/teams/haryana-steelers,28
+149,147.0,Viraj Vishnu Landge,"Defender, left cover",7,6.0,/players/viraj-vishnu-landge,6,784,/teams/dabang-delhi-kc,2
+150,147.0,Amit,"Defender, left cover",14,6.0,/players/amit,6,2020,/teams/up-yoddha,30
+151,147.0,Darshan J.,"Defender, right cover",9,6.0,/players/darshan-j-,6,724,/teams/tamil-thalaivas,29
+152,153.0,Prateek,All Rounder,6,5.0,/players/prateek,6,608,/teams/haryana-steelers,28
+153,153.0,Dharmender,Raider,4,5.0,/players/dharmender,6,2314,/teams/gujarat-fortunegiants,31
+154,155.0,Sudhanshu Tyagi,"Defender, right cover",13,4.0,/players/sudhanshu-tyagi,6,2328,/teams/haryana-steelers,28
+155,155.0,Ajay,Defender,7,4.0,/players/ajay,6,2353,/teams/bengaluru-bulls,1
+156,155.0,Arjun Deshwal,Raider,3,4.0,/players/arjun-deshwal,6,2024,/teams/u-mumba,5
+157,155.0,Lokesh Kaushik,Raider,6,4.0,/players/lokesh-kaushik,6,599,/teams/jaipur-pink-panthers,3
+158,155.0,Gangadhari Mallesh,Raider,6,4.0,/players/gangadhari-mallesh,6,44,/teams/jaipur-pink-panthers,3
+159,155.0,Jasmer Singh Gulia,All Rounder,6,4.0,/players/jasmer-singh-gulia,6,51,/teams/bengaluru-bulls,1
+160,155.0,Manoj Dhull,"Defender, right corner",8,4.0,/players/manoj-dhull,6,233,/teams/bengal-warriors,4
+161,155.0,David Shilisia J Mosambayi,Raider,4,4.0,/players/david-shilisia-j-mosambayi,6,266,/teams/jaipur-pink-panthers,3
+162,155.0,Amit Kumar,Raider,2,4.0,/players/amit-kumar,6,214,/teams/bengal-warriors,4
+163,164.0,Rohit Kumar Choudary,Raider,6,3.0,/players/rohit-kumar-choudary,6,217,/teams/up-yoddha,30
+164,164.0,Anand V,Raider,3,3.0,/players/anand-v,6,2021,/teams/bengaluru-bulls,1
+165,164.0,Vijay Kumar,"Defender, right corner",4,3.0,/players/vijay-kumar,6,768,/teams/patna-pirates,6
+166,164.0,Md. Masud Karim,Raider,3,3.0,/players/md--masud-karim,6,2262,/teams/up-yoddha,30
+167,164.0,Mithin Kumar,Raider,3,3.0,/players/mithin-kumar,6,2302,/teams/bengal-warriors,4
+168,164.0,Ankit,Defender,6,3.0,/players/ankit,6,2471,/teams/bengaluru-bulls,1
+169,170.0,Vimal Raj V,All Rounder,5,2.0,/players/vimal-raj-v,6,2335,/teams/tamil-thalaivas,29
+170,170.0,Gaurav Kumar,Raider,3,2.0,/players/gaurav-kumar,6,2313,/teams/u-mumba,5
+171,170.0,Amit Kharb,"Defender, right cover",6,2.0,/players/amit-kharb,6,793,/teams/gujarat-fortunegiants,31
+172,170.0,Vishav Chaudhary,"Defender, left cover",2,2.0,/players/vishav-chaudhary,6,698,/teams/up-yoddha,30
+173,170.0,N. Shiva Ramakrishna,All Rounder,1,2.0,/players/n--shiva-ramakrishna,6,708,/teams/jaipur-pink-panthers,3
+174,170.0,Shubham Ashok Palkar,Raider,4,2.0,/players/shubham-ashok-palkar,6,605,/teams/gujarat-fortunegiants,31
+175,170.0,Wazir Singh,Raider,2,2.0,/players/wazir-singh,6,124,/teams/haryana-steelers,28
+176,177.0,Tae Deok Eom,All Rounder,11,1.0,/players/tae-deok-eom,6,14,/teams/patna-pirates,6
+177,177.0,Nithesh B R,"Defender, right corner",2,1.0,/players/nithesh-b-r,6,74,/teams/bengaluru-bulls,1
+178,177.0,Bajirao Hodage,"Defender, right cover",6,1.0,/players/bajirao-hodage,6,164,/teams/jaipur-pink-panthers,3
+179,177.0,Sombir,Defender,4,1.0,/players/sombir,6,361,/teams/telugu-titans,8
+180,177.0,E Subash,All Rounder,2,1.0,/players/e-subash,6,690,/teams/u-mumba,5
+181,177.0,Tapas Pal,All Rounder,2,1.0,/players/tapas-pal,6,661,/teams/dabang-delhi-kc,2
+182,177.0,Pankaj,All Rounder,1,1.0,/players/pankaj,6,665,/teams/up-yoddha,30
+183,177.0,Arun Kumar HN,Raider,2,1.0,/players/arun-kumar-hn,6,2318,/teams/haryana-steelers,28
+184,177.0,Vikram Kandola,"Defender, left cover",1,1.0,/players/vikram-kandola,6,2351,/teams/gujarat-fortunegiants,31
+185,177.0,Aashish Nagar,"Defender, right corner",3,1.0,/players/aashish-nagar,6,2482,/teams/up-yoddha,30
+0,1.0,Kashiling Adake,Raider,14,117.0,/players/kashiling-adake,2,58,/teams/dabang-delhi-kc,2
+1,2.0,Manjeet Chhillar,All Rounder,16,107.0,/players/manjeet-chhillar,2,69,/teams/bengaluru-bulls,1
+2,2.0,Rahul Chaudhari,Raider,14,107.0,/players/rahul-chaudhari,2,81,/teams/telugu-titans,8
+3,4.0,Deepak Niwas Hooda,All Rounder,15,96.0,/players/deepak-niwas-hooda,2,41,/teams/telugu-titans,8
+4,5.0,Rajesh Narwal,All Rounder,14,87.0,/players/rajesh-narwal,2,86,/teams/jaipur-pink-panthers,3
+5,6.0,Sandeep Narwal,All Rounder,16,83.0,/players/sandeep-narwal,2,142,/teams/patna-pirates,6
+6,7.0,Anup Kumar,Raider,14,81.0,/players/anup-kumar,2,29,/teams/u-mumba,5
+7,8.0,Ajay Thakur,Raider,13,80.0,/players/ajay-thakur,2,26,/teams/bengaluru-bulls,1
+8,9.0,Jasvir Singh,Raider,13,74.0,/players/jasvir-singh,2,52,/teams/jaipur-pink-panthers,3
+9,10.0,Sandeep Kandola,"Defender, left corner",16,70.0,/players/sandeep-kandola,2,248,/teams/telugu-titans,8
+10,11.0,Wazir Singh,Raider,11,67.0,/players/wazir-singh,2,124,/teams/puneri-paltan,7
+11,12.0,Sukesh Hegde,Raider,13,64.0,/players/sukesh-hegde,2,111,/teams/telugu-titans,8
+12,12.0,Ravinder Pahal,"Defender, right corner",14,64.0,/players/ravinder-pahal,2,157,/teams/dabang-delhi-kc,2
+13,12.0,Rohit Kumar Choudary,Raider,14,64.0,/players/rohit-kumar-choudary,2,217,/teams/dabang-delhi-kc,2
+14,15.0,Kuldeep Singh,All Rounder,14,62.0,/players/kuldeep-singh,2,252,/teams/jaipur-pink-panthers,3
+15,16.0,Deepak Narwal,Raider,16,61.0,/players/deepak-narwal,2,211,/teams/patna-pirates,6
+16,16.0,Dharmaraj Cheralathan,"Defender, right and left corner",15,61.0,/players/dharmaraj-cheralathan,2,42,/teams/bengaluru-bulls,1
+17,18.0,Prashanth Kumar Rai,Raider,15,58.0,/players/prashanth-kumar-rai,2,155,/teams/telugu-titans,8
+18,18.0,Rishank Devadiga,Raider,13,58.0,/players/rishank-devadiga,2,94,/teams/u-mumba,5
+19,20.0,Mahendra Ganesh Rajput,Raider,12,56.0,/players/mahendra-ganesh-rajput,2,163,/teams/bengal-warriors,4
+20,21.0,Sonu Narwal,Raider,11,51.0,/players/sonu-narwal,2,190,/teams/jaipur-pink-panthers,3
+21,22.0,Jang Kun Lee,Raider,14,50.0,/players/jang-kun-lee,2,12,/teams/bengal-warriors,4
+22,23.0,Gurvinder Singh,Raider,16,49.0,/players/gurvinder-singh,2,46,/teams/patna-pirates,6
+23,24.0,Ravi Dalal,Raider,11,47.0,/players/ravi-dalal,2,92,/teams/patna-pirates,6
+24,24.0,Shabeer Bappu,Raider,10,47.0,/players/shabeer-bappu,2,105,/teams/u-mumba,5
+25,26.0,Ran Singh,All Rounder,14,44.0,/players/ran-singh,2,160,/teams/jaipur-pink-panthers,3
+26,26.0,Surender Nada,"Defender, left corner",14,44.0,/players/surender-nada,2,146,/teams/u-mumba,5
+27,28.0,Mohit Chhillar,"Defender, right corner",14,42.0,/players/mohit-chhillar,2,71,/teams/u-mumba,5
+28,28.0,Pravin Niwale,Raider,8,42.0,/players/pravin-niwale,2,79,/teams/puneri-paltan,7
+29,30.0,Sunil Jaipal,Raider,10,40.0,/players/sunil-jaipal,2,141,/teams/bengal-warriors,4
+30,31.0,Jeeva Kumar,"Defender, right and left cover",13,39.0,/players/jeeva-kumar,2,54,/teams/u-mumba,5
+31,32.0,Meraj Sheykh,All Rounder,15,38.0,/players/meraj-sheykh,2,251,/teams/telugu-titans,8
+32,33.0,Ravi Kumar,"Defender, right cover",13,37.0,/players/ravi-kumar,2,240,/teams/puneri-paltan,7
+33,34.0,Somvir Shekhar,"Defender, right cover",14,35.0,/players/somvir-shekhar,2,109,/teams/bengaluru-bulls,1
+34,35.0,Rajesh Mondal,Raider,15,34.0,/players/rajesh-mondal,2,85,/teams/bengaluru-bulls,1
+35,36.0,Nilesh Shinde,"Defender, right corner",12,30.0,/players/nilesh-shinde,2,73,/teams/bengal-warriors,4
+36,36.0,Bhupender Singh,All Rounder,11,30.0,/players/bhupender-singh,2,34,/teams/u-mumba,5
+37,36.0,Joginder Singh Narwal,"Defender, left corner",14,30.0,/players/joginder-singh-narwal,2,194,/teams/bengaluru-bulls,1
+38,36.0,D. Suresh Kumar,"Defender, right cover",16,30.0,/players/d--suresh-kumar,2,162,/teams/patna-pirates,6
+39,40.0,Girish Maruti Ernak,"Defender, left corner",13,27.0,/players/girish-maruti-ernak,2,161,/teams/patna-pirates,6
+40,41.0,Pradeep Kumar,Raider,6,26.0,/players/pradeep-kumar,2,171,/teams/u-mumba,5
+41,41.0,Vishal Mane,"Defender, right cover",14,26.0,/players/vishal-mane,2,123,/teams/u-mumba,5
+42,41.0,Amit Hooda,"Defender, right corner",12,26.0,/players/amit-hooda,2,212,/teams/patna-pirates,6
+43,44.0,Sunil,"Defender, left corner",9,24.0,/players/sunil,2,207,/teams/patna-pirates,6
+44,44.0,Sachin Khambe,"Defender, left corner",8,24.0,/players/sachin-khambe,2,98,/teams/bengal-warriors,4
+45,46.0,Mahipal Narwal,All Rounder,9,21.0,/players/mahipal-narwal,2,67,/teams/puneri-paltan,7
+46,46.0,Rakesh Narwal,Raider,11,21.0,/players/rakesh-narwal,2,204,/teams/bengaluru-bulls,1
+47,48.0,Manoj Kumar,"Defender, left cover",14,20.0,/players/manoj-kumar,2,70,/teams/puneri-paltan,7
+48,49.0,Shrikant Tewthia,All Rounder,9,19.0,/players/shrikant-tewthia,2,107,/teams/dabang-delhi-kc,2
+49,49.0,Rakesh Singh Kumar,"Defender, left cover",13,19.0,/players/rakesh-singh-kumar,2,158,/teams/dabang-delhi-kc,2
+50,49.0,Dinesh Kumar,All Rounder,8,19.0,/players/dinesh-kumar,2,182,/teams/bengal-warriors,4
+51,52.0,Rajaguru Subramanian,"Defender, right cover",12,18.0,/players/rajaguru-subramanian,2,84,/teams/telugu-titans,8
+52,53.0,Rakesh Kumar,All Rounder,4,17.0,/players/rakesh-kumar,2,88,/teams/patna-pirates,6
+53,53.0,Rohit Rana,"Defender, left cover",10,17.0,/players/rohit-rana,2,96,/teams/jaipur-pink-panthers,3
+54,53.0,Dadaso Balaso Awad,All Rounder,7,17.0,/players/dadaso-balaso-awad,2,38,/teams/dabang-delhi-kc,2
+55,56.0,Tae Deok Eom,All Rounder,8,16.0,/players/tae-deok-eom,2,14,/teams/patna-pirates,6
+56,56.0,Jitesh Joshi,All Rounder,5,16.0,/players/jitesh-joshi,2,55,/teams/puneri-paltan,7
+57,56.0,Pawan Kumar Kadian,Raider,10,16.0,/players/pawan-kumar-kadian,2,156,/teams/u-mumba,5
+58,56.0,Sanjay Kumar,All Rounder,7,16.0,/players/sanjay-kumar,2,243,/teams/puneri-paltan,7
+59,60.0,Tushar Patil,Raider,6,15.0,/players/tushar-patil,2,242,/teams/puneri-paltan,7
+60,61.0,Isac Antony,Raider,7,14.0,/players/isac-antony,2,238,/teams/telugu-titans,8
+61,61.0,Selvamani K,Raider,10,14.0,/players/selvamani-k,2,264,/teams/dabang-delhi-kc,2
+62,63.0,Yogesh Hooda,Raider,4,13.0,/players/yogesh-hooda,2,245,/teams/puneri-paltan,7
+63,63.0,Kedar Lal,Raider,9,13.0,/players/kedar-lal,2,180,/teams/bengal-warriors,4
+64,63.0,Ashish Chhokar,Raider,6,13.0,/players/ashish-chhokar,2,195,/teams/bengaluru-bulls,1
+65,63.0,Vijin Thangadurai,"Defender, right cover",7,13.0,/players/vijin-thangadurai,2,185,/teams/bengal-warriors,4
+66,63.0,Manoj Dhull,"Defender, right corner",7,13.0,/players/manoj-dhull,2,233,/teams/puneri-paltan,7
+67,63.0,Bajirao Hodage,"Defender, right cover",7,13.0,/players/bajirao-hodage,2,164,/teams/bengal-warriors,4
+68,63.0,Shyam Kumar Sah,"Defender, left cover",7,13.0,/players/shyam-kumar-sah,2,108,/teams/bengal-warriors,4
+69,70.0,Amit Singh Chhillar,"Defender, left corner",6,12.0,/players/amit-singh-chhillar,2,28,/teams/dabang-delhi-kc,2
+70,70.0,Amit Om Prakash Rathi,Raider,5,12.0,/players/amit-om-prakash-rathi,2,231,/teams/puneri-paltan,7
+71,70.0,Deepak Dhull,"Defender, left cover",8,12.0,/players/deepak-dhull,2,181,/teams/bengal-warriors,4
+72,70.0,Rohit Baliyan,Raider,5,12.0,/players/rohit-baliyan,2,261,/teams/telugu-titans,8
+73,70.0,Fazel Atrachali,"Defender, left corner",5,12.0,/players/fazel-atrachali,2,259,/teams/u-mumba,5
+74,75.0,C. Arun,"Defender, left cover",8,11.0,/players/c--arun,2,191,/teams/jaipur-pink-panthers,3
+75,75.0,Sachin Vittala,"Defender, left corner",4,11.0,/players/sachin-vittala,2,232,/teams/puneri-paltan,7
+76,75.0,Vijender Singh,"Defender, left corner",7,11.0,/players/vijender-singh,2,235,/teams/puneri-paltan,7
+77,75.0,Gangadhari Mallesh,Raider,10,11.0,/players/gangadhari-mallesh,2,44,/teams/jaipur-pink-panthers,3
+78,75.0,Kalimuthu Balamahendran,"Defender, left corner",6,11.0,/players/kalimuthu-balamahendran,2,56,/teams/puneri-paltan,7
+79,75.0,Prashant Chavan,"Defender, right corner",11,11.0,/players/prashant-chavan,2,147,/teams/jaipur-pink-panthers,3
+80,81.0,Preetam Chhillar,All Rounder,12,10.0,/players/preetam-chhillar,2,167,/teams/bengaluru-bulls,1
+81,81.0,Rupesh Tomar,All Rounder,6,10.0,/players/rupesh-tomar,2,97,/teams/telugu-titans,8
+82,81.0,G.S. Manikandan,"Defender, left cover",13,10.0,/players/g-s--manikandan,2,222,/teams/dabang-delhi-kc,2
+83,81.0,Vineet Sharma,Raider,8,10.0,/players/vineet-sharma,2,268,/teams/bengal-warriors,4
+84,85.0,Pardeep Narwal,Raider,6,9.0,/players/pardeep-narwal,2,197,/teams/bengaluru-bulls,1
+85,85.0,Vikas Kale,"Defender, right cover",8,9.0,/players/vikas-kale,2,179,/teams/bengal-warriors,4
+86,85.0,D. Gopu,"Defender, right and left corner",7,9.0,/players/d--gopu,2,152,/teams/telugu-titans,8
+87,88.0,Surender Singh,Raider,2,8.0,/players/surender-singh,2,234,/teams/puneri-paltan,7
+88,88.0,Amit Kumar Tomar,Raider,9,8.0,/players/amit-kumar-tomar,2,267,/teams/dabang-delhi-kc,2
+89,88.0,Harvinder Singh,"Defender, right cover",4,8.0,/players/harvinder-singh,2,246,/teams/puneri-paltan,7
+90,88.0,Ravi V.,Raider,2,8.0,/players/ravi-v-,2,244,/teams/puneri-paltan,7
+91,92.0,Hadi Oshtorak,All Rounder,4,7.0,/players/hadi-oshtorak,2,249,/teams/telugu-titans,8
+92,92.0,K. Prapanjan,Raider,4,7.0,/players/k--prapanjan,2,219,/teams/u-mumba,5
+93,94.0,Deepak Kumar Dahiya,Raider,2,6.0,/players/deepak-kumar-dahiya,2,174,/teams/bengaluru-bulls,1
+94,94.0,Parveen M. Jangra,"Defender, left cover",6,6.0,/players/parveen-m--jangra,2,178,/teams/bengal-warriors,4
+95,96.0,Deepak Kumar,"Defender, left corner",4,5.0,/players/deepak-kumar,2,184,/teams/bengal-warriors,4
+96,96.0,Ashish Kumar,"Defender, right cover",5,5.0,/players/ashish-kumar,2,202,/teams/bengaluru-bulls,1
+97,96.0,Varinder Singh,"Defender, left cover",8,5.0,/players/varinder-singh,2,208,/teams/patna-pirates,6
+98,96.0,Vijay Malik,Raider,7,5.0,/players/vijay-malik,2,260,/teams/patna-pirates,6
+99,100.0,T. Prasad,All Rounder,6,4.0,/players/t--prasad,2,236,/teams/telugu-titans,8
+100,100.0,Rajeev Kumar,"Defender, left corner",3,4.0,/players/rajeev-kumar,2,223,/teams/dabang-delhi-kc,2
+101,100.0,Sagar Khatale,"Defender, right corner",4,4.0,/players/sagar-khatale,2,169,/teams/puneri-paltan,7
+102,100.0,Seong Ryeol Kim,Defender,4,4.0,/players/seong-ryeol-kim,2,13,/teams/bengal-warriors,4
+103,104.0,Mahesh Goud,Raider,1,3.0,/players/mahesh-goud,2,66,/teams/bengal-warriors,4
+104,104.0,Hyunil Park,All Rounder,2,3.0,/players/hyunil-park,2,250,/teams/telugu-titans,8
+105,106.0,Sandeep Tomar,Raider,3,2.0,/players/sandeep-tomar,2,225,/teams/dabang-delhi-kc,2
+106,106.0,Ravit Kumar,Raider,3,2.0,/players/ravit-kumar,2,241,/teams/telugu-titans,8
+107,106.0,Sandeep Malik,"Defender, left corner",1,2.0,/players/sandeep-malik,2,205,/teams/bengaluru-bulls,1
+108,106.0,Aman Kumar,"Defender, left cover",4,2.0,/players/aman-kumar,2,206,/teams/patna-pirates,6
+109,106.0,Anoop E.V.,Raider,2,2.0,/players/anoop-e-v-,2,221,/teams/u-mumba,5
+110,106.0,Jasmer Singh Gulia,All Rounder,3,2.0,/players/jasmer-singh-gulia,2,51,/teams/dabang-delhi-kc,2
+111,106.0,Nitin More,"Defender, left cover",3,2.0,/players/nitin-more,2,76,/teams/puneri-paltan,7
+112,106.0,Suresu Kumar,Raider,1,2.0,/players/suresu-kumar,2,173,/teams/u-mumba,5
+113,106.0,Sachin Shingade,"Defender, left cover",4,2.0,/players/sachin-shingade,2,165,/teams/telugu-titans,8
+114,106.0,Samarjeet Singh,All Rounder,5,2.0,/players/samarjeet-singh,2,159,/teams/jaipur-pink-panthers,3
+115,116.0,Navneet Gautam,"Defender, left corner",7,1.0,/players/navneet-gautam,2,72,/teams/jaipur-pink-panthers,3
+116,116.0,Jeeva Gopal,"Defender, left cover",2,1.0,/players/jeeva-gopal,2,53,/teams/u-mumba,5
+117,116.0,Sinotharan Kanesharajah,Raider,2,1.0,/players/sinotharan-kanesharajah,2,21,/teams/bengaluru-bulls,1
+118,116.0,Balbir Singh,All Rounder,2,1.0,/players/balbir-singh,2,32,/teams/jaipur-pink-panthers,3
+119,116.0,Gurpreet Singh,"Defender, right corner",2,1.0,/players/gurpreet-singh,2,45,/teams/bengaluru-bulls,1
+120,116.0,Simon Kibura,Raider,3,1.0,/players/simon-kibura,2,10,/teams/puneri-paltan,7
+121,116.0,Chandran Ranjit,Raider,1,1.0,/players/chandran-ranjit,2,36,/teams/telugu-titans,8
+122,116.0,Inderpal Bishnoi,Raider,2,1.0,/players/inderpal-bishnoi,2,224,/teams/dabang-delhi-kc,2
+123,116.0,Amit Kumar,All Rounder,1,1.0,/players/amit-kumar,2,237,/teams/puneri-paltan,7
+124,116.0,Kazuhiro Takano,All Rounder,2,1.0,/players/kazuhiro-takano,2,199,/teams/jaipur-pink-panthers,3
+125,116.0,Mohammad Maghshoudulu,All Rounder,4,1.0,/players/mohammad-maghshoudulu,2,200,/teams/jaipur-pink-panthers,3
+126,116.0,Adinath Sakharam Gavali,"Defender, right and left cover",1,1.0,/players/adinath-sakharam-gavali,2,201,/teams/bengaluru-bulls,1
+127,116.0,Jishnu,"Defender, right cover",3,1.0,/players/jishnu,2,239,/teams/telugu-titans,8
+0,1.0,Pardeep Narwal,Raider,16,121.0,/players/pardeep-narwal,3,197,/teams/patna-pirates,6
+1,2.0,Rishank Devadiga,Raider,16,115.0,/players/rishank-devadiga,3,94,/teams/u-mumba,5
+2,3.0,Rohit Kumar,Raider,12,109.0,/players/rohit-kumar,3,326,/teams/patna-pirates,6
+3,4.0,Manjeet Chhillar,All Rounder,15,106.0,/players/manjeet-chhillar,3,69,/teams/puneri-paltan,7
+4,5.0,Rahul Chaudhari,Raider,13,99.0,/players/rahul-chaudhari,3,81,/teams/telugu-titans,8
+5,6.0,Jang Kun Lee,Raider,15,90.0,/players/jang-kun-lee,3,12,/teams/bengal-warriors,4
+6,7.0,Nitin Tomar,Raider,10,81.0,/players/nitin-tomar,3,320,/teams/bengal-warriors,4
+7,8.0,Rajesh Narwal,All Rounder,14,80.0,/players/rajesh-narwal,3,86,/teams/jaipur-pink-panthers,3
+8,9.0,Anup Kumar,Raider,13,79.0,/players/anup-kumar,3,29,/teams/u-mumba,5
+9,10.0,Kashiling Adake,Raider,11,78.0,/players/kashiling-adake,3,58,/teams/dabang-delhi-kc,2
+10,11.0,Deepak Niwas Hooda,All Rounder,12,76.0,/players/deepak-niwas-hooda,3,41,/teams/puneri-paltan,7
+11,12.0,CPO Surjeet Singh,Raider,12,68.0,/players/cpo-surjeet-singh,3,119,/teams/dabang-delhi-kc,2
+12,13.0,Sukesh Hegde,Raider,13,64.0,/players/sukesh-hegde,3,111,/teams/telugu-titans,8
+13,13.0,Sandeep Narwal,All Rounder,14,64.0,/players/sandeep-narwal,3,142,/teams/patna-pirates,6
+14,15.0,Ajay Thakur,Raider,14,56.0,/players/ajay-thakur,3,26,/teams/puneri-paltan,7
+15,15.0,Rohit Baliyan,Raider,11,56.0,/players/rohit-baliyan,3,261,/teams/telugu-titans,8
+16,17.0,Sonu Narwal,Raider,11,55.0,/players/sonu-narwal,3,190,/teams/jaipur-pink-panthers,3
+17,18.0,Pawan Kumar Sehrawat,Raider,13,53.0,/players/pawan-kumar-sehrawat,3,318,/teams/bengaluru-bulls,1
+18,19.0,Rakesh Kumar,All Rounder,15,51.0,/players/rakesh-kumar,3,88,/teams/u-mumba,5
+19,20.0,PO Surjeet Singh,"Defender, right cover",12,49.0,/players/po-surjeet-singh,3,322,/teams/puneri-paltan,7
+20,21.0,Meraj Sheykh,All Rounder,14,48.0,/players/meraj-sheykh,3,251,/teams/telugu-titans,8
+21,22.0,Jasmer Singh Gulia,All Rounder,16,46.0,/players/jasmer-singh-gulia,3,51,/teams/puneri-paltan,7
+22,22.0,Mohit Chhillar,"Defender, right corner",13,46.0,/players/mohit-chhillar,3,71,/teams/u-mumba,5
+23,24.0,Surender Singh,Raider,12,45.0,/players/surender-singh,3,234,/teams/puneri-paltan,7
+24,25.0,Surjeet Narwal,Raider,12,43.0,/players/surjeet-narwal,3,118,/teams/bengaluru-bulls,1
+25,26.0,Ran Singh,All Rounder,14,41.0,/players/ran-singh,3,160,/teams/jaipur-pink-panthers,3
+26,27.0,Selvamani K,Raider,8,39.0,/players/selvamani-k,3,264,/teams/dabang-delhi-kc,2
+27,28.0,Bajirao Hodage,"Defender, right cover",16,37.0,/players/bajirao-hodage,3,164,/teams/bengal-warriors,4
+28,28.0,Deepak Kumar Dahiya,Raider,10,37.0,/players/deepak-kumar-dahiya,3,174,/teams/bengaluru-bulls,1
+29,28.0,Dharmaraj Cheralathan,"Defender, right and left corner",14,37.0,/players/dharmaraj-cheralathan,3,42,/teams/telugu-titans,8
+30,31.0,Nilesh Shinde,"Defender, right corner",16,36.0,/players/nilesh-shinde,3,73,/teams/bengal-warriors,4
+31,31.0,Amit Om Prakash Rathi,Raider,8,36.0,/players/amit-om-prakash-rathi,3,231,/teams/bengaluru-bulls,1
+32,33.0,Mahesh Goud,Raider,13,34.0,/players/mahesh-goud,3,66,/teams/bengal-warriors,4
+33,33.0,Girish Maruti Ernak,"Defender, left corner",11,34.0,/players/girish-maruti-ernak,3,161,/teams/bengal-warriors,4
+34,33.0,Ravinder Pahal,"Defender, right corner",11,34.0,/players/ravinder-pahal,3,157,/teams/dabang-delhi-kc,2
+35,36.0,Shrikant Tewthia,All Rounder,13,33.0,/players/shrikant-tewthia,3,107,/teams/bengaluru-bulls,1
+36,36.0,Deepak Narwal,Raider,9,33.0,/players/deepak-narwal,3,211,/teams/patna-pirates,6
+37,36.0,Fazel Atrachali,"Defender, left corner",11,33.0,/players/fazel-atrachali,3,259,/teams/u-mumba,5
+38,39.0,Sandeep Kumar Dhull,"Defender, left corner",10,32.0,/players/sandeep-kumar-dhull,3,290,/teams/dabang-delhi-kc,2
+39,39.0,Ashish Kumar,"Defender, right cover",13,32.0,/players/ashish-kumar,3,202,/teams/bengaluru-bulls,1
+40,41.0,Jeeva Kumar,"Defender, right and left cover",16,31.0,/players/jeeva-kumar,3,54,/teams/u-mumba,5
+41,42.0,Sunil,"Defender, left corner",15,30.0,/players/sunil,3,207,/teams/patna-pirates,6
+42,43.0,Manpreet Singh,Raider,13,29.0,/players/manpreet-singh,3,309,/teams/patna-pirates,6
+43,44.0,Rajesh Mondal,Raider,9,28.0,/players/rajesh-mondal,3,85,/teams/patna-pirates,6
+44,45.0,Mahendra Ganesh Rajput,Raider,8,26.0,/players/mahendra-ganesh-rajput,3,163,/teams/bengal-warriors,4
+45,46.0,Jasvir Singh,Raider,4,25.0,/players/jasvir-singh,3,52,/teams/jaipur-pink-panthers,3
+46,47.0,Somvir,"Defender, left cover",14,22.0,/players/somvir,3,314,/teams/bengaluru-bulls,1
+47,47.0,Tushar Patil,Raider,13,22.0,/players/tushar-patil,3,242,/teams/puneri-paltan,7
+48,49.0,Kuldeep Singh,All Rounder,10,21.0,/players/kuldeep-singh,3,252,/teams/jaipur-pink-panthers,3
+49,49.0,Anil Kumar,"Defender, left cover",11,21.0,/players/anil-kumar,3,311,/teams/dabang-delhi-kc,2
+50,51.0,Umesh Mhatre,Raider,6,19.0,/players/umesh-mhatre,3,272,/teams/bengal-warriors,4
+51,51.0,Anil Shriram Nimbolkar,Raider,6,19.0,/players/anil-shriram-nimbolkar,3,277,/teams/dabang-delhi-kc,2
+52,53.0,Hadi Oshtorak,All Rounder,10,18.0,/players/hadi-oshtorak,3,249,/teams/patna-pirates,6
+53,53.0,Rohit Rana,"Defender, left cover",12,18.0,/players/rohit-rana,3,96,/teams/jaipur-pink-panthers,3
+54,53.0,D. Suresh Kumar,"Defender, right cover",12,18.0,/players/d--suresh-kumar,3,162,/teams/patna-pirates,6
+55,53.0,C. Arun,"Defender, left cover",11,18.0,/players/c--arun,3,191,/teams/jaipur-pink-panthers,3
+56,57.0,Manoj Kumar,"Defender, left cover",11,17.0,/players/manoj-kumar,3,70,/teams/telugu-titans,8
+57,57.0,Deepak Kumar Rathee,All Rounder,14,17.0,/players/deepak-kumar-rathee,3,275,/teams/bengaluru-bulls,1
+58,59.0,Vinod Kumar,"Defender, left cover",9,16.0,/players/vinod-kumar,3,215,/teams/patna-pirates,6
+59,59.0,Rohit Kumar Choudary,Raider,7,16.0,/players/rohit-kumar-choudary,3,217,/teams/dabang-delhi-kc,2
+60,59.0,Vinoth Kumar,Raider,7,16.0,/players/vinoth-kumar,3,172,/teams/bengaluru-bulls,1
+61,59.0,Vishal Mane,"Defender, right cover",13,16.0,/players/vishal-mane,3,123,/teams/u-mumba,5
+62,63.0,Surender Nada,"Defender, left corner",7,14.0,/players/surender-nada,3,146,/teams/u-mumba,5
+63,63.0,Mohammad Maghshoudulu,All Rounder,10,14.0,/players/mohammad-maghshoudulu,3,200,/teams/jaipur-pink-panthers,3
+64,63.0,Preetam Chhillar,All Rounder,11,14.0,/players/preetam-chhillar,3,167,/teams/bengaluru-bulls,1
+65,63.0,Rahul Kumar,"Defender, right cover",11,14.0,/players/rahul-kumar,3,288,/teams/telugu-titans,8
+66,67.0,Mahipal Narwal,All Rounder,4,13.0,/players/mahipal-narwal,3,67,/teams/patna-pirates,6
+67,67.0,Shabeer Bappu,Raider,10,13.0,/players/shabeer-bappu,3,105,/teams/u-mumba,5
+68,69.0,Bhupender Singh,All Rounder,11,12.0,/players/bhupender-singh,3,34,/teams/u-mumba,5
+69,69.0,Vikas Kale,"Defender, right cover",9,12.0,/players/vikas-kale,3,179,/teams/telugu-titans,8
+70,69.0,Prashanth Kumar Rai,Raider,13,12.0,/players/prashanth-kumar-rai,3,155,/teams/telugu-titans,8
+71,69.0,Shyam Kumar Sah,"Defender, left cover",7,12.0,/players/shyam-kumar-sah,3,108,/teams/bengal-warriors,4
+72,73.0,Amit Hooda,"Defender, right corner",4,11.0,/players/amit-hooda,3,212,/teams/patna-pirates,6
+73,74.0,Nilesh Salunke,Raider,7,10.0,/players/nilesh-salunke,3,293,/teams/puneri-paltan,7
+74,74.0,Gangadhari Mallesh,Raider,10,10.0,/players/gangadhari-mallesh,3,44,/teams/jaipur-pink-panthers,3
+75,74.0,Shrikant Jadhav,Raider,5,10.0,/players/shrikant-jadhav,3,106,/teams/bengal-warriors,4
+76,77.0,Vineet Sharma,Raider,4,9.0,/players/vineet-sharma,3,268,/teams/bengal-warriors,4
+77,77.0,Ravi Kumar,"Defender, right cover",12,9.0,/players/ravi-kumar,3,240,/teams/puneri-paltan,7
+78,79.0,Yogesh Hooda,Raider,6,8.0,/players/yogesh-hooda,3,245,/teams/puneri-paltan,7
+79,79.0,Anil Kashinath Patil,All Rounder,5,8.0,/players/anil-kashinath-patil,3,285,/teams/jaipur-pink-panthers,3
+80,79.0,Samarjeet Singh,All Rounder,5,8.0,/players/samarjeet-singh,3,159,/teams/jaipur-pink-panthers,3
+81,82.0,Gnanasekaran M,"Defender, right corner",8,7.0,/players/gnanasekaran-m,3,278,/teams/dabang-delhi-kc,2
+82,82.0,Virender Wazir Singh,Raider,4,7.0,/players/virender-wazir-singh,3,313,/teams/telugu-titans,8
+83,84.0,Sachin Shingade,"Defender, left cover",2,6.0,/players/sachin-shingade,3,165,/teams/puneri-paltan,7
+84,84.0,Pawan Kumar Kadian,Raider,5,6.0,/players/pawan-kumar-kadian,3,156,/teams/u-mumba,5
+85,84.0,Rajaguru Subramanian,"Defender, right cover",7,6.0,/players/rajaguru-subramanian,3,84,/teams/dabang-delhi-kc,2
+86,84.0,Gurvinder Singh,Raider,5,6.0,/players/gurvinder-singh,3,46,/teams/patna-pirates,6
+87,88.0,Amit Singh Chhillar,"Defender, left corner",5,5.0,/players/amit-singh-chhillar,3,28,/teams/dabang-delhi-kc,2
+88,88.0,Seong Ryeol Kim,Defender,8,5.0,/players/seong-ryeol-kim,3,13,/teams/dabang-delhi-kc,2
+89,88.0,Nitin More,"Defender, left cover",10,5.0,/players/nitin-more,3,76,/teams/bengal-warriors,4
+90,88.0,Jagdeesha K.K.,"Defender, right corner",7,5.0,/players/jagdeesha-k-k-,3,283,/teams/jaipur-pink-panthers,3
+91,92.0,Navneet Gautam,"Defender, left corner",7,4.0,/players/navneet-gautam,3,72,/teams/jaipur-pink-panthers,3
+92,92.0,Sunil Jaipal,Raider,2,4.0,/players/sunil-jaipal,3,141,/teams/patna-pirates,6
+93,92.0,Deepak Kumar,"Defender, left corner",3,4.0,/players/deepak-kumar,3,184,/teams/bengal-warriors,4
+94,95.0,Rakesh Singh Kumar,"Defender, left cover",8,3.0,/players/rakesh-singh-kumar,3,158,/teams/dabang-delhi-kc,2
+95,95.0,Prashant Chavan,"Defender, right corner",6,3.0,/players/prashant-chavan,3,147,/teams/puneri-paltan,7
+96,95.0,Kuldeep Singh,"Defender, left corner",1,3.0,/players/kuldeep-singh,3,61,/teams/dabang-delhi-kc,2
+97,95.0,Sandeep,"Defender, left corner",3,3.0,/players/sandeep,3,299,/teams/patna-pirates,6
+98,99.0,Sushil Vijay Bhosle,"Defender, left cover",2,2.0,/players/sushil-vijay-bhosle,3,308,/teams/dabang-delhi-kc,2
+99,99.0,Darshan Kadian,Raider,2,2.0,/players/darshan-kadian,3,324,/teams/patna-pirates,6
+100,99.0,Nirbhay Narwal,"Defender, left corner",2,2.0,/players/nirbhay-narwal,3,316,/teams/bengaluru-bulls,1
+101,99.0,Jay Bahadur Bohara,Raider,1,2.0,/players/jay-bahadur-bohara,3,263,/teams/dabang-delhi-kc,2
+102,99.0,Vinoth Paulyas,Raider,3,2.0,/players/vinoth-paulyas,3,227,/teams/u-mumba,5
+103,99.0,K. Prapanjan,Raider,4,2.0,/players/k--prapanjan,3,219,/teams/u-mumba,5
+104,99.0,Simon Kibura,Raider,2,2.0,/players/simon-kibura,3,10,/teams/puneri-paltan,7
+105,99.0,Parmod Narwal,All Rounder,4,2.0,/players/parmod-narwal,3,150,/teams/bengaluru-bulls,1
+106,99.0,Vijin Thangadurai,"Defender, right cover",4,2.0,/players/vijin-thangadurai,3,185,/teams/bengal-warriors,4
+107,99.0,Suresu Kumar,Raider,3,2.0,/players/suresu-kumar,3,173,/teams/u-mumba,5
+108,109.0,Deepak Dhull,"Defender, left cover",1,1.0,/players/deepak-dhull,3,181,/teams/bengal-warriors,4
+109,109.0,Rohit Kumar Prajapat,Raider,3,1.0,/players/rohit-kumar-prajapat,3,193,/teams/jaipur-pink-panthers,3
+110,109.0,D. Gopu,"Defender, right and left corner",2,1.0,/players/d--gopu,3,152,/teams/telugu-titans,8
+111,109.0,Tae Deok Eom,All Rounder,7,1.0,/players/tae-deok-eom,3,14,/teams/patna-pirates,6
+112,109.0,Pravin Niwale,Raider,2,1.0,/players/pravin-niwale,3,79,/teams/dabang-delhi-kc,2
+113,109.0,Raju Lal Choudhary,"Defender, right corner",1,1.0,/players/raju-lal-choudhary,3,87,/teams/jaipur-pink-panthers,3
+114,109.0,G.S. Manikandan,"Defender, left cover",7,1.0,/players/g-s--manikandan,3,222,/teams/dabang-delhi-kc,2
+115,109.0,T. Prasad,All Rounder,3,1.0,/players/t--prasad,3,236,/teams/telugu-titans,8
+116,109.0,Isac Antony,Raider,2,1.0,/players/isac-antony,3,238,/teams/telugu-titans,8
+117,109.0,Navjot Singh,"Defender, right cover",1,1.0,/players/navjot-singh,3,296,/teams/dabang-delhi-kc,2
+118,109.0,Hardeep Duhan,"Defender, right corner",1,1.0,/players/hardeep-duhan,3,317,/teams/bengaluru-bulls,1
+119,109.0,Parvesh Attri,Raider,1,1.0,/players/parvesh-attri,3,315,/teams/bengaluru-bulls,1
+120,109.0,Ravinandan G.M.,"Defender, left corner",1,1.0,/players/ravinandan-g-m-,3,307,/teams/dabang-delhi-kc,2
+121,109.0,Sanju,Raider,4,1.0,/players/sanju,3,312,/teams/telugu-titans,8
+122,116.0,Inderpal Bishnoi,Raider,2,1.0,/players/inderpal-bishnoi,3,224,/teams/dabang-delhi-kc,2
+123,116.0,Amit Kumar,All Rounder,1,1.0,/players/amit-kumar,3,237,/teams/puneri-paltan,7
+124,116.0,Kazuhiro Takano,All Rounder,2,1.0,/players/kazuhiro-takano,3,199,/teams/jaipur-pink-panthers,3
+125,116.0,Mohammad Maghshoudulu,All Rounder,4,1.0,/players/mohammad-maghshoudulu,3,200,/teams/jaipur-pink-panthers,3
+126,116.0,Adinath Sakharam Gavali,"Defender, right and left cover",1,1.0,/players/adinath-sakharam-gavali,3,201,/teams/bengaluru-bulls,1
+127,116.0,Jishnu,"Defender, right cover",3,1.0,/players/jishnu,3,239,/teams/telugu-titans,8
+0,1.0,Pawan Kumar Sehrawat,Raider,17,228.0,/players/pawan-kumar-sehrawat,7,318,/teams/bengaluru-bulls,1
+1,2.0,Pardeep Narwal,Raider,17,207.0,/players/pardeep-narwal,7,197,/teams/patna-pirates,6
+2,3.0,Naveen Kumar,Raider,16,199.0,/players/naveen-kumar,7,2296,/teams/dabang-delhi-kc,2
+3,4.0,Maninder Singh,Raider,17,156.0,/players/maninder-singh,7,143,/teams/bengal-warriors,4
+4,5.0,Siddharth Sirish Desai,Raider,16,140.0,/players/siddharth-sirish-desai,7,2026,/teams/telugu-titans,8
+5,6.0,Vikash Kandola,Raider,13,129.0,/players/vikash-kandola,7,366,/teams/haryana-steelers,28
+6,7.0,Deepak Niwas Hooda,All Rounder,16,120.0,/players/deepak-niwas-hooda,7,41,/teams/jaipur-pink-panthers,3
+7,8.0,Manjeet,Raider,18,118.0,/players/manjeet,7,763,/teams/puneri-paltan,7
+8,9.0,Rahul Chaudhari,Raider,17,115.0,/players/rahul-chaudhari,7,81,/teams/tamil-thalaivas,29
+9,10.0,Pankaj Mohite,Raider,15,99.0,/players/pankaj-mohite,7,2661,/teams/puneri-paltan,7
+10,11.0,Shrikant Jadhav,Raider,16,98.0,/players/shrikant-jadhav,7,106,/teams/up-yoddha,30
+11,12.0,K. Prapanjan,Raider,17,96.0,/players/k--prapanjan,7,219,/teams/bengal-warriors,4
+12,13.0,Rohit Gulia,All Rounder,16,93.0,/players/rohit-gulia,7,686,/teams/gujarat-fortunegiants,31
+13,14.0,Rohit Kumar,Raider,17,92.0,/players/rohit-kumar,7,326,/teams/bengaluru-bulls,1
+14,15.0,Mohammad Esmaeil Nabibakhsh,All Rounder,17,91.0,/players/mohammad-esmaeil-nabibakhsh,7,484,/teams/bengal-warriors,4
+15,16.0,Abhishek Singh,Raider,14,88.0,/players/abhishek-singh,7,2028,/teams/u-mumba,5
+16,17.0,V. Ajith Kumar,Raider,14,85.0,/players/v--ajith-kumar,7,2508,/teams/tamil-thalaivas,29
+17,18.0,Vinay,Raider,16,81.0,/players/vinay,7,2488,/teams/haryana-steelers,28
+18,19.0,Sachin Tanwar,Raider,14,79.0,/players/sachin-tanwar,7,757,/teams/gujarat-fortunegiants,31
+19,19.0,Chandran Ranjit,Raider,15,79.0,/players/chandran-ranjit,7,36,/teams/dabang-delhi-kc,2
+20,21.0,Arjun Deshwal,Raider,15,78.0,/players/arjun-deshwal,7,2024,/teams/u-mumba,5
+21,22.0,Naveen,Raider,13,58.0,/players/naveen,7,2357,/teams/haryana-steelers,28
+22,22.0,Ajay Thakur,Raider,13,58.0,/players/ajay-thakur,7,26,/teams/tamil-thalaivas,29
+23,22.0,Vishal Bhardwaj,Defender,16,58.0,/players/vishal-bhardwaj,7,358,/teams/telugu-titans,8
+24,22.0,Sandeep Kumar Dhull,"Defender, left corner",16,58.0,/players/sandeep-kumar-dhull,7,290,/teams/jaipur-pink-panthers,3
+25,26.0,Fazel Atrachali,"Defender, left corner",16,55.0,/players/fazel-atrachali,7,259,/teams/u-mumba,5
+26,26.0,Sumit,"Defender, left corner",16,55.0,/players/sumit,7,2330,/teams/up-yoddha,30
+27,28.0,PO Surjeet Singh,"Defender, right cover",18,53.0,/players/po-surjeet-singh,7,322,/teams/puneri-paltan,7
+28,29.0,Nitin Tomar,Raider,11,52.0,/players/nitin-tomar,7,320,/teams/puneri-paltan,7
+29,30.0,Sandeep Narwal,All Rounder,16,51.0,/players/sandeep-narwal,7,142,/teams/u-mumba,5
+30,30.0,More GB,Raider,14,51.0,/players/more-gb,7,772,/teams/gujarat-fortunegiants,31
+31,32.0,Baldev Singh,"Defender, right corner",17,50.0,/players/baldev-singh,7,621,/teams/bengal-warriors,4
+32,33.0,Surender Gill,Raider,13,48.0,/players/surender-gill,7,2286,/teams/up-yoddha,30
+33,34.0,Neeraj Kumar,"Defender, right cover",17,47.0,/players/neeraj-kumar,7,637,/teams/patna-pirates,6
+34,34.0,Nitin Rawal,All Rounder,12,47.0,/players/nitin-rawal,7,791,/teams/jaipur-pink-panthers,3
+35,36.0,Mahender Singh,"Defender, left cover",15,46.0,/players/mahender-singh,7,769,/teams/bengaluru-bulls,1
+36,36.0,Monu Goyat,Raider,9,46.0,/players/monu-goyat,7,388,/teams/up-yoddha,30
+37,38.0,Farhad Rahimi Milaghardan,All Rounder,16,45.0,/players/farhad-rahimi-milaghardan,7,482,/teams/telugu-titans,8
+38,38.0,Suraj Desai,Raider,12,45.0,/players/suraj-desai,7,115,/teams/telugu-titans,8
+39,38.0,Rinku Narwal,Defender,17,45.0,/players/rinku-narwal,7,796,/teams/bengal-warriors,4
+40,38.0,Jaideep,"Defender, left corner",17,45.0,/players/jaideep,7,579,/teams/patna-pirates,6
+41,42.0,Ravinder Pahal,"Defender, right corner",16,44.0,/players/ravinder-pahal,7,157,/teams/dabang-delhi-kc,2
+42,42.0,Sunil Kumar,Defender,16,44.0,/players/sunil-kumar,7,368,/teams/gujarat-fortunegiants,31
+43,44.0,Nitesh Kumar,Defender,16,43.0,/players/nitesh-kumar,7,725,/teams/up-yoddha,30
+44,45.0,Surinder Singh,Defender,16,42.0,/players/surinder-singh,7,733,/teams/u-mumba,5
+45,45.0,Rohit Baliyan,Raider,13,42.0,/players/rohit-baliyan,7,261,/teams/u-mumba,5
+46,45.0,Rishank Devadiga,Raider,12,42.0,/players/rishank-devadiga,7,94,/teams/up-yoddha,30
+47,45.0,Saurabh Nandal,"Defender, left corner",16,42.0,/players/saurabh-nandal,7,2670,/teams/bengaluru-bulls,1
+48,49.0,Joginder Singh Narwal,"Defender, left corner",16,41.0,/players/joginder-singh-narwal,7,194,/teams/dabang-delhi-kc,2
+49,49.0,Hadi Oshtorak,All Rounder,17,41.0,/players/hadi-oshtorak,7,249,/teams/patna-pirates,6
+50,51.0,Manjeet Chhillar,All Rounder,14,40.0,/players/manjeet-chhillar,7,69,/teams/tamil-thalaivas,29
+51,52.0,Sunil,"Defender, right corner",14,39.0,/players/sunil,7,2462,/teams/haryana-steelers,28
+52,53.0,Dharmaraj Cheralathan,"Defender, right and left corner",15,38.0,/players/dharmaraj-cheralathan,7,42,/teams/haryana-steelers,28
+53,53.0,Prashanth Kumar Rai,Raider,10,38.0,/players/prashanth-kumar-rai,7,155,/teams/haryana-steelers,28
+54,53.0,Deepak Narwal,Raider,14,38.0,/players/deepak-narwal,7,211,/teams/jaipur-pink-panthers,3
+55,56.0,Jang Kun Lee,Raider,11,36.0,/players/jang-kun-lee,7,12,/teams/patna-pirates,6
+56,56.0,Mohit Chhillar,"Defender, right corner",16,36.0,/players/mohit-chhillar,7,71,/teams/tamil-thalaivas,29
+57,56.0,Athul MS,Raider,12,36.0,/players/athul-ms,7,376,/teams/u-mumba,5
+58,56.0,Monu,Raider,17,36.0,/players/monu,7,795,/teams/patna-pirates,6
+59,60.0,Amit Kumar,Raider,12,35.0,/players/amit-kumar,7,2291,/teams/puneri-paltan,7
+60,60.0,Mohammad Esmaeil Maghsoudlou Mahalli,Raider,16,35.0,/players/mohammad-esmaeil-maghsoudlou-mahalli,7,571,/teams/patna-pirates,6
+61,60.0,Vikas Kale,"Defender, right cover",15,35.0,/players/vikas-kale,7,179,/teams/haryana-steelers,28
+62,63.0,Abozar Mohajermighani,Defender,16,34.0,/players/abozar-mohajermighani,7,489,/teams/telugu-titans,8
+63,63.0,Sumit Singh,Raider,13,34.0,/players/sumit-singh,7,363,/teams/bengaluru-bulls,1
+64,63.0,Parvesh Bhainswal,"Defender, left cover",16,34.0,/players/parvesh-bhainswal,7,357,/teams/gujarat-fortunegiants,31
+65,63.0,Amit Sheoran,Defender,17,34.0,/players/amit-sheoran,7,794,/teams/bengaluru-bulls,1
+66,67.0,Vijay,All Rounder,15,33.0,/players/vijay,7,745,/teams/dabang-delhi-kc,2
+67,68.0,Sonu Jaglan,Raider,11,32.0,/players/sonu-jaglan,7,2485,/teams/gujarat-fortunegiants,31
+68,69.0,Ravi Kumar,"Defender, right cover",14,31.0,/players/ravi-kumar,7,240,/teams/haryana-steelers,28
+69,69.0,Meraj Sheykh,All Rounder,12,31.0,/players/meraj-sheykh,7,251,/teams/dabang-delhi-kc,2
+70,69.0,Ran Singh,All Rounder,16,31.0,/players/ran-singh,7,160,/teams/tamil-thalaivas,29
+71,69.0,Amit Hooda,"Defender, right corner",12,31.0,/players/amit-hooda,7,212,/teams/jaipur-pink-panthers,3
+72,73.0,Girish Maruti Ernak,"Defender, left corner",13,29.0,/players/girish-maruti-ernak,7,161,/teams/puneri-paltan,7
+73,73.0,Shabeer Bappu,Raider,13,29.0,/players/shabeer-bappu,7,105,/teams/tamil-thalaivas,29
+74,73.0,Sukesh Hegde,Raider,10,29.0,/players/sukesh-hegde,7,111,/teams/bengal-warriors,4
+75,76.0,Jeeva Kumar,"Defender, right and left cover",16,28.0,/players/jeeva-kumar,7,54,/teams/bengal-warriors,4
+76,76.0,Nilesh Salunke,Raider,14,28.0,/players/nilesh-salunke,7,293,/teams/jaipur-pink-panthers,3
+77,76.0,Rajnish,Raider,8,28.0,/players/rajnish,7,2290,/teams/telugu-titans,8
+78,76.0,Ashu Singh,"Defender, right cover",16,28.0,/players/ashu-singh,7,2657,/teams/up-yoddha,30
+79,80.0,Jadhav Balasaheb Shahaji,"Defender, right cover",16,27.0,/players/jadhav-balasaheb-shahaji,7,2492,/teams/puneri-paltan,7
+80,80.0,Vishal,All Rounder,10,27.0,/players/vishal,7,735,/teams/jaipur-pink-panthers,3
+81,82.0,Vikas Jaglan,All Rounder,17,25.0,/players/vikas-jaglan,7,121,/teams/patna-pirates,6
+82,82.0,Pawan Kumar Kadian,Raider,6,25.0,/players/pawan-kumar-kadian,7,156,/teams/puneri-paltan,7
+83,84.0,Rakesh Gowda,Raider,7,24.0,/players/rakesh-gowda,7,684,/teams/telugu-titans,8
+84,85.0,Amit,"Defender, left cover",16,22.0,/players/amit,7,2020,/teams/up-yoddha,30
+85,86.0,C. Arun,"Defender, left cover",16,21.0,/players/c--arun,7,191,/teams/telugu-titans,8
+86,86.0,Vishal Mane,"Defender, right cover",16,21.0,/players/vishal-mane,7,123,/teams/dabang-delhi-kc,2
+87,88.0,Ajinkya Ashok Pawar,Raider,13,19.0,/players/ajinkya-ashok-pawar,7,2475,/teams/jaipur-pink-panthers,3
+88,89.0,Shubham Shinde,"Defender, right corner",13,18.0,/players/shubham-shinde,7,2479,/teams/puneri-paltan,7
+89,90.0,Sushil Gulia,Raider,6,17.0,/players/sushil-gulia,7,2498,/teams/jaipur-pink-panthers,3
+90,90.0,Mohit Sehrawat,"Defender, right cover",11,17.0,/players/mohit-sehrawat,7,2502,/teams/bengaluru-bulls,1
+91,90.0,Hadi Tajik,"Defender, right corner",11,17.0,/players/hadi-tajik,7,301,/teams/puneri-paltan,7
+92,93.0,Anil Kumar,"Defender, left cover",12,16.0,/players/anil-kumar,7,311,/teams/dabang-delhi-kc,2
+93,94.0,Sumit Malik,"Defender, left corner",14,15.0,/players/sumit-malik,7,2672,/teams/gujarat-fortunegiants,31
+94,95.0,Ajeet,"Defender, right cover",14,14.0,/players/ajeet,7,2512,/teams/tamil-thalaivas,29
+95,95.0,Harendra Kumar,"Defender, left cover",14,14.0,/players/harendra-kumar,7,2486,/teams/u-mumba,5
+96,97.0,Sagar B Krishna,All Rounder,10,13.0,/players/sagar-b-krishna,7,347,/teams/puneri-paltan,7
+97,97.0,Vineet Sharma,Raider,9,13.0,/players/vineet-sharma,7,268,/teams/tamil-thalaivas,29
+98,97.0,Amit Kumar,Raider,9,13.0,/players/amit-kumar,7,214,/teams/telugu-titans,8
+99,97.0,Ankit,"Defender, right corner",12,13.0,/players/ankit,7,2667,/teams/gujarat-fortunegiants,31
+100,97.0,Amit Kumar,All Rounder,5,13.0,/players/amit-kumar,7,2682,/teams/puneri-paltan,7
+101,102.0,Selvamani K,Raider,6,12.0,/players/selvamani-k,7,264,/teams/haryana-steelers,28
+102,102.0,Sachin Narwal,All Rounder,10,12.0,/players/sachin-narwal,7,2494,/teams/jaipur-pink-panthers,3
+103,102.0,Pankaj,All Rounder,5,12.0,/players/pankaj,7,665,/teams/gujarat-fortunegiants,31
+104,105.0,Pavan T. R.,"Defender, right cover",12,11.0,/players/pavan-t--r-,7,2496,/teams/jaipur-pink-panthers,3
+105,105.0,Banty,Raider,9,11.0,/players/banty,7,2503,/teams/bengaluru-bulls,1
+106,105.0,Surender Singh,Raider,4,11.0,/players/surender-singh,7,234,/teams/up-yoddha,30
+107,108.0,Dong Geon Lee,Raider,4,10.0,/players/dong-geon-lee,7,522,/teams/u-mumba,5
+108,109.0,Sunil Siddhgavali,Defender,11,9.0,/players/sunil-siddhgavali,7,613,/teams/jaipur-pink-panthers,3
+109,109.0,Armaan,All Rounder,6,9.0,/players/armaan,7,2298,/teams/telugu-titans,8
+110,109.0,Sagar,"Defender, right corner",9,9.0,/players/sagar,7,2659,/teams/tamil-thalaivas,29
+111,112.0,Sushant Sail,Raider,7,8.0,/players/sushant-sail,7,2660,/teams/puneri-paltan,7
+112,112.0,Victor Onyango Obiero,All Rounder,3,8.0,/players/victor-onyango-obiero,7,2257,/teams/tamil-thalaivas,29
+113,112.0,Ankit Beniwal,Raider,5,8.0,/players/ankit-beniwal,7,2322,/teams/telugu-titans,8
+114,112.0,Saeid Ghaffari,"Defender, left cover",9,8.0,/players/saeid-ghaffari,7,481,/teams/dabang-delhi-kc,2
+115,116.0,Mohsen Maghsoudloujafari,All Rounder,10,7.0,/players/mohsen-maghsoudloujafari,7,567,/teams/up-yoddha,30
+116,116.0,Ankush,Raider,3,7.0,/players/ankush,7,2321,/teams/up-yoddha,30
+117,116.0,Ruturaj Shivaji Koravi,Defender,11,7.0,/players/ruturaj-shivaji-koravi,7,2023,/teams/gujarat-fortunegiants,31
+118,116.0,Santhapanaselvam,All Rounder,4,7.0,/players/santhapanaselvam,7,676,/teams/jaipur-pink-panthers,3
+119,116.0,Vinod Kumar,All Rounder,6,7.0,/players/vinod-kumar,7,764,/teams/gujarat-fortunegiants,31
+120,116.0,Sanket Sawant,"Defender, left cover",5,7.0,/players/sanket-sawant,7,2662,/teams/puneri-paltan,7
+121,122.0,Chand Singh,"Defender, left corner",6,6.0,/players/chand-singh,7,2514,/teams/haryana-steelers,28
+122,122.0,Kuldeep Singh,Defender,8,6.0,/players/kuldeep-singh,7,732,/teams/haryana-steelers,28
+123,122.0,Young Chang Ko,"Defender, left cover",9,6.0,/players/young-chang-ko,7,519,/teams/u-mumba,5
+124,122.0,Viraj Vishnu Landge,"Defender, left cover",7,6.0,/players/viraj-vishnu-landge,7,784,/teams/bengal-warriors,4
+125,122.0,Anand,Raider,4,6.0,/players/anand,7,2325,/teams/tamil-thalaivas,29
+126,127.0,Azad Singh,Raider,3,5.0,/players/azad-singh,7,2316,/teams/up-yoddha,30
+127,127.0,Ankit,Defender,5,5.0,/players/ankit,7,2471,/teams/bengaluru-bulls,1
+128,127.0,Ashish,Raider,7,5.0,/players/ashish,7,2504,/teams/patna-pirates,6
+129,127.0,Lalit Chaudhary,Raider,4,5.0,/players/lalit-chaudhary,7,2306,/teams/gujarat-fortunegiants,31
+130,127.0,Vijay Kumar,"Defender, right corner",9,5.0,/players/vijay-kumar,7,768,/teams/bengaluru-bulls,1
+131,127.0,Abolfazl Maghsodloumahali,Raider,6,5.0,/players/abolfazl-maghsodloumahali,7,300,/teams/gujarat-fortunegiants,31
+132,127.0,Ashish Kumar,All Rounder,6,5.0,/players/ashish-kumar,7,202,/teams/bengaluru-bulls,1
+133,127.0,Amit Kumar,All Rounder,3,5.0,/players/amit-kumar,7,2507,/teams/patna-pirates,6
+134,135.0,Elavarasan A,"Defender, left cover",3,4.0,/players/elavarasan-a,7,2665,/teams/jaipur-pink-panthers,3
+135,135.0,Harmanjit Singh,Raider,3,4.0,/players/harmanjit-singh,7,2666,/teams/gujarat-fortunegiants,31
+136,135.0,Sachin Kumar,All Rounder,12,4.0,/players/sachin-kumar,7,218,/teams/up-yoddha,30
+137,135.0,Gurvinder Singh,Raider,2,4.0,/players/gurvinder-singh,7,46,/teams/gujarat-fortunegiants,31
+138,135.0,Krushna Madane,Defender,7,4.0,/players/krushna-madane,7,274,/teams/telugu-titans,8
+139,135.0,Darshan Kadian,Raider,5,4.0,/players/darshan-kadian,7,324,/teams/puneri-paltan,7
+140,135.0,Mayur Shivtarkar,All Rounder,6,4.0,/players/mayur-shivtarkar,7,578,/teams/bengal-warriors,4
+141,135.0,Jawahar Dagar,Defender,5,4.0,/players/jawahar-dagar,7,390,/teams/patna-pirates,6
+142,135.0,Purna Singh,Raider,5,4.0,/players/purna-singh,7,2478,/teams/patna-pirates,6
+143,135.0,Parveen,"Defender, left cover",6,4.0,/players/parveen,7,2463,/teams/haryana-steelers,28
+144,145.0,Adarsh T,"Defender, left corner",9,3.0,/players/adarsh-t,7,2470,/teams/bengal-warriors,4
+145,145.0,M. Abishek,"Defender, right cover",4,3.0,/players/m--abishek,7,2506,/teams/tamil-thalaivas,29
+146,145.0,Rakesh Narwal,Raider,1,3.0,/players/rakesh-narwal,7,204,/teams/bengal-warriors,4
+147,145.0,Ravinder,All Rounder,4,3.0,/players/ravinder,7,2644,/teams/patna-pirates,6
+148,149.0,Balram,All Rounder,1,2.0,/players/balram,7,2669,/teams/dabang-delhi-kc,2
+149,149.0,Palle Mallikarjun,Raider,3,2.0,/players/palle-mallikarjun,7,2683,/teams/telugu-titans,8
+150,149.0,Rajaguru Subramanian,"Defender, right cover",4,2.0,/players/rajaguru-subramanian,7,84,/teams/u-mumba,5
+151,149.0,Ponparthiban Subramanian,"Defender, right cover",5,2.0,/players/ponparthiban-subramanian,7,2481,/teams/tamil-thalaivas,29
+152,149.0,Aman Kadian,Raider,2,2.0,/players/aman-kadian,7,2474,/teams/dabang-delhi-kc,2
+153,149.0,Ajay,Defender,7,2.0,/players/ajay,7,2353,/teams/bengaluru-bulls,1
+154,149.0,Arun Kumar HN,Raider,2,2.0,/players/arun-kumar-hn,7,2318,/teams/haryana-steelers,28
+155,149.0,Kamal Singh,Raider,3,2.0,/players/kamal-singh,7,2307,/teams/telugu-titans,8
+156,157.0,Ajinkya Rohidas Kapre,All Rounder,2,1.0,/players/ajinkya-rohidas-kapre,7,2025,/teams/u-mumba,5
+157,157.0,Emad Sedaghatnia,Raider,1,1.0,/players/emad-sedaghatnia,7,2376,/teams/puneri-paltan,7
+158,157.0,Satywan,"Defender, left cover",1,1.0,/players/satywan,7,2489,/teams/dabang-delhi-kc,2
+159,157.0,Aman,"Defender, left corner",2,1.0,/players/aman,7,2501,/teams/bengaluru-bulls,1
+160,157.0,Mohammad Taghi Paein Mahali,Raider,3,1.0,/players/mohammad-taghi-paein-mahali,7,509,/teams/bengal-warriors,4
+161,157.0,Naveen Narwal,"Defender, right cover",3,1.0,/players/naveen-narwal,7,2671,/teams/bengal-warriors,4
+162,157.0,Vikas Chhillar,Raider,1,1.0,/players/vikas-chhillar,7,2515,/teams/haryana-steelers,28
+163,164.0,Rohit Kumar Choudary,Raider,6,3.0,/players/rohit-kumar-choudary,7,217,/teams/up-yoddha,30
+164,164.0,Anand V,Raider,3,3.0,/players/anand-v,7,2021,/teams/bengaluru-bulls,1
+165,164.0,Vijay Kumar,"Defender, right corner",4,3.0,/players/vijay-kumar,7,768,/teams/patna-pirates,6
+166,164.0,Md. Masud Karim,Raider,3,3.0,/players/md--masud-karim,7,2262,/teams/up-yoddha,30
+167,164.0,Mithin Kumar,Raider,3,3.0,/players/mithin-kumar,7,2302,/teams/bengal-warriors,4
+168,164.0,Ankit,Defender,6,3.0,/players/ankit,7,2471,/teams/bengaluru-bulls,1
+169,170.0,Vimal Raj V,All Rounder,5,2.0,/players/vimal-raj-v,7,2335,/teams/tamil-thalaivas,29
+170,170.0,Gaurav Kumar,Raider,3,2.0,/players/gaurav-kumar,7,2313,/teams/u-mumba,5
+171,170.0,Amit Kharb,"Defender, right cover",6,2.0,/players/amit-kharb,7,793,/teams/gujarat-fortunegiants,31
+172,170.0,Vishav Chaudhary,"Defender, left cover",2,2.0,/players/vishav-chaudhary,7,698,/teams/up-yoddha,30
+173,170.0,N. Shiva Ramakrishna,All Rounder,1,2.0,/players/n--shiva-ramakrishna,7,708,/teams/jaipur-pink-panthers,3
+174,170.0,Shubham Ashok Palkar,Raider,4,2.0,/players/shubham-ashok-palkar,7,605,/teams/gujarat-fortunegiants,31
+175,170.0,Wazir Singh,Raider,2,2.0,/players/wazir-singh,7,124,/teams/haryana-steelers,28
+176,177.0,Tae Deok Eom,All Rounder,11,1.0,/players/tae-deok-eom,7,14,/teams/patna-pirates,6
+177,177.0,Nithesh B R,"Defender, right corner",2,1.0,/players/nithesh-b-r,7,74,/teams/bengaluru-bulls,1
+178,177.0,Bajirao Hodage,"Defender, right cover",6,1.0,/players/bajirao-hodage,7,164,/teams/jaipur-pink-panthers,3
+179,177.0,Sombir,Defender,4,1.0,/players/sombir,7,361,/teams/telugu-titans,8
+180,177.0,E Subash,All Rounder,2,1.0,/players/e-subash,7,690,/teams/u-mumba,5
+181,177.0,Tapas Pal,All Rounder,2,1.0,/players/tapas-pal,7,661,/teams/dabang-delhi-kc,2
+182,177.0,Pankaj,All Rounder,1,1.0,/players/pankaj,7,665,/teams/up-yoddha,30
+183,177.0,Arun Kumar HN,Raider,2,1.0,/players/arun-kumar-hn,7,2318,/teams/haryana-steelers,28
+184,177.0,Vikram Kandola,"Defender, left cover",1,1.0,/players/vikram-kandola,7,2351,/teams/gujarat-fortunegiants,31
+185,177.0,Aashish Nagar,"Defender, right corner",3,1.0,/players/aashish-nagar,7,2482,/teams/up-yoddha,30
+0,1.0,Rahul Chaudhari,Raider,16,150.0,/players/rahul-chaudhari,4,81,/teams/telugu-titans,8
+1,2.0,Pardeep Narwal,Raider,16,133.0,/players/pardeep-narwal,4,197,/teams/patna-pirates,6
+2,3.0,Deepak Niwas Hooda,All Rounder,16,130.0,/players/deepak-niwas-hooda,4,41,/teams/puneri-paltan,7
+3,4.0,Rohit Kumar,Raider,14,100.0,/players/rohit-kumar,4,326,/teams/bengaluru-bulls,1
+4,5.0,Kashiling Adake,Raider,13,89.0,/players/kashiling-adake,4,58,/teams/dabang-delhi-kc,2
+5,6.0,Jasvir Singh,Raider,14,88.0,/players/jasvir-singh,4,52,/teams/jaipur-pink-panthers,3
+6,7.0,Rajesh Narwal,All Rounder,16,85.0,/players/rajesh-narwal,4,86,/teams/jaipur-pink-panthers,3
+7,8.0,Anup Kumar,Raider,14,82.0,/players/anup-kumar,4,29,/teams/u-mumba,5
+8,9.0,Meraj Sheykh,All Rounder,14,75.0,/players/meraj-sheykh,4,251,/teams/dabang-delhi-kc,2
+9,10.0,Rakesh Kumar,All Rounder,14,70.0,/players/rakesh-kumar,4,88,/teams/u-mumba,5
+10,10.0,Rishank Devadiga,Raider,14,70.0,/players/rishank-devadiga,4,94,/teams/u-mumba,5
+11,12.0,Manjeet Chhillar,All Rounder,12,68.0,/players/manjeet-chhillar,4,69,/teams/puneri-paltan,7
+12,13.0,Sandeep Narwal,All Rounder,16,66.0,/players/sandeep-narwal,4,142,/teams/telugu-titans,8
+13,14.0,Jang Kun Lee,Raider,11,65.0,/players/jang-kun-lee,4,12,/teams/bengal-warriors,4
+14,15.0,Ajay Thakur,Raider,16,64.0,/players/ajay-thakur,4,26,/teams/puneri-paltan,7
+15,16.0,Monu Goyat,Raider,13,63.0,/players/monu-goyat,4,388,/teams/bengal-warriors,4
+16,17.0,Nilesh Salunke,Raider,15,62.0,/players/nilesh-salunke,4,293,/teams/telugu-titans,8
+17,18.0,Ajay Kumar,Raider,15,61.0,/players/ajay-kumar,4,389,/teams/jaipur-pink-panthers,3
+18,19.0,Rajesh Mondal,Raider,15,59.0,/players/rajesh-mondal,4,85,/teams/patna-pirates,6
+19,20.0,Nitin Madane,Raider,13,53.0,/players/nitin-madane,4,75,/teams/bengal-warriors,4
+20,20.0,Amit Hooda,"Defender, right corner",16,53.0,/players/amit-hooda,4,212,/teams/jaipur-pink-panthers,3
+21,22.0,Fazel Atrachali,"Defender, left corner",16,52.0,/players/fazel-atrachali,4,259,/teams/patna-pirates,6
+22,23.0,Mohit Chhillar,"Defender, right corner",14,50.0,/players/mohit-chhillar,4,71,/teams/bengaluru-bulls,1
+23,24.0,Selvamani K,Raider,13,45.0,/players/selvamani-k,4,264,/teams/dabang-delhi-kc,2
+24,25.0,Sachin Shingade,"Defender, left cover",14,44.0,/players/sachin-shingade,4,165,/teams/dabang-delhi-kc,2
+25,26.0,Kuldeep Singh,All Rounder,15,42.0,/players/kuldeep-singh,4,252,/teams/patna-pirates,6
+26,27.0,Dharmaraj Cheralathan,"Defender, right and left corner",14,41.0,/players/dharmaraj-cheralathan,4,42,/teams/patna-pirates,6
+27,28.0,Joginder Singh Narwal,"Defender, left corner",16,38.0,/players/joginder-singh-narwal,4,194,/teams/puneri-paltan,7
+28,29.0,Ravinder Pahal,"Defender, right corner",14,37.0,/players/ravinder-pahal,4,157,/teams/puneri-paltan,7
+29,29.0,Ashish Kumar,"Defender, right cover",14,37.0,/players/ashish-kumar,4,202,/teams/bengaluru-bulls,1
+30,29.0,Surender Nada,"Defender, left corner",13,37.0,/players/surender-nada,4,146,/teams/bengaluru-bulls,1
+31,29.0,CPO Surjeet Singh,Raider,10,37.0,/players/cpo-surjeet-singh,4,119,/teams/patna-pirates,6
+32,29.0,PO Surjeet Singh,"Defender, right cover",14,37.0,/players/po-surjeet-singh,4,322,/teams/u-mumba,5
+33,34.0,Sandeep Kumar Dhull,"Defender, left corner",12,35.0,/players/sandeep-kumar-dhull,4,290,/teams/telugu-titans,8
+34,34.0,Shabeer Bappu,Raider,12,35.0,/players/shabeer-bappu,4,105,/teams/jaipur-pink-panthers,3
+35,36.0,Nitin Tomar,Raider,12,34.0,/players/nitin-tomar,4,320,/teams/puneri-paltan,7
+36,37.0,Ran Singh,All Rounder,16,33.0,/players/ran-singh,4,160,/teams/jaipur-pink-panthers,3
+37,38.0,Sonu Narwal,Raider,11,32.0,/players/sonu-narwal,4,190,/teams/puneri-paltan,7
+38,39.0,Vishal Mane,"Defender, right cover",14,31.0,/players/vishal-mane,4,123,/teams/bengal-warriors,4
+39,40.0,Vinod Kumar,"Defender, left cover",12,30.0,/players/vinod-kumar,4,215,/teams/telugu-titans,8
+40,41.0,Nilesh Shinde,"Defender, right corner",12,28.0,/players/nilesh-shinde,4,73,/teams/bengal-warriors,4
+41,42.0,Jeeva Kumar,"Defender, right and left cover",14,26.0,/players/jeeva-kumar,4,54,/teams/u-mumba,5
+42,43.0,Girish Maruti Ernak,"Defender, left corner",12,25.0,/players/girish-maruti-ernak,4,161,/teams/bengal-warriors,4
+43,43.0,Abolfazl Maghsodloumahali,Raider,9,25.0,/players/abolfazl-maghsodloumahali,4,300,/teams/patna-pirates,6
+44,45.0,Suresu Kumar,Raider,11,23.0,/players/suresu-kumar,4,173,/teams/u-mumba,5
+45,46.0,Bajirao Hodage,"Defender, right cover",14,22.0,/players/bajirao-hodage,4,164,/teams/patna-pirates,6
+46,46.0,Mahipal Narwal,All Rounder,14,22.0,/players/mahipal-narwal,4,67,/teams/jaipur-pink-panthers,3
+47,46.0,Somvir Shekhar,"Defender, right cover",16,22.0,/players/somvir-shekhar,4,109,/teams/puneri-paltan,7
+48,49.0,Pawan Kumar Kadian,Raider,9,21.0,/players/pawan-kumar-kadian,4,156,/teams/bengaluru-bulls,1
+49,50.0,Vinod Kumar,Raider,9,20.0,/players/vinod-kumar,4,387,/teams/bengaluru-bulls,1
+50,51.0,Prashanth Kumar Rai,Raider,9,19.0,/players/prashanth-kumar-rai,4,155,/teams/dabang-delhi-kc,2
+51,51.0,D. Suresh Kumar,"Defender, right cover",14,19.0,/players/d--suresh-kumar,4,162,/teams/dabang-delhi-kc,2
+52,51.0,Jasmer Singh Gulia,All Rounder,13,19.0,/players/jasmer-singh-gulia,4,51,/teams/telugu-titans,8
+53,54.0,Sunil,"Defender, left corner",10,17.0,/players/sunil,4,207,/teams/u-mumba,5
+54,55.0,Yogesh Hooda,Raider,5,16.0,/players/yogesh-hooda,4,245,/teams/bengaluru-bulls,1
+55,55.0,S Mahalingam,All Rounder,11,16.0,/players/s-mahalingam,4,391,/teams/telugu-titans,8
+56,55.0,Anil Kumar,"Defender, left corner",9,16.0,/players/anil-kumar,4,386,/teams/dabang-delhi-kc,2
+57,58.0,Tushar Patil,Raider,8,15.0,/players/tushar-patil,4,242,/teams/jaipur-pink-panthers,3
+58,58.0,C. Arun,"Defender, left cover",14,15.0,/players/c--arun,4,191,/teams/bengal-warriors,4
+59,60.0,Deepak Kumar Dahiya,Raider,7,13.0,/players/deepak-kumar-dahiya,4,174,/teams/bengaluru-bulls,1
+60,60.0,Hadi Oshtorak,All Rounder,7,13.0,/players/hadi-oshtorak,4,249,/teams/patna-pirates,6
+61,60.0,Deepak Narwal,Raider,6,13.0,/players/deepak-narwal,4,211,/teams/dabang-delhi-kc,2
+62,60.0,Amit Singh Chhillar,"Defender, left corner",9,13.0,/players/amit-singh-chhillar,4,28,/teams/bengal-warriors,4
+63,60.0,Ravi Dalal,Raider,6,13.0,/players/ravi-dalal,4,92,/teams/bengal-warriors,4
+64,65.0,K. Prapanjan,Raider,11,12.0,/players/k--prapanjan,4,219,/teams/telugu-titans,8
+65,66.0,Surender Singh,Raider,11,11.0,/players/surender-singh,4,234,/teams/u-mumba,5
+66,66.0,Surjeet Narwal,Raider,5,11.0,/players/surjeet-narwal,4,118,/teams/bengal-warriors,4
+67,66.0,Pawan Kumar Sehrawat,Raider,10,11.0,/players/pawan-kumar-sehrawat,4,318,/teams/bengaluru-bulls,1
+68,66.0,Sanket Chavan,"Defender, left corner",6,11.0,/players/sanket-chavan,4,360,/teams/dabang-delhi-kc,2
+69,70.0,Prashant Chavan,"Defender, right corner",9,10.0,/players/prashant-chavan,4,147,/teams/dabang-delhi-kc,2
+70,71.0,Parmod Narwal,All Rounder,8,9.0,/players/parmod-narwal,4,150,/teams/puneri-paltan,7
+71,71.0,Sumit Singh,Raider,5,9.0,/players/sumit-singh,4,363,/teams/bengaluru-bulls,1
+72,73.0,Athul MS,Raider,4,8.0,/players/athul-ms,4,376,/teams/telugu-titans,8
+73,73.0,Vinoth Kumar,Raider,3,8.0,/players/vinoth-kumar,4,172,/teams/telugu-titans,8
+74,73.0,Umesh Mhatre,Raider,2,8.0,/players/umesh-mhatre,4,272,/teams/dabang-delhi-kc,2
+75,76.0,D. Gopu,"Defender, right and left corner",5,7.0,/players/d--gopu,4,152,/teams/dabang-delhi-kc,2
+76,76.0,Sukesh Hegde,Raider,9,7.0,/players/sukesh-hegde,4,111,/teams/telugu-titans,8
+77,76.0,Shrikant Jadhav,Raider,5,7.0,/players/shrikant-jadhav,4,106,/teams/bengal-warriors,4
+78,76.0,Vishal Bhardwaj,All Rounder,2,7.0,/players/vishal-bhardwaj,4,358,/teams/telugu-titans,8
+79,80.0,Vikash Kumar,Raider,6,6.0,/players/vikash-kumar,4,380,/teams/u-mumba,5
+80,80.0,Sagar B Krishna,All Rounder,11,6.0,/players/sagar-b-krishna,4,347,/teams/telugu-titans,8
+81,82.0,Mahesh Goud,Raider,7,5.0,/players/mahesh-goud,4,66,/teams/patna-pirates,6
+82,83.0,Manoj Kumar,"Defender, left cover",8,4.0,/players/manoj-kumar,4,70,/teams/bengaluru-bulls,1
+83,83.0,Gurvinder Singh,Raider,6,4.0,/players/gurvinder-singh,4,46,/teams/u-mumba,5
+84,83.0,Amit Om Prakash Rathi,Raider,2,4.0,/players/amit-om-prakash-rathi,4,231,/teams/bengaluru-bulls,1
+85,86.0,Rohit Rana,"Defender, left cover",5,3.0,/players/rohit-rana,4,96,/teams/jaipur-pink-panthers,3
+86,86.0,Rupesh Tomar,All Rounder,3,3.0,/players/rupesh-tomar,4,97,/teams/telugu-titans,8
+87,86.0,Parvesh Bhainswal,"Defender, left cover",7,3.0,/players/parvesh-bhainswal,4,357,/teams/jaipur-pink-panthers,3
+88,86.0,Vikash Khandola,Raider,4,3.0,/players/vikash-khandola,4,366,/teams/dabang-delhi-kc,2
+89,86.0,Ravindra Ramesh Kumawat,All Rounder,2,3.0,/players/ravindra-ramesh-kumawat,4,370,/teams/bengal-warriors,4
+90,91.0,Amit Nagar,Raider,3,2.0,/players/amit-nagar,4,371,/teams/jaipur-pink-panthers,3
+91,91.0,Jawahar Dagar,Raider,6,2.0,/players/jawahar-dagar,4,390,/teams/jaipur-pink-panthers,3
+92,91.0,Anil Kumar,"Defender, left cover",4,2.0,/players/anil-kumar,4,311,/teams/patna-pirates,6
+93,91.0,Shrikant Tewthia,All Rounder,4,2.0,/players/shrikant-tewthia,4,107,/teams/jaipur-pink-panthers,3
+94,91.0,Rahul Kumar,"Defender, right cover",9,2.0,/players/rahul-kumar,4,288,/teams/bengaluru-bulls,1
+95,91.0,Vijin Thangadurai,"Defender, right cover",9,2.0,/players/vijin-thangadurai,4,185,/teams/patna-pirates,6
+96,91.0,Preetam Chhillar,All Rounder,8,2.0,/players/preetam-chhillar,4,167,/teams/puneri-paltan,7
+97,98.0,Manoj Dhull,"Defender, right corner",2,1.0,/players/manoj-dhull,4,233,/teams/u-mumba,5
+98,98.0,Sunny,Raider,3,1.0,/players/sunny,4,210,/teams/patna-pirates,6
+99,98.0,Hadi Tajik,"Defender, right corner",1,1.0,/players/hadi-tajik,4,301,/teams/dabang-delhi-kc,2
+100,98.0,Nitin Kumar,All Rounder,1,1.0,/players/nitin-kumar,4,367,/teams/u-mumba,5
+101,98.0,Sunil Kumar,"Defender, right cover",1,1.0,/players/sunil-kumar,4,368,/teams/patna-pirates,6
+102,98.0,Ajay Singh,"Defender, left corner",1,1.0,/players/ajay-singh,4,364,/teams/bengaluru-bulls,1
+103,98.0,Parveen Narwal,All Rounder,1,1.0,/players/parveen-narwal,4,373,/teams/jaipur-pink-panthers,3
+104,99.0,Simon Kibura,Raider,2,2.0,/players/simon-kibura,4,10,/teams/puneri-paltan,7
+105,99.0,Parmod Narwal,All Rounder,4,2.0,/players/parmod-narwal,4,150,/teams/bengaluru-bulls,1
+106,99.0,Vijin Thangadurai,"Defender, right cover",4,2.0,/players/vijin-thangadurai,4,185,/teams/bengal-warriors,4
+107,99.0,Suresu Kumar,Raider,3,2.0,/players/suresu-kumar,4,173,/teams/u-mumba,5
+108,109.0,Deepak Dhull,"Defender, left cover",1,1.0,/players/deepak-dhull,4,181,/teams/bengal-warriors,4
+109,109.0,Rohit Kumar Prajapat,Raider,3,1.0,/players/rohit-kumar-prajapat,4,193,/teams/jaipur-pink-panthers,3
+110,109.0,D. Gopu,"Defender, right and left corner",2,1.0,/players/d--gopu,4,152,/teams/telugu-titans,8
+111,109.0,Tae Deok Eom,All Rounder,7,1.0,/players/tae-deok-eom,4,14,/teams/patna-pirates,6
+112,109.0,Pravin Niwale,Raider,2,1.0,/players/pravin-niwale,4,79,/teams/dabang-delhi-kc,2
+113,109.0,Raju Lal Choudhary,"Defender, right corner",1,1.0,/players/raju-lal-choudhary,4,87,/teams/jaipur-pink-panthers,3
+114,109.0,G.S. Manikandan,"Defender, left cover",7,1.0,/players/g-s--manikandan,4,222,/teams/dabang-delhi-kc,2
+115,109.0,T. Prasad,All Rounder,3,1.0,/players/t--prasad,4,236,/teams/telugu-titans,8
+116,109.0,Isac Antony,Raider,2,1.0,/players/isac-antony,4,238,/teams/telugu-titans,8
+117,109.0,Navjot Singh,"Defender, right cover",1,1.0,/players/navjot-singh,4,296,/teams/dabang-delhi-kc,2
+118,109.0,Hardeep Duhan,"Defender, right corner",1,1.0,/players/hardeep-duhan,4,317,/teams/bengaluru-bulls,1
+119,109.0,Parvesh Attri,Raider,1,1.0,/players/parvesh-attri,4,315,/teams/bengaluru-bulls,1
+120,109.0,Ravinandan G.M.,"Defender, left corner",1,1.0,/players/ravinandan-g-m-,4,307,/teams/dabang-delhi-kc,2
+121,109.0,Sanju,Raider,4,1.0,/players/sanju,4,312,/teams/telugu-titans,8
+122,116.0,Inderpal Bishnoi,Raider,2,1.0,/players/inderpal-bishnoi,4,224,/teams/dabang-delhi-kc,2
+123,116.0,Amit Kumar,All Rounder,1,1.0,/players/amit-kumar,4,237,/teams/puneri-paltan,7
+124,116.0,Kazuhiro Takano,All Rounder,2,1.0,/players/kazuhiro-takano,4,199,/teams/jaipur-pink-panthers,3
+125,116.0,Mohammad Maghshoudulu,All Rounder,4,1.0,/players/mohammad-maghshoudulu,4,200,/teams/jaipur-pink-panthers,3
+126,116.0,Adinath Sakharam Gavali,"Defender, right and left cover",1,1.0,/players/adinath-sakharam-gavali,4,201,/teams/bengaluru-bulls,1
+127,116.0,Jishnu,"Defender, right cover",3,1.0,/players/jishnu,4,239,/teams/telugu-titans,8
+0,1.0,Pardeep Narwal,Raider,26,369.0,/players/pardeep-narwal,5,197,/teams/patna-pirates,6
+1,2.0,Rohit Kumar,Raider,22,231.0,/players/rohit-kumar,5,326,/teams/bengaluru-bulls,1
+2,3.0,Ajay Thakur,Raider,22,222.0,/players/ajay-thakur,5,26,/teams/tamil-thalaivas,29
+3,4.0,Monu Goyat,Raider,26,202.0,/players/monu-goyat,5,388,/teams/patna-pirates,6
+4,5.0,Rahul Chaudhari,Raider,22,193.0,/players/rahul-chaudhari,5,81,/teams/telugu-titans,8
+5,6.0,Maninder Singh,Raider,21,192.0,/players/maninder-singh,5,143,/teams/bengal-warriors,4
+6,7.0,Deepak Niwas Hooda,All Rounder,24,186.0,/players/deepak-niwas-hooda,5,41,/teams/puneri-paltan,7
+7,8.0,Nitin Tomar,Raider,20,177.0,/players/nitin-tomar,5,320,/teams/up-yoddha,30
+8,9.0,Sachin,Raider,24,173.0,/players/sachin,5,757,/teams/gujarat-fortunegiants,31
+9,10.0,Rishank Devadiga,Raider,21,170.0,/players/rishank-devadiga,5,94,/teams/up-yoddha,30
+10,11.0,Anup Kumar,Raider,21,135.0,/players/anup-kumar,5,29,/teams/u-mumba,5
+11,12.0,K. Prapanjan,Raider,22,124.0,/players/k--prapanjan,5,219,/teams/tamil-thalaivas,29
+12,13.0,Pawan Kumar Kadian,Raider,21,122.0,/players/pawan-kumar-kadian,5,156,/teams/jaipur-pink-panthers,3
+13,13.0,Kashiling Adake,Raider,20,122.0,/players/kashiling-adake,5,58,/teams/u-mumba,5
+14,15.0,Wazir Singh,Raider,21,120.0,/players/wazir-singh,5,124,/teams/haryana-steelers,28
+15,16.0,Nilesh Salunke,Raider,21,105.0,/players/nilesh-salunke,5,293,/teams/telugu-titans,8
+16,17.0,Meraj Sheykh,All Rounder,20,104.0,/players/meraj-sheykh,5,251,/teams/dabang-delhi-kc,2
+17,18.0,Shrikant Jadhav,Raider,19,98.0,/players/shrikant-jadhav,5,106,/teams/u-mumba,5
+18,19.0,Abolfazl Maghsodloumahali,Raider,19,97.0,/players/abolfazl-maghsodloumahali,5,300,/teams/dabang-delhi-kc,2
+19,20.0,Rajesh Mondal,Raider,24,91.0,/players/rajesh-mondal,5,85,/teams/puneri-paltan,7
+20,21.0,Jang Kun Lee,Raider,21,89.0,/players/jang-kun-lee,5,12,/teams/bengal-warriors,4
+21,21.0,Ajay Kumar,Raider,22,89.0,/players/ajay-kumar,5,389,/teams/bengaluru-bulls,1
+22,23.0,Deepak Narwal,Raider,16,87.0,/players/deepak-narwal,5,211,/teams/bengal-warriors,4
+23,24.0,Sandeep Narwal,All Rounder,21,85.0,/players/sandeep-narwal,5,142,/teams/puneri-paltan,7
+24,24.0,Nitin Rawal,Defender,21,85.0,/players/nitin-rawal,5,791,/teams/jaipur-pink-panthers,3
+25,26.0,Surender Nada,"Defender, left corner",21,83.0,/players/surender-nada,5,146,/teams/haryana-steelers,28
+26,27.0,Prashanth Kumar Rai,Raider,16,80.0,/players/prashanth-kumar-rai,5,155,/teams/haryana-steelers,28
+27,28.0,PO Surjeet Singh,"Defender, right cover",24,79.0,/players/po-surjeet-singh,5,322,/teams/bengal-warriors,4
+28,29.0,Deepak Kumar Dahiya,Raider,16,78.0,/players/deepak-kumar-dahiya,5,174,/teams/haryana-steelers,28
+29,30.0,Sukesh Hegde,Raider,18,77.0,/players/sukesh-hegde,5,111,/teams/gujarat-fortunegiants,31
+30,31.0,Rohit Baliyan,Raider,17,74.0,/players/rohit-baliyan,5,261,/teams/dabang-delhi-kc,2
+31,32.0,Vishal Bhardwaj,All Rounder,22,71.0,/players/vishal-bhardwaj,5,358,/teams/telugu-titans,8
+32,32.0,Jaideep,"Defender, left corner",26,71.0,/players/jaideep,5,579,/teams/patna-pirates,6
+33,34.0,Surender Singh,Raider,18,70.0,/players/surender-singh,5,234,/teams/up-yoddha,30
+34,35.0,Girish Maruti Ernak,"Defender, left corner",21,69.0,/players/girish-maruti-ernak,5,161,/teams/puneri-paltan,7
+35,36.0,Tushar Patil,Raider,17,67.0,/players/tushar-patil,5,242,/teams/jaipur-pink-panthers,3
+36,37.0,Jasvir Singh,Raider,15,66.0,/players/jasvir-singh,5,52,/teams/jaipur-pink-panthers,3
+37,37.0,Abozar Mohajermighani,Defender,24,66.0,/players/abozar-mohajermighani,5,489,/teams/gujarat-fortunegiants,31
+38,39.0,Ran Singh,All Rounder,23,64.0,/players/ran-singh,5,160,/teams/bengal-warriors,4
+39,39.0,Vijay,Raider,19,64.0,/players/vijay,5,745,/teams/patna-pirates,6
+40,41.0,CPO Surjeet Singh,Raider,17,63.0,/players/cpo-surjeet-singh,5,119,/teams/haryana-steelers,28
+41,42.0,Mahendra Ganesh Rajput,Raider,17,62.0,/players/mahendra-ganesh-rajput,5,163,/teams/gujarat-fortunegiants,31
+42,43.0,Amit Hooda,"Defender, right corner",22,61.0,/players/amit-hooda,5,212,/teams/tamil-thalaivas,29
+43,44.0,Vikash Khandola,Raider,9,58.0,/players/vikash-khandola,5,366,/teams/haryana-steelers,28
+44,44.0,Sunil Kumar,"Defender, right cover",24,58.0,/players/sunil-kumar,5,368,/teams/gujarat-fortunegiants,31
+45,44.0,Surender Singh,"Defender, right cover",22,58.0,/players/surender-singh,5,733,/teams/u-mumba,5
+46,44.0,Mahender Singh,"Defender, left cover",22,58.0,/players/mahender-singh,5,769,/teams/bengaluru-bulls,1
+47,48.0,Fazel Atrachali,"Defender, left corner",24,57.0,/players/fazel-atrachali,5,259,/teams/gujarat-fortunegiants,31
+48,49.0,Ravinder Pahal,"Defender, right corner",19,54.0,/players/ravinder-pahal,5,157,/teams/bengaluru-bulls,1
+49,50.0,Manjeet Chhillar,All Rounder,15,52.0,/players/manjeet-chhillar,5,69,/teams/jaipur-pink-panthers,3
+50,51.0,Chandran Ranjit,Raider,11,51.0,/players/chandran-ranjit,5,36,/teams/gujarat-fortunegiants,31
+51,52.0,Monu,Raider,19,49.0,/players/monu,5,795,/teams/puneri-paltan,7
+52,53.0,Vinod Kumar,Raider,21,48.0,/players/vinod-kumar,5,764,/teams/patna-pirates,6
+53,53.0,Parvesh Bhainswal,"Defender, left cover",24,48.0,/players/parvesh-bhainswal,5,357,/teams/gujarat-fortunegiants,31
+54,55.0,Kuldeep Singh,All Rounder,20,47.0,/players/kuldeep-singh,5,252,/teams/u-mumba,5
+55,55.0,Mohsen Maghsoudloujafari,Raider,16,47.0,/players/mohsen-maghsoudloujafari,5,567,/teams/telugu-titans,8
+56,55.0,Nitesh Kumar,"Defender, right corner",19,47.0,/players/nitesh-kumar,5,725,/teams/up-yoddha,30
+57,58.0,Jeeva Kumar,"Defender, right and left cover",22,44.0,/players/jeeva-kumar,5,54,/teams/up-yoddha,30
+58,59.0,Mohit Chhillar,"Defender, right corner",20,42.0,/players/mohit-chhillar,5,71,/teams/haryana-steelers,28
+59,59.0,Mahesh Goud,Raider,21,42.0,/players/mahesh-goud,5,66,/teams/up-yoddha,30
+60,61.0,Vinod Kumar,Raider,19,41.0,/players/vinod-kumar,5,387,/teams/bengal-warriors,4
+61,61.0,Darshan J.,"Defender, right cover",20,41.0,/players/darshan-j-,5,724,/teams/tamil-thalaivas,29
+62,63.0,Darshan Kadian,Raider,16,40.0,/players/darshan-kadian,5,324,/teams/u-mumba,5
+63,63.0,Shrikant Tewthia,All Rounder,23,40.0,/players/shrikant-tewthia,5,107,/teams/bengal-warriors,4
+64,65.0,Vishal Mane,"Defender, right cover",26,39.0,/players/vishal-mane,5,123,/teams/patna-pirates,6
+65,65.0,Sombir,"Defender, right corner",17,39.0,/players/sombir,5,361,/teams/telugu-titans,8
+66,67.0,Rohit Gulia,All Rounder,19,38.0,/players/rohit-gulia,5,686,/teams/gujarat-fortunegiants,31
+67,67.0,Shabeer Bappu,Raider,12,38.0,/players/shabeer-bappu,5,105,/teams/u-mumba,5
+68,69.0,C. Arun,"Defender, left cover",20,36.0,/players/c--arun,5,191,/teams/tamil-thalaivas,29
+69,69.0,R. Sriram,Raider,11,36.0,/players/r--sriram,5,718,/teams/dabang-delhi-kc,2
+70,71.0,Jawahar Dagar,Raider,18,35.0,/players/jawahar-dagar,5,390,/teams/patna-pirates,6
+71,71.0,Vikas Kumar,Raider,14,35.0,/players/vikas-kumar,5,762,/teams/telugu-titans,8
+72,73.0,Anand Patil,Raider,19,33.0,/players/anand-patil,5,576,/teams/dabang-delhi-kc,2
+73,73.0,Sagar B Krishna,All Rounder,17,33.0,/players/sagar-b-krishna,5,347,/teams/up-yoddha,30
+74,75.0,Ashish Kumar,"Defender, right cover",20,32.0,/players/ashish-kumar,5,202,/teams/bengaluru-bulls,1
+75,75.0,Kuldeep Singh,"Defender, left corner",16,32.0,/players/kuldeep-singh,5,61,/teams/bengaluru-bulls,1
+76,77.0,Sunil Jaipal,Raider,13,31.0,/players/sunil-jaipal,5,141,/teams/bengaluru-bulls,1
+77,77.0,Sidharth,All Rounder,21,31.0,/players/sidharth,5,611,/teams/jaipur-pink-panthers,3
+78,79.0,Vineet Sharma,Raider,18,30.0,/players/vineet-sharma,5,268,/teams/tamil-thalaivas,29
+79,79.0,Somvir Shekhar,"Defender, right cover",22,30.0,/players/somvir-shekhar,5,109,/teams/jaipur-pink-panthers,3
+80,79.0,Ravi Kumar,"Defender, right cover",23,30.0,/players/ravi-kumar,5,240,/teams/puneri-paltan,7
+81,82.0,Dong Geon Lee,Raider,17,29.0,/players/dong-geon-lee,5,522,/teams/tamil-thalaivas,29
+82,82.0,D. Pradap,All Rounder,16,29.0,/players/d--pradap,5,722,/teams/tamil-thalaivas,29
+83,84.0,Farhad Rahimi Milaghardan,"Defender, right cover",18,28.0,/players/farhad-rahimi-milaghardan,5,482,/teams/telugu-titans,8
+84,84.0,Bhupender Singh,All Rounder,17,28.0,/players/bhupender-singh,5,34,/teams/bengal-warriors,4
+85,84.0,Satpal,"Defender, right corner",10,28.0,/players/satpal,5,773,/teams/dabang-delhi-kc,2
+86,87.0,Rajesh Narwal,All Rounder,16,27.0,/players/rajesh-narwal,5,86,/teams/up-yoddha,30
+87,88.0,Vikash,"Defender, right corner",19,26.0,/players/vikash,5,734,/teams/haryana-steelers,28
+88,89.0,Dharmaraj Cheralathan,"Defender, right and left corner",18,25.0,/players/dharmaraj-cheralathan,5,42,/teams/puneri-paltan,7
+89,89.0,Sunil,"Defender, left corner",18,25.0,/players/sunil,5,207,/teams/dabang-delhi-kc,2
+90,91.0,Harish Naik,Raider,14,24.0,/players/harish-naik,5,372,/teams/bengaluru-bulls,1
+91,91.0,Gurvinder Singh,Raider,9,24.0,/players/gurvinder-singh,5,46,/teams/bengaluru-bulls,1
+92,91.0,Nilesh Shinde,"Defender, right corner",15,24.0,/players/nilesh-shinde,5,73,/teams/dabang-delhi-kc,2
+93,91.0,Rohit Rana,"Defender, left cover",21,24.0,/players/rohit-rana,5,96,/teams/telugu-titans,8
+94,91.0,Rakesh Singh Kumar,"Defender, left cover",19,24.0,/players/rakesh-singh-kumar,5,158,/teams/haryana-steelers,28
+95,96.0,Rakesh Kumar,All Rounder,10,23.0,/players/rakesh-kumar,5,88,/teams/telugu-titans,8
+96,96.0,Ajit Singh,Raider,11,23.0,/players/ajit-singh,5,648,/teams/jaipur-pink-panthers,3
+97,98.0,Sachin Shingade,"Defender, left cover",26,22.0,/players/sachin-shingade,5,165,/teams/patna-pirates,6
+98,98.0,Manish,"Defender, right cover",23,22.0,/players/manish,5,728,/teams/patna-pirates,6
+99,98.0,Suresh Kumar,Raider,11,22.0,/players/suresh-kumar,5,771,/teams/puneri-paltan,7
+100,98.0,Rinku Narwal,"Defender, left corner",13,22.0,/players/rinku-narwal,5,796,/teams/puneri-paltan,7
+101,102.0,Akshay Jadhav,Raider,10,21.0,/players/akshay-jadhav,5,365,/teams/puneri-paltan,7
+102,103.0,Ziaur Rahman,"Defender, left cover",16,20.0,/players/ziaur-rahman,5,536,/teams/puneri-paltan,7
+103,103.0,Hadi Oshtorak,All Rounder,16,20.0,/players/hadi-oshtorak,5,249,/teams/u-mumba,5
+104,105.0,Rakesh Narwal,Raider,6,18.0,/players/rakesh-narwal,5,204,/teams/gujarat-fortunegiants,31
+105,106.0,Sunil Siddhgavali,Raider,12,16.0,/players/sunil-siddhgavali,5,613,/teams/jaipur-pink-panthers,3
+106,106.0,Pankaj,All Rounder,13,16.0,/players/pankaj,5,665,/teams/up-yoddha,30
+107,106.0,Elangeshwaran R,All Rounder,5,16.0,/players/elangeshwaran-r,5,667,/teams/telugu-titans,8
+108,106.0,M. Thivakaran,Raider,9,16.0,/players/m--thivakaran,5,696,/teams/tamil-thalaivas,29
+109,106.0,Viraj Vishnu Landge,"Defender, left cover",19,16.0,/players/viraj-vishnu-landge,5,784,/teams/dabang-delhi-kc,2
+110,106.0,More GB,Raider,6,16.0,/players/more-gb,5,772,/teams/puneri-paltan,7
+111,112.0,Santhapanaselvam,All Rounder,10,15.0,/players/santhapanaselvam,5,676,/teams/jaipur-pink-panthers,3
+112,113.0,Rakshith,Raider,6,14.0,/players/rakshith,5,837,/teams/telugu-titans,8
+113,114.0,Neeraj Kumar,"Defender, right cover",17,13.0,/players/neeraj-kumar,5,637,/teams/haryana-steelers,28
+114,114.0,Rohit Kumar Choudary,Raider,11,13.0,/players/rohit-kumar-choudary,5,217,/teams/puneri-paltan,7
+115,114.0,Swapnil Dilip Shinde,"Defender, right cover",13,13.0,/players/swapnil-dilip-shinde,5,170,/teams/dabang-delhi-kc,2
+116,114.0,Vikas Jaglan,Raider,13,13.0,/players/vikas-jaglan,5,121,/teams/patna-pirates,6
+117,114.0,Nitin Madane,Raider,12,13.0,/players/nitin-madane,5,75,/teams/u-mumba,5
+118,119.0,Santhosh B.S,"Defender, left corner",9,12.0,/players/santhosh-b-s,5,101,/teams/up-yoddha,30
+119,119.0,Ashish Chhokar,Raider,5,12.0,/players/ashish-chhokar,5,195,/teams/haryana-steelers,28
+120,119.0,N. Renjith,"Defender, left corner",11,12.0,/players/n--renjith,5,710,/teams/u-mumba,5
+121,122.0,Bajirao Hodage,"Defender, right cover",12,11.0,/players/bajirao-hodage,5,164,/teams/dabang-delhi-kc,2
+122,122.0,Vishal,All Rounder,5,11.0,/players/vishal,5,735,/teams/dabang-delhi-kc,2
+123,122.0,Yatharth Deshwal,All Rounder,6,11.0,/players/yatharth-deshwal,5,736,/teams/dabang-delhi-kc,2
+124,125.0,Pawan Kumar Sehrawat,Raider,9,10.0,/players/pawan-kumar-sehrawat,5,318,/teams/gujarat-fortunegiants,31
+125,126.0,Hadi Tajik,"Defender, right corner",9,9.0,/players/hadi-tajik,5,301,/teams/up-yoddha,30
+126,126.0,Tapas Pal,All Rounder,5,9.0,/players/tapas-pal,5,661,/teams/dabang-delhi-kc,2
+127,126.0,Joginder Singh Narwal,"Defender, left corner",8,9.0,/players/joginder-singh-narwal,5,194,/teams/u-mumba,5
+128,129.0,D. Suresh Kumar,"Defender, right cover",5,8.0,/players/d--suresh-kumar,5,162,/teams/u-mumba,5
+129,129.0,Ravi Dalal,Raider,5,8.0,/players/ravi-dalal,5,92,/teams/dabang-delhi-kc,2
+130,129.0,Mohan Raman G,Raider,4,8.0,/players/mohan-raman-g,5,689,/teams/u-mumba,5
+131,129.0,Virender Wazir Singh,Raider,3,8.0,/players/virender-wazir-singh,5,313,/teams/bengal-warriors,4
+132,129.0,Deepak Yadav,"Defender, right cover",4,8.0,/players/deepak-yadav,5,694,/teams/u-mumba,5
+133,129.0,Kuldeep Singh,All Rounder,5,8.0,/players/kuldeep-singh,5,732,/teams/haryana-steelers,28
+134,135.0,Deepak Kumar Rathee,All Rounder,6,7.0,/players/deepak-kumar-rathee,5,275,/teams/haryana-steelers,28
+135,135.0,Shubham Ashok Palkar,Raider,8,7.0,/players/shubham-ashok-palkar,5,605,/teams/dabang-delhi-kc,2
+136,135.0,Preetam Chhillar,All Rounder,16,7.0,/players/preetam-chhillar,5,167,/teams/bengaluru-bulls,1
+137,135.0,Sachin Kumar,"Defender, left corner",9,7.0,/players/sachin-kumar,5,218,/teams/bengaluru-bulls,1
+138,139.0,Manoj Dhull,"Defender, right corner",9,6.0,/players/manoj-dhull,5,233,/teams/jaipur-pink-panthers,3
+139,139.0,Vinoth Kumar,Raider,4,6.0,/players/vinoth-kumar,5,172,/teams/telugu-titans,8
+140,139.0,Mayur Shivtarkar,All Rounder,5,6.0,/players/mayur-shivtarkar,5,578,/teams/haryana-steelers,28
+141,139.0,Rahul Kumar,"Defender, right cover",10,6.0,/players/rahul-kumar,5,288,/teams/bengal-warriors,4
+142,139.0,Rahul Choudhary,Raider,5,6.0,/players/rahul-choudhary,5,738,/teams/jaipur-pink-panthers,3
+143,139.0,Vijay Kumar,"Defender, left corner",8,6.0,/players/vijay-kumar,5,768,/teams/tamil-thalaivas,29
+144,145.0,Vikash,All Rounder,4,5.0,/players/vikash,5,741,/teams/bengal-warriors,4
+145,145.0,Gurvinder Singh,"Defender, left cover",5,5.0,/players/gurvinder-singh,5,751,/teams/up-yoddha,30
+146,145.0,Jeeva Gopal,"Defender, left cover",6,5.0,/players/jeeva-gopal,5,53,/teams/haryana-steelers,28
+147,148.0,Vijin Thangadurai,"Defender, right cover",12,4.0,/players/vijin-thangadurai,5,185,/teams/tamil-thalaivas,29
+148,148.0,Selvamani K,Raider,3,4.0,/players/selvamani-k,5,264,/teams/jaipur-pink-panthers,3
+149,148.0,Sanket Chavan,"Defender, left corner",7,4.0,/players/sanket-chavan,5,360,/teams/tamil-thalaivas,29
+150,148.0,Rohit,Raider,2,4.0,/players/rohit,5,730,/teams/bengaluru-bulls,1
+151,152.0,Vikrant,Raider,3,3.0,/players/vikrant,5,746,/teams/telugu-titans,8
+152,152.0,Muruthu M,"Defender, right cover",3,3.0,/players/muruthu-m,5,776,/teams/tamil-thalaivas,29
+153,152.0,Satish,"Defender, right corner",10,3.0,/players/satish,5,790,/teams/patna-pirates,6
+154,152.0,Tushar Balaram Bhoir,"Defender, right cover",8,3.0,/players/tushar-balaram-bhoir,5,792,/teams/dabang-delhi-kc,2
+155,152.0,Sanoj Kumar,"Defender, left cover",2,3.0,/players/sanoj-kumar,5,640,/teams/up-yoddha,30
+156,152.0,Gulveer Singh,Raider,4,3.0,/players/gulveer-singh,5,647,/teams/up-yoddha,30
+157,152.0,Bhavani Rajput,Raider,4,3.0,/players/bhavani-rajput,5,660,/teams/tamil-thalaivas,29
+158,152.0,E Subash,All Rounder,2,3.0,/players/e-subash,5,690,/teams/u-mumba,5
+159,152.0,Rohit Kumar,"Defender, right cover",7,3.0,/players/rohit-kumar,5,712,/teams/up-yoddha,30
+160,161.0,Young Chang Ko,"Defender, left cover",14,2.0,/players/young-chang-ko,5,519,/teams/bengal-warriors,4
+161,161.0,Kuldeep,Raider,5,2.0,/players/kuldeep,5,392,/teams/bengal-warriors,4
+162,161.0,Ravindra Ramesh Kumawat,All Rounder,2,2.0,/players/ravindra-ramesh-kumawat,5,370,/teams/bengal-warriors,4
+163,161.0,Anil Kumar,"Defender, left corner",5,2.0,/players/anil-kumar,5,386,/teams/tamil-thalaivas,29
+164,161.0,David Shilisia J Mosambayi,Raider,2,2.0,/players/david-shilisia-j-mosambayi,5,266,/teams/haryana-steelers,28
+165,161.0,Shashank Wankhede,"Defender, left cover",3,2.0,/players/shashank-wankhede,5,279,/teams/bengal-warriors,4
+166,161.0,Suresu Kumar,Raider,3,2.0,/players/suresu-kumar,5,173,/teams/dabang-delhi-kc,2
+167,161.0,Parmod Narwal,All Rounder,6,2.0,/players/parmod-narwal,5,150,/teams/haryana-steelers,28
+168,161.0,Vinod Kumar,"Defender, left cover",4,2.0,/players/vinod-kumar,5,215,/teams/telugu-titans,8
+169,161.0,Babu M,"Defender, left cover",2,2.0,/players/babu-m,5,726,/teams/haryana-steelers,28
+170,171.0,Munish,Raider,3,1.0,/players/munish,5,774,/teams/telugu-titans,8
+171,171.0,Anil Kumar,Raider,2,1.0,/players/anil-kumar,5,765,/teams/bengal-warriors,4
+172,171.0,Dong Ju Hong,All Rounder,3,1.0,/players/dong-ju-hong,5,11,/teams/u-mumba,5
+173,171.0,Manoj Kumar,"Defender, left cover",5,1.0,/players/manoj-kumar,5,70,/teams/gujarat-fortunegiants,31
+174,171.0,Rupesh Tomar,All Rounder,1,1.0,/players/rupesh-tomar,5,97,/teams/dabang-delhi-kc,2
+175,171.0,Anil Kumar,"Defender, left cover",5,1.0,/players/anil-kumar,5,311,/teams/tamil-thalaivas,29
+176,171.0,Umesh Mhatre,Raider,5,1.0,/players/umesh-mhatre,5,272,/teams/puneri-paltan,7
+177,171.0,Ravinder Kumar,"Defender, right corner",1,1.0,/players/ravinder-kumar,5,384,/teams/jaipur-pink-panthers,3
+178,171.0,Yong Joo Ok,All Rounder,1,1.0,/players/yong-joo-ok,5,513,/teams/u-mumba,5
+179,171.0,Ajvender Singh,Raider,2,1.0,/players/ajvender-singh,5,705,/teams/up-yoddha,30
+180,171.0,Vishnu Uthaman,Raider,3,1.0,/players/vishnu-uthaman,5,580,/teams/patna-pirates,6

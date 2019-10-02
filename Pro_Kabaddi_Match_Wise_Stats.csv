@@ -1,0 +1,133 @@
+Date,Match,Team1,Team1 Score,Team2 Score,Team2,Venue,Team1 Raid,Team1 Tackle,Team1 Allout,Team1 Extra,Team2 Raid,Team2 Tackle,Team2 Allout,Team2 Extra
+7/20/2019,1,Telugu Titans,25,31,U Mumba,Gachibowli Indoor Stadium,15,10,0,0,16,10,4,1
+7/20/2019,2,Bengaluru Bulls,34,32,Patna Pirates,Gachibowli Indoor Stadium,17,15,2,0,18,12,2,0
+7/21/2019,3,Bengaluru Bulls,24,42,Gujarat Fortune Giants,Gachibowli Indoor Stadium,17,5,0,2,17,17,6,2
+7/21/2019,4,Telugu Titans,26,39,Tamil Thalaivas,Gachibowli Indoor Stadium,15,8,0,3,20,15,4,0
+7/22/2019,5,U Mumba,23,42,Jaipur Pink Panthers,Gachibowli Indoor Stadium,18,5,0,0,25,11,6,0
+7/22/2019,6,Puneri Paltan,24,34,Haryana Steelers,Gachibowli Indoor Stadium,14,10,0,0,15,14,4,1
+7/24/2019,7,UP Yoddha,17,48,Bengal Warriors,Gachibowli Indoor Stadium,10,5,0,2,24,14,8,2
+7/24/2019,8,Telugu Titans,33,34,Dabang Delhi,Gachibowli Indoor Stadium,27,6,0,0,23,7,2,2
+7/25/2019,9,Dabang Delhi,30,29,Tamil Thalaivas,Gachibowli Indoor Stadium,13,9,2,6,12,11,2,4
+7/26/2019,10,UP Yoddha,19,44,Gujarat Fortune Giants,Gachibowli Indoor Stadium,12,5,0,2,23,14,6,1
+7/26/2019,11,Telugu Titans,22,34,Patna Pirates,Gachibowli Indoor Stadium,10,8,0,4,12,16,4,2
+7/27/2019,12,U Mumba,33,23,Puneri Paltan,Sardar Patel Indoor Stdm,15,12,4,2,12,11,0,0
+7/27/2019,13,Jaipur Pink Panthers,27,25,Bengal Warriors,Sardar Patel Indoor Stdm,12,10,2,3,13,11,0,1
+7/28/2019,14,Dabang Delhi,41,21,Haryana Steelers,Sardar Patel Indoor Stdm,22,9,4,6,16,4,0,1
+7/28/2019,15,U Mumba,26,30,Bengaluru Bulls,Sardar Patel Indoor Stdm,15,4,2,5,15,8,2,5
+7/29/2019,16,Tamil Thalaivas,23,24,Patna Pirates,Sardar Patel Indoor Stdm,9,10,0,4,7,13,0,4
+7/29/2019,17,Bengal Warriors,43,23,Puneri Paltan,Sardar Patel Indoor Stdm,22,12,6,3,13,9,0,1
+7/31/2019,18,Haryana Steelers,21,37,Jaipur Pink Panthers,Sardar Patel Indoor Stdm,12,9,0,0,17,14,4,2
+7/31/2019,19,U Mumba,23,27,UP Yoddha,Sardar Patel Indoor Stdm,10,11,0,2,10,13,2,2
+8/1/2019,20,Gujarat Fortune Giants,31,26,Dabang Delhi,Sardar Patel Indoor Stdm,17,10,2,2,13,9,2,2
+8/2/2019,21,Telugu Titans,20,20,UP Yoddha,Sardar Patel Indoor Stdm,9,10,0,1,5,13,0,2
+8/2/2019,22,U Mumba,32,20,Gujarat Fortune Giants,Sardar Patel Indoor Stdm,15,12,4,1,10,8,0,2
+8/3/2019,23,Patna Pirates,21,34,Jaipur Pink Panthers,Patliputra Sports Comp,12,7,0,2,12,17,4,1
+8/3/2019,24,Bengal Warriors,42,43,Bengaluru Bulls,Patliputra Sports Comp,29,6,4,3,31,8,4,0
+8/4/2019,25,Haryana Steelers,28,35,Tamil Thalaivas,Patliputra Sports Comp,16,10,2,0,20,10,4,1
+8/4/2019,26,Patna Pirates,20,41,Puneri Paltan,Patliputra Sports Comp,11,7,2,0,19,17,4,1
+8/5/2019,27,Dabang Delhi,35,24,Jaipur Pink Panthers,Patliputra Sports Comp,21,8,4,2,19,3,0,2
+8/5/2019,28,Gujarat Fortune Giants,31,33,Puneri Paltan,Patliputra Sports Comp,21,8,2,0,15,13,2,3
+8/7/2019,29,UP Yoddha,28,28,Tamil Thalaivas,Patliputra Sports Comp,13,12,2,1,13,10,2,3
+8/7/2019,30,Patna Pirates,26,35,Haryana Steelers,Patliputra Sports Comp,18,6,2,0,18,12,4,1
+8/8/2019,31,Telugu Titans,26,47,Bengaluru Bulls,Patliputra Sports Comp,16,10,0,0,21,19,4,3
+8/9/2019,32,Bengal Warriors,32,30,U Mumba,Patliputra Sports Comp,17,10,4,1,13,10,4,3
+8/9/2019,33,Patna Pirates,41,20,UP Yoddha,Patliputra Sports Comp,17,16,6,2,14,4,0,2
+8/10/2019,34,Gujarat Fortune Giants,28,34,Tamil Thalaivas,The Arena,14,9,2,3,15,13,4,2
+8/10/2019,35,Puneri Paltan,30,32,Dabang Delhi,The Arena,22,7,0,1,19,9,2,2
+8/11/2019,36,Bengaluru Bulls,30,33,Haryana Steelers,The Arena,17,9,2,2,18,12,2,1
+8/11/2019,37,Gujarat Fortune Giants,24,30,Telugu Titans,The Arena,15,8,0,1,11,16,2,1
+8/12/2019,38,Bengal Warriors,29,29,Telugu Titans,The Arena,13,11,2,3,13,10,2,4
+8/12/2019,39,UP Yoddha,35,33,Bengaluru Bulls,The Arena,16,15,4,0,22,10,0,1
+8/14/2019,40,UP Yoddha,33,36,Haryana Steelers,The Arena,21,10,2,0,20,12,4,0
+8/14/2019,41,Gujarat Fortune Giants,26,28,Bengal Warriors,The Arena,15,11,0,0,16,7,2,3
+8/15/2019,42,Jaipur Pink Panthers,33,25,Puneri Paltan,The Arena,16,13,4,0,16,8,0,1
+8/16/2019,43,U Mumba,34,30,Patna Pirates,The Arena,24,6,2,2,17,8,2,3
+8/16/2019,44,Gujarat Fortune Giants,19,22,Jaipur Pink Panthers,The Arena,8,9,0,2,9,13,0,0
+8/17/2019,45,Tamil Thalaivas,21,32,Bengaluru Bulls,Chennai Jawaharlal Nehru Stdm,15,6,0,0,15,10,4,3
+8/17/2019,46,Bengal Warriors,30,30,Dabang Delhi,Chennai Jawaharlal Nehru Stdm,19,7,2,2,18,7,2,3
+8/18/2019,47,Haryana Steelers,29,40,Telugu Titans,Chennai Jawaharlal Nehru Stdm,22,3,0,4,24,10,4,2
+8/18/2019,48,Tamil Thalaivas,31,31,Puneri Paltan,Chennai Jawaharlal Nehru Stdm,18,10,2,1,16,12,2,1
+8/19/2019,49,U Mumba,27,30,Haryana Steelers,Chennai Jawaharlal Nehru Stdm,14,10,2,1,16,9,2,3
+8/19/2019,50,UP Yoddha,31,24,Jaipur Pink Panthers,Chennai Jawaharlal Nehru Stdm,18,11,2,0,14,9,0,1
+8/21/2019,51,Puneri Paltan,31,23,Bengaluru Bulls,Chennai Jawaharlal Nehru Stdm,13,16,2,0,16,6,0,1
+8/21/2019,52,Tamil Thalaivas,26,28,Jaipur Pink Panthers,Chennai Jawaharlal Nehru Stdm,16,6,2,2,14,11,0,3
+8/22/2019,53,Bengal Warriors,35,26,Patna Pirates,Chennai Jawaharlal Nehru Stdm,20,11,4,0,18,6,2,0
+8/23/2019,54,Gujarat Fortune Giants,29,26,Patna Pirates,Chennai Jawaharlal Nehru Stdm,16,11,2,0,14,9,2,1
+8/23/2019,55,Tamil Thalaivas,24,29,U Mumba,Chennai Jawaharlal Nehru Stdm,14,6,0,4,14,11,2,2
+8/24/2019,56,Dabang Delhi,33,31,Bengaluru Bulls,Thyagaraj Sports Comp.,21,10,2,0,19,10,2,0
+8/24/2019,57,Jaipur Pink Panthers,21,24,Telugu Titans,Thyagaraj Sports Comp.,6,14,0,1,9,15,0,0
+8/25/2019,58,Jaipur Pink Panthers,30,41,Bengaluru Bulls,Thyagaraj Sports Comp.,13,12,2,3,21,16,4,0
+8/25/2019,59,Dabang Delhi,36,27,UP Yoddha,Thyagaraj Sports Comp.,20,10,4,2,18,9,0,0
+8/26/2019,60,Bengal Warriors,33,36,Haryana Steelers,Thyagaraj Sports Comp.,24,5,2,2,23,8,2,3
+8/26/2019,61,UP Yoddha,35,30,Puneri Paltan,Thyagaraj Sports Comp.,20,10,4,1,19,8,2,1
+8/28/2019,62,Gujarat Fortune Giants,25,41,Haryana Steelers,Thyagaraj Sports Comp.,16,8,0,1,20,14,6,1
+8/28/2019,63,Dabang Delhi,40,24,U Mumba,Thyagaraj Sports Comp.,18,16,6,0,14,10,0,0
+8/29/2019,64,Bengal Warriors,35,26,Tamil Thalaivas,Thyagaraj Sports Comp.,21,10,4,0,20,6,0,0
+8/30/2019,65,Telugu Titans,27,34,Puneri Paltan,Thyagaraj Sports Comp.,10,17,0,0,15,14,2,3
+8/30/2019,66,Dabang Delhi,38,35,Patna Pirates,Thyagaraj Sports Comp.,23,11,4,0,24,7,4,0
+8/31/2019,67,Bengaluru Bulls,23,32,Gujarat Fortune Giants,Sree Kanteerava Stadium,9,13,0,1,11,13,4,4
+8/31/2019,68,U Mumba,47,21,Jaipur Pink Panthers,Sree Kanteerava Stadium,22,15,8,2,15,5,0,1
+9/1/2019,69,UP Yoddha,32,29,Bengal Warriors,Sree Kanteerava Stadium,12,16,2,2,15,11,0,3
+9/1/2019,70,Bengaluru Bulls,33,27,Tamil Thalaivas,Sree Kanteerava Stadium,22,8,2,1,14,12,0,1
+9/2/2019,71,Puneri Paltan,27,41,Haryana Steelers,Sree Kanteerava Stadium,18,8,0,1,21,14,4,2
+9/2/2019,72,Telugu Titans,35,30,Tamil Thalaivas,Sree Kanteerava Stadium,21,9,2,3,22,8,0,0
+9/4/2019,73,Jaipur Pink Panthers,44,46,Dabang Delhi,Sree Kanteerava Stadium,22,13,4,5,28,9,4,5
+9/4/2019,74,Bengaluru Bulls,40,39,Patna Pirates,Sree Kanteerava Stadium,24,13,2,1,21,15,2,1
+9/5/2019,75,Puneri Paltan,33,33,U Mumba,Sree Kanteerava Stadium,12,12,4,5,18,11,2,2
+9/6/2019,76,Patna Pirates,29,41,UP Yoddha,Sree Kanteerava Stadium,19,8,2,0,20,14,6,1
+9/6/2019,77,Bengaluru Bulls,40,39,Telugu Titans,Sree Kanteerava Stadium,28,7,4,1,29,8,2,0
+9/7/2019,78,Bengal Warriors,25,25,Gujarat Fortune Giants,Netaji Indoor Stadium,17,8,0,0,16,8,0,1
+9/7/2019,79,Dabang Delhi,25,47,Haryana Steelers,Netaji Indoor Stadium,19,5,0,1,26,14,6,1
+9/8/2019,80,Dabang Delhi,50,34,Tamil Thalaivas,Netaji Indoor Stadium,32,8,6,4,27,3,0,4
+9/8/2019,81,Bengal Warriors,42,39,Puneri Paltan,Netaji Indoor Stadium,27,10,4,1,22,12,4,1
+9/9/2019,82,UP Yoddha,33,26,Gujarat Fortune Giants,Netaji Indoor Stadium,16,12,4,1,16,7,2,1
+9/9/2019,83,Tamil Thalaivas,25,51,Patna Pirates,Netaji Indoor Stadium,18,6,0,1,28,14,8,1
+9/10/2019,87,Telugu Titans,27,41,U Mumba,Netaji Indoor Stadium,17,13,2,0,16,10,4,2
+9/11/2019,84,Haryana Steelers,32,32,Jaipur Pink Panthers,Netaji Indoor Stadium,16,10,2,1,20,6,0,0
+9/11/2019,85,Bengal Warriors,29,26,U Mumba,Netaji Indoor Stadium,23,9,0,1,23,10,2,1
+9/12/2019,86,Jaipur Pink Panthers,33,36,Patna Pirates,Netaji Indoor Stadium,15,9,2,1,18,15,6,2
+9/12/2019,88,Bengal Warriors,42,40,Bengaluru Bulls,Netaji Indoor Stadium,25,12,4,1,28,7,2,3
+9/14/2019,89,Puneri Paltan,43,33,Gujarat Fortune Giants,S.S.C Sports Complex,20,18,4,1,17,8,2,6
+9/14/2019,90,Tamil Thalaivas,35,43,Haryana Steelers,S.S.C Sports Complex,22,9,2,2,23,15,4,1
+9/15/2019,91,Dabang Delhi,34,30,Gujarat Fortune Giants,S.S.C Sports Complex,19,10,4,1,19,5,2,4
+9/15/2019,92,Puneri Paltan,33,55,Patna Pirates,S.S.C Sports Complex,25,8,0,0,26,18,8,3
+9/16/2019,93,Jaipur Pink Panthers,32,38,UP Yoddha,S.S.C Sports Complex,20,11,0,1,23,8,4,3
+9/16/2019,94,Telugu Titans,29,37,Dabang Delhi,S.S.C Sports Complex,19,9,0,1,20,11,4,2
+9/18/2019,95,U Mumba,39,36,UP Yoddha,S.S.C Sports Complex,20,11,4,4,22,9,2,3
+9/18/2019,96,Puneri Paltan,36,36,Tamil Thalaivas,S.S.C Sports Complex,19,11,4,2,26,7,2,1
+9/19/2019,97,Bengal Warriors,48,36,Haryana Steelers,S.S.C Sports Complex,30,11,6,1,29,5,2,0
+9/20/2019,98,Telugu Titans,42,42,Patna Pirates,S.S.C Sports Complex,27,8,4,3,29,7,4,2
+9/20/2019,99,Puneri Paltan,42,38,Bengaluru Bulls,S.S.C Sports Complex,18,17,4,3,29,7,2,0
+9/21/2019,100,Jaipur Pink Panthers,28,28,Gujarat Fortune Giants,Sawai Mansingh Indoor Stdm,6,20,2,0,9,15,2,2
+9/21/2019,101,UP Yoddha,42,22,Tamil Thalaivas,Sawai Mansingh Indoor Stdm,19,14,6,3,12,7,2,1
+9/22/2019,102,U Mumba,31,25,Gujarat Fortune Giants,Sawai Mansingh Indoor Stdm,15,10,4,2,15,5,2,3
+9/22/2019,103,Jaipur Pink Panthers,40,41,Bengal Warriors,Sawai Mansingh Indoor Stdm,27,8,2,3,26,10,4,1
+9/23/2019,104,Patna Pirates,34,39,Haryana Steelers,Sawai Mansingh Indoor Stdm,27,6,0,1,24,8,6,1
+9/23/2019,105,Dabang Delhi,39,39,Bengaluru Bulls,Sawai Mansingh Indoor Stdm,20,12,4,3,23,10,2,4
+9/25/2019,106,Telugu Titans,39,40,Bengal Warriors,Sawai Mansingh Indoor Stdm,29,7,2,1,24,8,4,4
+9/25/2019,107,Jaipur Pink Panthers,43,34,Puneri Paltan,Sawai Mansingh Indoor Stdm,29,10,4,0,23,8,2,1
+9/26/2019,108,Patna Pirates,39,43,Dabang Delhi,Sawai Mansingh Indoor Stdm,27,6,4,2,31,8,2,2
+9/27/2019,109,U Mumba,33,35,Bengaluru Bulls,Sawai Mansingh Indoor Stdm,23,7,2,1,19,10,4,2
+9/27/2019,110,Jaipur Pink Panthers,31,51,Telugu Titans,Sawai Mansingh Indoor Stdm,22,6,0,3,33,12,6,0
+9/28/2019,111,Haryana Steelers,30,37,UP Yoddha,Tau Devi Lal Stadium,18,8,2,2,20,12,2,3
+9/28/2019,112,Gujarat Fortune Giants,50,21,Tamil Thalaivas,Tau Devi Lal Stadium,27,16,6,1,13,7,0,1
+9/29/2019,113,Puneri Paltan,,,Dabang Delhi,Tau Devi Lal Stadium,,,,,,,,
+9/29/2019,114,Haryana Steelers,,,Gujarat Fortune Giants,Tau Devi Lal Stadium,,,,,,,,
+9/30/2019,115,Bengal Warriors,,,Dabang Delhi,Tau Devi Lal Stadium,,,,,,,,
+9/30/2019,116,Tamil Thalaivas,,,U Mumba,Tau Devi Lal Stadium,,,,,,,,
+10/2/2019,117,U Mumba,,,Patna Pirates,Tau Devi Lal Stadium,,,,,,,,
+10/2/2019,118,Haryana Steelers,,,Bengaluru Bulls,Tau Devi Lal Stadium,,,,,,,,
+10/3/2019,119,Telugu Titans,,,Puneri Paltan,Tau Devi Lal Stadium,,,,,,,,
+10/4/2019,120,Jaipur Pink Panthers,,,Bengaluru Bulls,Tau Devi Lal Stadium,,,,,,,,
+10/4/2019,121,Haryana Steelers,,,Telugu Titans,Tau Devi Lal Stadium,,,,,,,,
+10/5/2019,122,UP Yoddha,,,Dabang Delhi,Noida Cricket Stdm,,,,,,,,
+10/5/2019,123,Gujarat Fortune Giants,,,Patna Pirates,Noida Cricket Stdm,,,,,,,,
+10/6/2019,124,Bengal Warriors,,,Patna Pirates,Noida Cricket Stdm,,,,,,,,
+10/6/2019,125,UP Yoddha,,,Puneri Paltan,Noida Cricket Stdm,,,,,,,,
+10/7/2019,126,Telugu Titans,,,Gujarat Fortune Giants,Noida Cricket Stdm,,,,,,,,
+10/7/2019,127,Tamil Thalaivas,,,Jaipur Pink Panthers,Noida Cricket Stdm,,,,,,,,
+10/9/2019,128,Bengal Warriors,,,Tamil Thalaivas,Noida Cricket Stdm,,,,,,,,
+10/9/2019,129,UP Yoddha,,,Telugu Titans,Noida Cricket Stdm,,,,,,,,
+10/10/2019,130,U Mumba,,,Haryana Steelers,Noida Cricket Stdm,,,,,,,,
+10/11/2019,131,Dabang Delhi,,,U Mumba,Noida Cricket Stdm,,,,,,,,
+10/11/2019,132,UP Yoddha,,,Bengaluru Bulls,Noida Cricket Stdm,,,,,,,,

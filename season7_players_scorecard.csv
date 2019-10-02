@@ -1,0 +1,779 @@
+,player_id,name,type,team_id,team_name,rank,index,matches played,total points earned,Most points in a match,not out percent,total raids,Successful Raids percent,No of Super Raids,Super 10s,Total Raid Points,Average Raid Points per Match,No of super tackles,high 5s,Total tackle points,average tackle per match,Total tackles,Tackle Strike Rate
+0,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Overall,73.0,584.0,29.0,72.47,850.0,65.05,18.0,24.0,553.0,7.57,3.0,0.0,31.0,0.38,84.0,36.9
+1,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Season 7,17.0,228.0,29.0,74.02,308.0,70.45,5.0,11.0,217.0,12.76,1.0,0.0,11.0,0.58,24.0,45.83
+2,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Season 6,24.0,282.0,22.0,77.33,375.0,72.26,12.0,13.0,271.0,11.29,0.0,0.0,11.0,0.45,40.0,27.5
+3,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Season 5,9.0,10.0,4.0,45.83,24.0,37.5,0.0,0.0,9.0,1.0,0.0,0.0,1.0,0.11,2.0,50.0
+4,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Season 4,10.0,11.0,4.0,48.48,33.0,33.33,0.0,0.0,11.0,1.1,0.0,0.0,0.0,0.0,1.0,0.0
+5,318,Pawan Kumar Sehrawat,Raider,1,/teams/bengaluru-bulls,1.0,Season 3,13.0,53.0,7.0,64.54,110.0,40.9,1.0,0.0,45.0,3.46,2.0,0.0,8.0,0.46,17.0,47.05
+6,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Overall,102.0,1072.0,34.0,77.12,1801.0,59.13,48.0,55.0,1065.0,10.44,1.0,0.0,7.0,0.05,34.0,20.58
+7,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 7,17.0,207.0,26.0,74.4,336.0,61.6,10.0,11.0,207.0,12.17,0.0,0.0,0.0,0.0,2.0,0.0
+8,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 6,21.0,233.0,27.0,76.21,391.0,59.59,6.0,15.0,233.0,11.09,0.0,0.0,0.0,0.0,1.0,0.0
+9,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 5,26.0,369.0,34.0,80.71,586.0,62.96,18.0,19.0,369.0,14.19,0.0,0.0,0.0,0.0,10.0,0.0
+10,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 4,16.0,133.0,18.0,76.04,263.0,49.8,3.0,5.0,131.0,8.18,1.0,0.0,2.0,0.06,6.0,33.33
+11,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 3,16.0,121.0,24.0,75.93,187.0,62.03,10.0,5.0,116.0,7.25,0.0,0.0,5.0,0.31,13.0,38.46
+12,197,Pardeep Narwal,Raider,6,/teams/patna-pirates,2.0,Season 2,6.0,9.0,4.0,68.42,38.0,23.68,1.0,0.0,9.0,1.5,0.0,0.0,0.0,0.0,2.0,0.0
+13,2296,Naveen Kumar,Raider,2,/teams/dabang-delhi-kc,3.0,Overall,38.0,376.0,17.0,83.12,628.0,58.75,5.0,23.0,369.0,9.71,1.0,0.0,7.0,0.15,17.0,41.17
+14,2296,Naveen Kumar,Raider,2,/teams/dabang-delhi-kc,3.0,Season 7,16.0,199.0,17.0,86.6,321.0,61.37,2.0,15.0,197.0,12.31,0.0,0.0,2.0,0.12,5.0,40.0
+15,2296,Naveen Kumar,Raider,2,/teams/dabang-delhi-kc,3.0,Season 6,22.0,177.0,15.0,79.47,307.0,56.02,3.0,8.0,172.0,7.81,1.0,0.0,5.0,0.18,12.0,41.66
+16,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Overall,76.0,673.0,18.0,79.96,1178.0,56.36,20.0,30.0,664.0,8.73,1.0,0.0,9.0,0.1,43.0,20.93
+17,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Season 7,17.0,156.0,18.0,80.38,260.0,60.0,5.0,7.0,156.0,9.17,0.0,0.0,0.0,0.0,6.0,0.0
+18,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Season 6,22.0,206.0,17.0,79.52,376.0,54.78,6.0,9.0,206.0,9.36,0.0,0.0,0.0,0.0,5.0,0.0
+19,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Season 5,21.0,192.0,17.0,82.01,367.0,51.77,6.0,9.0,190.0,9.04,0.0,0.0,2.0,0.09,13.0,15.38
+20,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Season 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,143,Maninder Singh,Raider,4,/teams/bengal-warriors,4.0,Season 1,16.0,137.0,13.0,76.0,175.0,74.28,3.0,5.0,130.0,8.12,1.0,0.0,7.0,0.37,19.0,36.84
+22,2026,Siddharth Sirish Desai,Raider,8,/teams/telugu-titans,5.0,Overall,37.0,361.0,23.0,74.73,558.0,63.62,12.0,17.0,355.0,9.59,0.0,0.0,6.0,0.16,14.0,42.85
+23,2026,Siddharth Sirish Desai,Raider,8,/teams/telugu-titans,5.0,Season 7,16.0,140.0,23.0,70.88,237.0,57.8,2.0,5.0,137.0,8.56,0.0,0.0,3.0,0.18,5.0,60.0
+24,2026,Siddharth Sirish Desai,Raider,8,/teams/telugu-titans,5.0,Season 6,21.0,221.0,19.0,77.57,321.0,67.91,10.0,12.0,218.0,10.38,0.0,0.0,3.0,0.14,9.0,33.33
+25,366,Vikash Kandola,Raider,28,/teams/haryana-steelers,6.0,Overall,48.0,367.0,15.0,78.55,760.0,47.1,11.0,13.0,358.0,7.45,0.0,0.0,9.0,0.18,33.0,27.27
+26,366,Vikash Kandola,Raider,28,/teams/haryana-steelers,6.0,Season 7,13.0,129.0,13.0,80.76,260.0,48.07,5.0,7.0,125.0,9.61,0.0,0.0,4.0,0.3,9.0,44.44
+27,366,Vikash Kandola,Raider,28,/teams/haryana-steelers,6.0,Season 6,22.0,177.0,15.0,77.23,347.0,49.56,5.0,6.0,172.0,7.81,0.0,0.0,5.0,0.22,18.0,27.77
+28,366,Vikash Kandola,Raider,28,/teams/haryana-steelers,6.0,Season 5,9.0,58.0,9.0,78.67,136.0,42.64,1.0,0.0,58.0,6.44,0.0,0.0,0.0,0.0,4.0,0.0
+29,366,Vikash Kandola,Raider,28,/teams/haryana-steelers,6.0,Season 4,4.0,3.0,3.0,70.58,17.0,17.64,0.0,0.0,3.0,0.75,0.0,0.0,0.0,0.0,2.0,0.0
+30,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Overall,120.0,909.0,20.0,81.26,1708.0,48.24,20.0,29.0,824.0,6.86,8.0,4.0,85.0,0.64,229.0,37.11
+31,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 7,17.0,124.0,14.0,81.37,247.0,46.15,2.0,5.0,114.0,6.7,2.0,0.0,10.0,0.47,25.0,40.0
+32,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 6,22.0,208.0,20.0,80.32,366.0,53.55,4.0,10.0,196.0,8.9,1.0,1.0,12.0,0.5,38.0,31.57
+33,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 5,24.0,186.0,17.0,78.88,360.0,47.77,8.0,7.0,172.0,7.16,1.0,0.0,14.0,0.54,34.0,41.17
+34,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 4,16.0,130.0,17.0,85.92,277.0,45.48,2.0,2.0,126.0,7.87,0.0,0.0,4.0,0.25,28.0,14.28
+35,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 3,12.0,76.0,13.0,82.16,157.0,43.94,0.0,1.0,69.0,5.75,0.0,0.0,7.0,0.58,21.0,33.33
+36,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 2,15.0,96.0,14.0,82.35,153.0,39.21,1.0,1.0,60.0,4.0,4.0,3.0,36.0,2.13,61.0,59.01
+37,41,Deepak Niwas Hooda,All Rounder,3,/teams/jaipur-pink-panthers,7.0,Season 1,14.0,89.0,18.0,78.37,148.0,58.78,3.0,3.0,87.0,6.21,0.0,0.0,2.0,0.14,22.0,9.09
+38,763,Manjeet,Raider,7,/teams/puneri-paltan,8.0,Overall,40.0,220.0,16.0,74.51,412.0,43.44,5.0,4.0,179.0,4.47,2.0,0.0,41.0,0.97,90.0,45.55
+39,763,Manjeet,Raider,7,/teams/puneri-paltan,8.0,Season 7,18.0,118.0,16.0,76.23,223.0,41.25,2.0,2.0,92.0,5.11,1.0,0.0,26.0,1.38,52.0,50.0
+40,763,Manjeet,Raider,7,/teams/puneri-paltan,8.0,Season 6,22.0,102.0,10.0,72.48,189.0,46.03,3.0,2.0,87.0,3.95,1.0,0.0,15.0,0.63,38.0,39.47
+41,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Overall,118.0,996.0,23.0,80.02,1977.0,47.44,24.0,40.0,938.0,7.94,5.0,0.0,58.0,0.44,183.0,31.69
+42,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 7,18.0,120.0,14.0,73.25,258.0,43.79,0.0,4.0,113.0,6.27,0.0,0.0,7.0,0.38,26.0,26.92
+43,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 6,21.0,166.0,18.0,75.14,350.0,45.42,4.0,4.0,159.0,7.57,1.0,0.0,7.0,0.28,19.0,36.84
+44,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 5,22.0,193.0,17.0,81.06,412.0,44.66,5.0,8.0,184.0,8.36,0.0,0.0,9.0,0.4,33.0,27.27
+45,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 4,16.0,150.0,18.0,86.15,325.0,44.92,6.0,7.0,146.0,9.12,1.0,0.0,4.0,0.18,11.0,36.36
+46,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 3,13.0,99.0,17.0,79.8,208.0,41.82,1.0,4.0,87.0,6.69,2.0,0.0,12.0,0.76,29.0,41.37
+47,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 2,14.0,107.0,14.0,83.06,183.0,53.55,6.0,5.0,98.0,7.0,0.0,0.0,9.0,0.64,34.0,26.47
+48,81,Rahul Chaudhari,Raider,29,/teams/tamil-thalaivas,9.0,Season 1,14.0,161.0,23.0,82.15,241.0,62.65,2.0,8.0,151.0,10.78,1.0,0.0,10.0,0.64,31.0,32.25
+49,2661,Pankaj Mohite,Raider,7,/teams/puneri-paltan,10.0,Overall,15.0,99.0,17.0,76.88,186.0,52.68,4.0,2.0,98.0,6.53,0.0,0.0,1.0,0.06,12.0,8.33
+50,2661,Pankaj Mohite,Raider,7,/teams/puneri-paltan,10.0,Season 7,15.0,99.0,17.0,76.88,186.0,52.68,4.0,2.0,98.0,6.53,0.0,0.0,1.0,0.06,12.0,8.33
+51,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Overall,71.0,367.0,17.0,72.64,775.0,44.77,8.0,9.0,347.0,4.88,3.0,0.0,20.0,0.23,45.0,44.44
+52,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 7,17.0,106.0,15.0,77.02,222.0,46.39,2.0,2.0,103.0,6.05,0.0,0.0,3.0,0.17,8.0,37.5
+53,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 6,25.0,146.0,17.0,70.48,332.0,42.46,4.0,5.0,141.0,5.64,1.0,0.0,5.0,0.16,11.0,45.45
+54,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 5,19.0,98.0,13.0,74.7,170.0,50.58,2.0,2.0,86.0,4.52,2.0,0.0,12.0,0.52,22.0,54.54
+55,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 4,5.0,7.0,5.0,68.75,16.0,43.75,0.0,0.0,7.0,1.4,0.0,0.0,0.0,0.0,3.0,0.0
+56,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 3,5.0,10.0,7.0,57.14,35.0,28.57,0.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0
+57,106,Shrikant Jadhav,Raider,30,/teams/up-yoddha,11.0,Season 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Overall,80.0,364.0,12.0,77.05,815.0,43.92,6.0,10.0,358.0,4.47,0.0,0.0,6.0,0.07,49.0,12.24
+59,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 7,17.0,96.0,12.0,79.16,192.0,48.95,3.0,3.0,94.0,5.52,0.0,0.0,2.0,0.11,13.0,15.38
+60,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 6,22.0,123.0,12.0,78.03,255.0,47.84,1.0,4.0,122.0,5.54,0.0,0.0,1.0,0.04,11.0,9.09
+61,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 5,22.0,124.0,11.0,77.45,306.0,40.19,2.0,3.0,123.0,5.59,0.0,0.0,1.0,0.04,17.0,5.88
+62,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 4,11.0,12.0,3.0,69.04,42.0,28.57,0.0,0.0,12.0,1.09,0.0,0.0,0.0,0.0,1.0,0.0
+63,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 3,4.0,2.0,1.0,16.66,6.0,33.33,0.0,0.0,2.0,0.5,0.0,0.0,0.0,0.0,2.0,0.0
+64,219,K. Prapanjan,Raider,4,/teams/bengal-warriors,12.0,Season 2,4.0,7.0,3.0,71.42,14.0,35.71,0.0,0.0,5.0,1.25,0.0,0.0,2.0,0.5,5.0,40.0
+65,686,Rohit Gulia,All Rounder,31,/teams/gujarat-fortunegiants,13.0,Overall,55.0,195.0,13.0,76.28,544.0,34.0,2.0,3.0,185.0,3.36,0.0,0.0,10.0,0.18,54.0,18.51
+66,686,Rohit Gulia,All Rounder,31,/teams/gujarat-fortunegiants,13.0,Season 7,17.0,96.0,13.0,74.13,232.0,39.65,0.0,3.0,92.0,5.41,0.0,0.0,4.0,0.23,15.0,26.66
+67,686,Rohit Gulia,All Rounder,31,/teams/gujarat-fortunegiants,13.0,Season 6,19.0,61.0,9.0,77.63,152.0,38.15,2.0,0.0,58.0,3.05,0.0,0.0,3.0,0.15,19.0,15.78
+68,686,Rohit Gulia,All Rounder,31,/teams/gujarat-fortunegiants,13.0,Season 5,19.0,38.0,9.0,78.12,160.0,21.87,0.0,0.0,35.0,1.84,0.0,0.0,3.0,0.15,20.0,15.0
+69,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Overall,89.0,703.0,32.0,79.08,1401.0,47.39,15.0,26.0,664.0,7.46,2.0,1.0,39.0,0.41,104.0,37.5
+70,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Season 7,17.0,92.0,14.0,70.86,230.0,38.26,2.0,3.0,88.0,5.17,0.0,0.0,4.0,0.23,17.0,23.52
+71,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Season 6,24.0,171.0,16.0,81.23,341.0,47.5,5.0,5.0,162.0,6.75,0.0,1.0,9.0,0.37,30.0,30.0
+72,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Season 5,22.0,231.0,32.0,80.38,418.0,52.39,1.0,12.0,219.0,9.95,1.0,0.0,12.0,0.5,27.0,44.44
+73,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Season 4,14.0,100.0,11.0,77.77,234.0,39.74,3.0,1.0,93.0,6.64,1.0,0.0,7.0,0.42,16.0,43.75
+74,326,Rohit Kumar,Raider,1,/teams/bengaluru-bulls,14.0,Season 3,12.0,109.0,16.0,84.26,178.0,57.3,4.0,5.0,102.0,8.5,0.0,0.0,7.0,0.58,14.0,50.0
+75,484,Mohammad Esmaeil Nabibakhsh,All Rounder,4,/teams/bengal-warriors,15.0,Overall,17.0,91.0,10.0,81.32,166.0,40.36,3.0,1.0,67.0,3.94,2.0,1.0,24.0,1.29,47.0,51.06
+76,484,Mohammad Esmaeil Nabibakhsh,All Rounder,4,/teams/bengal-warriors,15.0,Season 7,17.0,91.0,10.0,81.32,166.0,40.36,3.0,1.0,67.0,3.94,2.0,1.0,24.0,1.29,47.0,51.06
+77,2028,Abhishek Singh,Raider,5,/teams/u-mumba,16.0,Overall,29.0,141.0,13.0,81.87,309.0,43.36,3.0,6.0,134.0,4.62,0.0,0.0,7.0,0.24,31.0,22.58
+78,2028,Abhishek Singh,Raider,5,/teams/u-mumba,16.0,Season 7,14.0,88.0,13.0,81.77,192.0,45.31,2.0,4.0,87.0,6.21,0.0,0.0,1.0,0.07,12.0,8.33
+79,2028,Abhishek Singh,Raider,5,/teams/u-mumba,16.0,Season 6,15.0,53.0,13.0,82.05,117.0,40.17,1.0,2.0,47.0,3.13,0.0,0.0,6.0,0.4,19.0,31.57
+80,2508,V. Ajith Kumar,Raider,29,/teams/tamil-thalaivas,17.0,Overall,15.0,89.0,18.0,70.46,149.0,59.73,1.0,3.0,89.0,5.93,0.0,0.0,0.0,0.0,9.0,0.0
+81,2508,V. Ajith Kumar,Raider,29,/teams/tamil-thalaivas,17.0,Season 7,15.0,89.0,18.0,70.46,149.0,59.73,1.0,3.0,89.0,5.93,0.0,0.0,0.0,0.0,9.0,0.0
+82,2488,Vinay,Raider,28,/teams/haryana-steelers,18.0,Overall,16.0,81.0,14.0,79.61,157.0,49.04,5.0,2.0,77.0,4.81,0.0,0.0,4.0,0.25,15.0,26.66
+83,2488,Vinay,Raider,28,/teams/haryana-steelers,18.0,Season 7,16.0,81.0,14.0,79.61,157.0,49.04,5.0,2.0,77.0,4.81,0.0,0.0,4.0,0.25,15.0,26.66
+84,757,Sachin Tanwar,Raider,31,/teams/gujarat-fortunegiants,19.0,Overall,62.0,461.0,14.0,76.13,859.0,50.29,4.0,16.0,432.0,6.96,3.0,0.0,29.0,0.41,55.0,52.72
+85,757,Sachin Tanwar,Raider,31,/teams/gujarat-fortunegiants,19.0,Season 7,15.0,84.0,10.0,72.72,198.0,41.91,1.0,2.0,83.0,5.53,0.0,0.0,1.0,0.06,8.0,12.5
+86,757,Sachin Tanwar,Raider,31,/teams/gujarat-fortunegiants,19.0,Season 6,23.0,204.0,12.0,78.14,366.0,51.91,1.0,7.0,190.0,8.26,2.0,0.0,14.0,0.52,22.0,63.63
+87,757,Sachin Tanwar,Raider,31,/teams/gujarat-fortunegiants,19.0,Season 5,24.0,173.0,14.0,75.93,295.0,53.89,2.0,7.0,159.0,6.62,1.0,0.0,14.0,0.54,25.0,56.0
+88,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Overall,57.0,295.0,11.0,75.46,652.0,43.71,9.0,5.0,285.0,5.0,2.0,0.0,10.0,0.14,41.0,24.39
+89,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Season 7,15.0,79.0,11.0,73.65,186.0,40.32,3.0,1.0,75.0,5.0,1.0,0.0,4.0,0.2,14.0,28.57
+90,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Season 6,24.0,158.0,11.0,76.89,316.0,48.41,3.0,3.0,153.0,6.37,1.0,0.0,5.0,0.16,15.0,33.33
+91,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Season 5,11.0,51.0,11.0,77.86,122.0,41.8,3.0,1.0,51.0,4.63,0.0,0.0,0.0,0.0,4.0,0.0
+92,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Season 2,1.0,1.0,1.0,62.5,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,50.0
+93,36,Chandran Ranjit,Raider,2,/teams/dabang-delhi-kc,19.0,Season 1,6.0,6.0,4.0,60.0,20.0,30.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0
+94,2024,Arjun Deshwal,Raider,5,/teams/u-mumba,21.0,Overall,18.0,82.0,15.0,75.79,157.0,50.95,2.0,2.0,80.0,4.44,0.0,0.0,2.0,0.11,5.0,40.0
+95,2024,Arjun Deshwal,Raider,5,/teams/u-mumba,21.0,Season 7,15.0,78.0,15.0,76.02,146.0,52.05,2.0,2.0,76.0,5.06,0.0,0.0,2.0,0.13,5.0,40.0
+96,2024,Arjun Deshwal,Raider,5,/teams/u-mumba,21.0,Season 6,3.0,4.0,4.0,72.72,11.0,36.36,0.0,0.0,4.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0
+97,2357,Naveen,Raider,28,/teams/haryana-steelers,22.0,Overall,34.0,160.0,17.0,75.49,306.0,47.05,5.0,2.0,144.0,4.23,2.0,0.0,16.0,0.41,51.0,31.37
+98,2357,Naveen,Raider,28,/teams/haryana-steelers,22.0,Season 7,13.0,58.0,14.0,72.56,113.0,49.55,1.0,1.0,56.0,4.3,0.0,0.0,2.0,0.15,8.0,25.0
+99,2357,Naveen,Raider,28,/teams/haryana-steelers,22.0,Season 6,21.0,102.0,17.0,77.2,193.0,45.59,4.0,1.0,88.0,4.19,2.0,0.0,14.0,0.57,43.0,32.55
+100,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Overall,115.0,811.0,20.0,77.53,1687.0,46.82,23.0,29.0,790.0,6.86,0.0,0.0,21.0,0.18,82.0,25.6
+101,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 7,13.0,58.0,11.0,74.85,171.0,33.91,2.0,1.0,58.0,4.46,0.0,0.0,0.0,0.0,5.0,0.0
+102,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 6,22.0,204.0,20.0,79.38,388.0,52.31,3.0,7.0,203.0,9.22,0.0,0.0,1.0,0.04,11.0,9.09
+103,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 5,22.0,222.0,20.0,81.57,407.0,52.33,3.0,12.0,213.0,9.68,0.0,0.0,9.0,0.4,25.0,36.0
+104,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 4,16.0,64.0,12.0,78.06,155.0,40.64,5.0,1.0,63.0,3.93,0.0,0.0,1.0,0.06,8.0,12.5
+105,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 3,14.0,56.0,11.0,77.02,148.0,35.13,2.0,1.0,52.0,3.71,0.0,0.0,4.0,0.28,9.0,44.44
+106,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 2,13.0,80.0,12.0,71.05,190.0,41.57,6.0,2.0,79.0,6.07,0.0,0.0,1.0,0.07,6.0,16.66
+107,26,Ajay Thakur,Raider,29,/teams/tamil-thalaivas,22.0,Season 1,15.0,127.0,16.0,74.56,228.0,53.5,2.0,5.0,122.0,8.13,0.0,0.0,5.0,0.33,18.0,27.77
+108,358,Vishal Bhardwaj,Defender,8,/teams/telugu-titans,22.0,Overall,57.0,196.0,9.0,98.33,60.0,1.66,0.0,0.0,1.0,0.01,21.0,15.0,195.0,3.05,342.0,57.01
+109,358,Vishal Bhardwaj,Defender,8,/teams/telugu-titans,22.0,Season 7,16.0,58.0,8.0,100.0,14.0,0.0,0.0,0.0,0.0,0.0,9.0,5.0,58.0,3.06,95.0,61.05
+110,358,Vishal Bhardwaj,Defender,8,/teams/telugu-titans,22.0,Season 6,17.0,60.0,9.0,100.0,40.0,0.0,0.0,0.0,0.0,0.0,9.0,5.0,60.0,3.0,95.0,63.15
+111,358,Vishal Bhardwaj,Defender,8,/teams/telugu-titans,22.0,Season 5,22.0,71.0,7.0,80.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,71.0,3.09,137.0,51.82
+112,358,Vishal Bhardwaj,Defender,8,/teams/telugu-titans,22.0,Season 4,2.0,7.0,5.0,100.0,1.0,100.0,0.0,0.0,1.0,0.5,0.0,0.0,6.0,3.0,15.0,40.0
+113,290,Sandeep Kumar Dhull,"Defender, left corner",3,/teams/jaipur-pink-panthers,22.0,Overall,61.0,194.0,8.0,60.0,5.0,20.0,0.0,0.0,1.0,0.01,18.0,13.0,193.0,2.86,360.0,53.61
+114,290,Sandeep Kumar Dhull,"Defender, left corner",3,/teams/jaipur-pink-panthers,22.0,Season 7,17.0,60.0,8.0,66.66,3.0,33.33,0.0,0.0,1.0,0.05,7.0,5.0,59.0,3.05,104.0,56.73
+115,290,Sandeep Kumar Dhull,"Defender, left corner",3,/teams/jaipur-pink-panthers,22.0,Season 6,22.0,67.0,6.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,67.0,2.81,128.0,52.34
+116,290,Sandeep Kumar Dhull,"Defender, left corner",3,/teams/jaipur-pink-panthers,22.0,Season 4,12.0,35.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,35.0,2.91,67.0,52.23
+117,290,Sandeep Kumar Dhull,"Defender, left corner",3,/teams/jaipur-pink-panthers,22.0,Season 3,10.0,32.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,32.0,2.6,61.0,52.45
+118,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Overall,95.0,292.0,9.0,88.63,44.0,9.09,0.0,0.0,4.0,0.04,18.0,19.0,288.0,2.84,448.0,64.28
+119,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 7,16.0,55.0,6.0,91.66,12.0,16.66,0.0,0.0,2.0,0.12,3.0,2.0,53.0,3.12,88.0,60.22
+120,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 6,23.0,83.0,7.0,100.0,14.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,83.0,3.47,130.0,63.84
+121,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 5,24.0,57.0,9.0,81.81,11.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,57.0,2.25,99.0,57.57
+122,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 4,16.0,52.0,8.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,4.0,52.0,2.81,72.0,72.22
+123,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 3,11.0,33.0,6.0,50.0,2.0,50.0,0.0,0.0,1.0,0.09,0.0,2.0,32.0,2.9,46.0,69.56
+124,259,Fazel Atrachali,"Defender, left corner",5,/teams/u-mumba,26.0,Season 2,5.0,12.0,7.0,75.0,4.0,25.0,0.0,0.0,1.0,0.2,2.0,1.0,11.0,1.8,13.0,84.61
+125,2330,Sumit,"Defender, left corner",30,/teams/up-yoddha,26.0,Overall,17.0,60.0,6.0,83.33,6.0,33.33,0.0,0.0,2.0,0.11,0.0,5.0,58.0,3.41,106.0,54.71
+126,2330,Sumit,"Defender, left corner",30,/teams/up-yoddha,26.0,Season 7,17.0,60.0,6.0,83.33,6.0,33.33,0.0,0.0,2.0,0.11,0.0,5.0,58.0,3.41,106.0,54.71
+127,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Overall,91.0,275.0,9.0,96.99,133.0,6.76,0.0,0.0,9.0,0.09,16.0,25.0,266.0,2.74,523.0,50.86
+128,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Season 7,18.0,53.0,7.0,94.44,18.0,11.11,0.0,0.0,2.0,0.11,5.0,5.0,51.0,2.55,100.0,51.0
+129,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Season 6,23.0,57.0,7.0,96.29,54.0,5.55,0.0,0.0,3.0,0.13,2.0,4.0,54.0,2.26,129.0,41.86
+130,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Season 5,24.0,79.0,8.0,98.07,52.0,5.76,0.0,0.0,3.0,0.12,4.0,9.0,76.0,3.0,146.0,52.05
+131,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Season 4,14.0,37.0,5.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,37.0,2.35,73.0,50.68
+132,322,PO Surjeet Singh,"Defender, right cover",7,/teams/puneri-paltan,28.0,Season 3,12.0,49.0,9.0,100.0,6.0,16.66,0.0,0.0,1.0,0.08,1.0,5.0,48.0,3.91,75.0,64.0
+133,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Overall,64.0,446.0,20.0,82.22,906.0,47.01,10.0,14.0,426.0,6.65,2.0,0.0,20.0,0.28,73.0,27.39
+134,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Season 7,11.0,52.0,11.0,74.13,116.0,42.24,0.0,1.0,49.0,4.45,0.0,0.0,3.0,0.27,15.0,20.0
+135,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Season 6,11.0,102.0,20.0,83.24,191.0,52.35,1.0,4.0,100.0,9.09,0.0,0.0,2.0,0.18,9.0,22.22
+136,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Season 5,20.0,177.0,18.0,86.23,327.0,51.07,7.0,7.0,167.0,8.35,1.0,0.0,10.0,0.45,30.0,33.33
+137,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Season 4,12.0,34.0,7.0,74.1,112.0,29.46,1.0,0.0,33.0,2.75,0.0,0.0,1.0,0.08,8.0,12.5
+138,320,Nitin Tomar,Raider,7,/teams/puneri-paltan,29.0,Season 3,10.0,81.0,13.0,84.37,160.0,48.12,1.0,2.0,77.0,7.7,1.0,0.0,4.0,0.3,11.0,36.36
+139,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Overall,117.0,534.0,14.0,86.13,714.0,33.75,11.0,1.0,241.0,2.05,28.0,16.0,293.0,2.26,531.0,55.17
+140,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 7,16.0,51.0,6.0,81.25,48.0,25.0,0.0,0.0,12.0,0.75,5.0,1.0,39.0,2.12,60.0,65.0
+141,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 6,18.0,66.0,7.0,87.2,86.0,29.06,1.0,0.0,25.0,1.38,7.0,1.0,41.0,1.88,81.0,50.61
+142,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 5,21.0,85.0,9.0,93.16,117.0,28.2,1.0,0.0,33.0,1.57,3.0,1.0,52.0,2.33,102.0,50.98
+143,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 4,16.0,66.0,7.0,89.77,88.0,27.27,0.0,0.0,24.0,1.5,2.0,3.0,42.0,2.5,83.0,50.6
+144,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 3,14.0,64.0,11.0,98.18,55.0,16.36,0.0,0.0,9.0,0.64,2.0,6.0,55.0,3.78,95.0,57.89
+145,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 2,16.0,83.0,11.0,81.5,146.0,31.5,1.0,0.0,46.0,2.87,3.0,2.0,37.0,2.12,71.0,52.11
+146,142,Sandeep Narwal,All Rounder,5,/teams/u-mumba,30.0,Season 1,16.0,119.0,14.0,80.45,174.0,52.87,8.0,1.0,92.0,5.75,6.0,2.0,27.0,1.31,41.0,65.85
+147,772,More GB,Raider,31,/teams/gujarat-fortunegiants,30.0,Overall,43.0,162.0,13.0,71.81,337.0,37.98,1.0,2.0,128.0,2.97,3.0,0.0,34.0,0.72,57.0,59.64
+148,772,More GB,Raider,31,/teams/gujarat-fortunegiants,30.0,Season 7,15.0,55.0,9.0,74.16,120.0,29.16,0.0,0.0,35.0,2.33,1.0,0.0,20.0,1.26,33.0,60.6
+149,772,More GB,Raider,31,/teams/gujarat-fortunegiants,30.0,Season 6,22.0,91.0,13.0,71.51,172.0,45.93,1.0,2.0,79.0,3.59,2.0,0.0,12.0,0.45,21.0,57.14
+150,772,More GB,Raider,31,/teams/gujarat-fortunegiants,30.0,Season 5,6.0,16.0,6.0,66.66,45.0,31.11,0.0,0.0,14.0,2.33,0.0,0.0,2.0,0.33,3.0,66.66
+151,621,Baldev Singh,"Defender, right corner",4,/teams/bengal-warriors,32.0,Overall,35.0,78.0,7.0,66.66,6.0,16.66,0.0,0.0,1.0,0.02,8.0,7.0,77.0,1.97,157.0,49.04
+152,621,Baldev Singh,"Defender, right corner",4,/teams/bengal-warriors,32.0,Season 7,17.0,50.0,7.0,80.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,6.0,50.0,2.64,87.0,57.47
+153,621,Baldev Singh,"Defender, right corner",4,/teams/bengal-warriors,32.0,Season 6,18.0,28.0,5.0,0.0,1.0,100.0,0.0,0.0,1.0,0.05,3.0,1.0,27.0,1.33,70.0,38.57
+154,2286,Surender Gill,Raider,30,/teams/up-yoddha,33.0,Overall,14.0,55.0,8.0,74.64,142.0,33.09,0.0,0.0,47.0,3.35,1.0,0.0,8.0,0.5,12.0,66.66
+155,2286,Surender Gill,Raider,30,/teams/up-yoddha,33.0,Season 7,14.0,55.0,8.0,74.64,142.0,33.09,0.0,0.0,47.0,3.35,1.0,0.0,8.0,0.5,12.0,66.66
+156,637,Neeraj Kumar,"Defender, right cover",6,/teams/patna-pirates,34.0,Overall,34.0,60.0,11.0,60.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,60.0,1.64,143.0,41.95
+157,637,Neeraj Kumar,"Defender, right cover",6,/teams/patna-pirates,34.0,Season 7,17.0,47.0,11.0,75.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,47.0,2.58,94.0,50.0
+158,637,Neeraj Kumar,"Defender, right cover",6,/teams/patna-pirates,34.0,Season 5,17.0,13.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0,0.7,49.0,26.53
+159,791,Nitin Rawal,All Rounder,3,/teams/jaipur-pink-panthers,34.0,Overall,43.0,167.0,14.0,78.73,301.0,40.53,6.0,2.0,122.0,2.83,6.0,1.0,45.0,0.9,93.0,48.38
+160,791,Nitin Rawal,All Rounder,3,/teams/jaipur-pink-panthers,34.0,Season 7,13.0,51.0,8.0,75.0,96.0,33.33,1.0,0.0,32.0,2.46,4.0,1.0,19.0,1.15,30.0,63.33
+161,791,Nitin Rawal,All Rounder,3,/teams/jaipur-pink-panthers,34.0,Season 6,9.0,31.0,11.0,78.94,57.0,43.85,1.0,0.0,25.0,2.77,1.0,0.0,6.0,0.55,11.0,54.54
+162,791,Nitin Rawal,All Rounder,3,/teams/jaipur-pink-panthers,34.0,Season 5,21.0,85.0,14.0,81.08,148.0,43.91,4.0,2.0,65.0,3.09,1.0,0.0,20.0,0.9,52.0,38.46
+163,769,Mahender Singh,"Defender, left cover",1,/teams/bengaluru-bulls,36.0,Overall,61.0,167.0,10.0,89.47,19.0,5.26,0.0,0.0,1.0,0.01,13.0,12.0,166.0,2.5,322.0,51.55
+164,769,Mahender Singh,"Defender, left cover",1,/teams/bengaluru-bulls,36.0,Season 7,15.0,46.0,7.0,100.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,3.0,46.0,2.6,87.0,52.87
+165,769,Mahender Singh,"Defender, left cover",1,/teams/bengaluru-bulls,36.0,Season 6,24.0,63.0,6.0,80.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,63.0,2.58,122.0,51.63
+166,769,Mahender Singh,"Defender, left cover",1,/teams/bengaluru-bulls,36.0,Season 5,22.0,58.0,10.0,100.0,2.0,50.0,0.0,0.0,1.0,0.04,5.0,3.0,57.0,2.36,113.0,50.44
+167,388,Monu Goyat,Raider,30,/teams/up-yoddha,36.0,Overall,68.0,475.0,17.0,76.16,944.0,47.98,7.0,20.0,453.0,6.66,3.0,0.0,22.0,0.27,85.0,25.88
+168,388,Monu Goyat,Raider,30,/teams/up-yoddha,36.0,Season 7,9.0,46.0,10.0,73.63,110.0,39.09,0.0,1.0,43.0,4.77,1.0,0.0,3.0,0.22,10.0,30.0
+169,388,Monu Goyat,Raider,30,/teams/up-yoddha,36.0,Season 6,20.0,164.0,17.0,74.41,301.0,53.15,3.0,10.0,160.0,8.0,0.0,0.0,4.0,0.2,27.0,14.81
+170,388,Monu Goyat,Raider,30,/teams/up-yoddha,36.0,Season 5,26.0,202.0,12.0,78.63,365.0,52.32,4.0,9.0,191.0,7.34,1.0,0.0,11.0,0.38,35.0,31.42
+171,388,Monu Goyat,Raider,30,/teams/up-yoddha,36.0,Season 4,13.0,63.0,11.0,75.59,168.0,35.11,0.0,0.0,59.0,4.53,1.0,0.0,4.0,0.23,13.0,30.76
+172,482,Farhad Rahimi Milaghardan,All Rounder,8,/teams/telugu-titans,38.0,Overall,56.0,120.0,5.0,80.0,145.0,34.48,0.0,0.0,50.0,0.89,4.0,1.0,70.0,1.17,179.0,39.1
+173,482,Farhad Rahimi Milaghardan,All Rounder,8,/teams/telugu-titans,38.0,Season 7,16.0,45.0,5.0,83.58,67.0,32.83,0.0,0.0,22.0,1.37,0.0,0.0,23.0,1.43,56.0,41.07
+174,482,Farhad Rahimi Milaghardan,All Rounder,8,/teams/telugu-titans,38.0,Season 6,22.0,47.0,5.0,81.66,60.0,36.66,0.0,0.0,22.0,1.0,4.0,1.0,25.0,0.95,69.0,36.23
+175,482,Farhad Rahimi Milaghardan,All Rounder,8,/teams/telugu-titans,38.0,Season 5,18.0,28.0,4.0,61.11,18.0,33.33,0.0,0.0,6.0,0.33,0.0,0.0,22.0,1.22,54.0,40.74
+176,115,Suraj Desai,Raider,8,/teams/telugu-titans,38.0,Overall,12.0,45.0,18.0,69.9,103.0,42.71,1.0,1.0,44.0,3.66,0.0,0.0,1.0,0.08,7.0,14.28
+177,115,Suraj Desai,Raider,8,/teams/telugu-titans,38.0,Season 7,12.0,45.0,18.0,69.9,103.0,42.71,1.0,1.0,44.0,3.66,0.0,0.0,1.0,0.08,7.0,14.28
+178,115,Suraj Desai,Raider,8,/teams/telugu-titans,38.0,Season 5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,115,Suraj Desai,Raider,8,/teams/telugu-titans,38.0,Season 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,796,Rinku Narwal,Defender,4,/teams/bengal-warriors,38.0,Overall,45.0,88.0,7.0,88.23,17.0,11.76,0.0,0.0,2.0,0.04,7.0,4.0,86.0,1.75,179.0,48.04
+181,796,Rinku Narwal,Defender,4,/teams/bengal-warriors,38.0,Season 7,17.0,45.0,5.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,45.0,2.52,94.0,47.87
+182,796,Rinku Narwal,Defender,4,/teams/bengal-warriors,38.0,Season 6,15.0,21.0,5.0,71.42,7.0,14.28,0.0,0.0,1.0,0.06,1.0,0.0,20.0,1.26,51.0,39.21
+183,796,Rinku Narwal,Defender,4,/teams/bengal-warriors,38.0,Season 5,13.0,22.0,7.0,100.0,8.0,12.5,0.0,0.0,1.0,0.07,4.0,1.0,21.0,1.3,34.0,61.76
+184,579,Jaideep,"Defender, left corner",6,/teams/patna-pirates,38.0,Overall,65.0,174.0,7.0,92.3,13.0,0.0,0.0,0.0,0.0,0.0,10.0,12.0,174.0,2.52,382.0,45.54
+185,579,Jaideep,"Defender, left corner",6,/teams/patna-pirates,38.0,Season 7,17.0,45.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,45.0,2.47,94.0,47.87
+186,579,Jaideep,"Defender, left corner",6,/teams/patna-pirates,38.0,Season 6,22.0,58.0,5.0,87.5,8.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,58.0,2.54,134.0,43.28
+187,579,Jaideep,"Defender, left corner",6,/teams/patna-pirates,38.0,Season 5,26.0,71.0,7.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,71.0,2.53,154.0,46.1
+188,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Overall,105.0,321.0,9.0,86.2,58.0,24.13,0.0,0.0,14.0,0.13,19.0,22.0,307.0,2.74,619.0,49.59
+189,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 7,16.0,44.0,8.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,44.0,2.75,100.0,44.0
+190,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 6,22.0,59.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,59.0,2.54,125.0,47.2
+191,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 5,19.0,54.0,7.0,83.33,6.0,33.33,0.0,0.0,2.0,0.1,3.0,3.0,52.0,2.57,104.0,50.0
+192,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 4,14.0,37.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,37.0,2.5,72.0,51.38
+193,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 3,11.0,34.0,9.0,88.23,34.0,23.52,0.0,0.0,8.0,0.72,4.0,2.0,26.0,2.0,58.0,44.82
+194,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 2,14.0,64.0,9.0,82.35,17.0,23.52,0.0,0.0,4.0,0.28,7.0,5.0,60.0,3.78,96.0,62.5
+195,157,Ravinder Pahal,"Defender, right corner",2,/teams/dabang-delhi-kc,42.0,Season 1,9.0,29.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,29.0,3.22,64.0,45.31
+196,368,Sunil Kumar,Defender,31,/teams/gujarat-fortunegiants,42.0,Overall,67.0,182.0,8.0,97.36,76.0,3.94,0.0,0.0,3.0,0.04,12.0,10.0,179.0,2.49,329.0,54.4
+197,368,Sunil Kumar,Defender,31,/teams/gujarat-fortunegiants,42.0,Season 7,17.0,47.0,7.0,100.0,13.0,7.69,0.0,0.0,1.0,0.05,6.0,4.0,46.0,2.35,84.0,54.76
+198,368,Sunil Kumar,Defender,31,/teams/gujarat-fortunegiants,42.0,Season 6,25.0,76.0,8.0,96.66,30.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,76.0,2.88,140.0,54.28
+199,368,Sunil Kumar,Defender,31,/teams/gujarat-fortunegiants,42.0,Season 5,24.0,58.0,7.0,96.77,31.0,3.22,0.0,0.0,1.0,0.04,2.0,3.0,57.0,2.29,101.0,56.43
+200,368,Sunil Kumar,Defender,31,/teams/gujarat-fortunegiants,42.0,Season 4,1.0,1.0,1.0,100.0,2.0,50.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0
+201,725,Nitesh Kumar,Defender,30,/teams/up-yoddha,44.0,Overall,61.0,192.0,8.0,72.72,11.0,18.18,0.0,0.0,2.0,0.03,14.0,14.0,190.0,2.88,320.0,59.37
+202,725,Nitesh Kumar,Defender,30,/teams/up-yoddha,44.0,Season 7,17.0,44.0,7.0,0.0,2.0,50.0,0.0,0.0,1.0,0.05,5.0,2.0,43.0,2.23,75.0,57.33
+203,725,Nitesh Kumar,Defender,30,/teams/up-yoddha,44.0,Season 6,25.0,101.0,8.0,85.71,7.0,14.28,0.0,0.0,1.0,0.04,8.0,8.0,100.0,3.68,154.0,64.93
+204,725,Nitesh Kumar,Defender,30,/teams/up-yoddha,44.0,Season 5,19.0,47.0,5.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,47.0,2.42,91.0,51.64
+205,733,Surinder Singh,Defender,5,/teams/u-mumba,45.0,Overall,60.0,162.0,9.0,81.81,11.0,36.36,1.0,0.0,4.0,0.06,5.0,7.0,158.0,2.55,369.0,42.81
+206,733,Surinder Singh,Defender,5,/teams/u-mumba,45.0,Season 7,16.0,42.0,9.0,60.0,5.0,80.0,1.0,0.0,4.0,0.25,2.0,2.0,38.0,2.25,90.0,42.22
+207,733,Surinder Singh,Defender,5,/teams/u-mumba,45.0,Season 6,22.0,62.0,7.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,62.0,2.68,127.0,48.81
+208,733,Surinder Singh,Defender,5,/teams/u-mumba,45.0,Season 5,22.0,58.0,6.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,58.0,2.63,152.0,38.15
+209,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Overall,65.0,292.0,11.0,81.0,600.0,43.83,6.0,3.0,263.0,4.04,2.0,0.0,29.0,0.41,90.0,32.22
+210,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 7,13.0,42.0,9.0,80.0,115.0,33.04,2.0,0.0,38.0,2.92,1.0,0.0,4.0,0.23,9.0,44.44
+211,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 6,19.0,108.0,11.0,83.51,188.0,50.0,1.0,0.0,94.0,4.94,1.0,0.0,14.0,0.68,32.0,43.75
+212,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 5,17.0,74.0,11.0,79.39,165.0,39.39,1.0,1.0,65.0,3.82,0.0,0.0,9.0,0.52,28.0,32.14
+213,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 3,11.0,56.0,11.0,81.3,107.0,50.46,2.0,2.0,54.0,4.9,0.0,0.0,2.0,0.18,17.0,11.76
+215,261,Rohit Baliyan,Raider,5,/teams/u-mumba,45.0,Season 2,5.0,12.0,7.0,76.0,25.0,48.0,0.0,0.0,12.0,2.4,0.0,0.0,0.0,0.0,4.0,0.0
+216,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Overall,116.0,640.0,28.0,74.76,1256.0,47.29,25.0,10.0,594.0,5.12,2.0,0.0,46.0,0.37,142.0,32.39
+217,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 7,13.0,46.0,9.0,83.6,122.0,36.88,2.0,0.0,45.0,3.46,0.0,0.0,1.0,0.07,8.0,12.5
+218,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 6,23.0,104.0,10.0,79.77,262.0,38.16,3.0,1.0,100.0,4.34,0.0,0.0,4.0,0.17,19.0,21.05
+219,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 5,21.0,170.0,28.0,75.73,305.0,54.09,12.0,5.0,165.0,7.85,1.0,0.0,5.0,0.19,16.0,31.25
+220,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 4,14.0,70.0,11.0,70.21,141.0,49.64,2.0,2.0,70.0,5.0,0.0,0.0,0.0,0.0,17.0,0.0
+221,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 3,16.0,115.0,14.0,74.45,184.0,57.6,4.0,2.0,106.0,6.62,1.0,0.0,9.0,0.5,22.0,40.9
+222,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 2,13.0,58.0,8.0,67.5,120.0,36.66,0.0,0.0,44.0,3.38,0.0,0.0,14.0,1.07,26.0,53.84
+223,94,Rishank Devadiga,Raider,30,/teams/up-yoddha,45.0,Season 1,16.0,77.0,9.0,65.57,122.0,52.45,2.0,0.0,64.0,4.0,0.0,0.0,13.0,0.81,34.0,38.23
+224,2670,Saurabh Nandal,"Defender, left corner",1,/teams/bengaluru-bulls,45.0,Overall,16.0,42.0,8.0,100.0,1.0,100.0,0.0,0.0,1.0,0.06,5.0,4.0,41.0,2.25,74.0,55.4
+225,2670,Saurabh Nandal,"Defender, left corner",1,/teams/bengaluru-bulls,45.0,Season 7,16.0,42.0,8.0,100.0,1.0,100.0,0.0,0.0,1.0,0.06,5.0,4.0,41.0,2.25,74.0,55.4
+226,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Overall,76.0,169.0,6.0,100.0,6.0,66.66,0.0,0.0,4.0,0.05,10.0,2.0,165.0,2.03,336.0,49.1
+227,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 7,16.0,41.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,41.0,2.31,74.0,55.4
+228,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 6,22.0,51.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,51.0,2.13,111.0,45.94
+229,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 5,8.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.12,24.0,37.5
+230,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 4,16.0,38.0,6.0,100.0,6.0,66.66,0.0,0.0,4.0,0.25,2.0,0.0,34.0,2.0,69.0,49.27
+231,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,194,Joginder Singh Narwal,"Defender, left corner",2,/teams/dabang-delhi-kc,49.0,Season 2,14.0,30.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,2.14,58.0,51.72
+233,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Overall,67.0,117.0,5.0,86.0,50.0,30.0,0.0,0.0,15.0,0.22,14.0,3.0,102.0,1.31,226.0,45.13
+234,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 7,17.0,41.0,5.0,94.44,36.0,22.22,0.0,0.0,8.0,0.47,6.0,1.0,33.0,1.58,68.0,48.52
+235,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 6,13.0,18.0,5.0,81.81,11.0,54.54,0.0,0.0,6.0,0.46,0.0,0.0,12.0,0.92,29.0,41.37
+236,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 5,16.0,20.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,20.0,1.06,55.0,36.36
+237,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 4,7.0,13.0,5.0,0.0,1.0,100.0,0.0,0.0,1.0,0.14,3.0,1.0,12.0,1.28,21.0,57.14
+238,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 3,10.0,18.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,1.7,40.0,45.0
+239,249,Hadi Oshtorak,All Rounder,6,/teams/patna-pirates,49.0,Season 2,4.0,7.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,1.5,13.0,53.84
+240,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Overall,108.0,563.0,14.0,81.08,719.0,31.15,5.0,2.0,224.0,2.07,15.0,23.0,339.0,3.0,621.0,54.58
+241,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 7,15.0,41.0,6.0,68.42,19.0,21.05,0.0,0.0,4.0,0.26,2.0,2.0,37.0,2.33,81.0,45.67
+242,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 6,19.0,67.0,8.0,79.31,29.0,27.58,0.0,0.0,8.0,0.42,5.0,2.0,59.0,2.84,121.0,48.76
+243,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 5,15.0,52.0,9.0,68.96,29.0,17.24,0.0,0.0,5.0,0.33,1.0,3.0,47.0,3.06,85.0,55.29
+244,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 4,12.0,68.0,11.0,75.32,77.0,31.16,1.0,0.0,24.0,2.0,1.0,5.0,44.0,3.58,73.0,60.27
+245,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 3,15.0,106.0,13.0,91.81,171.0,26.31,2.0,0.0,45.0,3.0,5.0,5.0,61.0,3.73,99.0,61.61
+246,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 2,16.0,107.0,11.0,85.25,217.0,30.87,0.0,0.0,67.0,4.18,1.0,3.0,40.0,2.43,78.0,51.28
+247,69,Manjeet Chhillar,All Rounder,29,/teams/tamil-thalaivas,51.0,Season 1,16.0,122.0,14.0,71.75,177.0,40.11,2.0,2.0,71.0,4.43,0.0,3.0,51.0,3.18,84.0,60.71
+248,2462,Sunil,"Defender, right corner",28,/teams/haryana-steelers,52.0,Overall,36.0,80.0,6.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,80.0,2.19,206.0,38.83
+249,2462,Sunil,"Defender, right corner",28,/teams/haryana-steelers,52.0,Season 7,14.0,39.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,39.0,2.71,84.0,46.42
+250,2462,Sunil,"Defender, right corner",28,/teams/haryana-steelers,52.0,Season 6,22.0,41.0,5.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,41.0,1.86,122.0,33.6
+251,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Overall,114.0,294.0,9.0,94.25,174.0,24.13,0.0,0.0,42.0,0.36,24.0,12.0,252.0,2.0,466.0,54.07
+252,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 7,15.0,38.0,5.0,93.75,16.0,12.5,0.0,0.0,2.0,0.13,3.0,1.0,36.0,2.2,75.0,48.0
+253,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 6,22.0,40.0,6.0,95.45,22.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,40.0,1.68,69.0,57.97
+254,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 5,18.0,25.0,4.0,100.0,15.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,25.0,1.33,64.0,39.06
+255,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 4,14.0,41.0,9.0,100.0,28.0,7.14,0.0,0.0,2.0,0.14,8.0,4.0,39.0,2.21,63.0,61.9
+256,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 3,14.0,37.0,8.0,80.0,20.0,30.0,0.0,0.0,6.0,0.42,3.0,2.0,31.0,2.0,58.0,53.44
+257,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 2,15.0,61.0,9.0,95.23,42.0,45.23,0.0,0.0,19.0,1.26,1.0,2.0,42.0,2.73,68.0,61.76
+258,42,Dharmaraj Cheralathan,"Defender, right and left corner",28,/teams/haryana-steelers,53.0,Season 1,16.0,52.0,7.0,93.54,31.0,41.93,0.0,0.0,13.0,0.81,5.0,2.0,39.0,2.12,69.0,56.52
+259,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Overall,91.0,359.0,16.0,80.53,668.0,52.39,8.0,11.0,350.0,3.84,3.0,0.0,9.0,0.06,46.0,19.56
+260,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 7,10.0,38.0,10.0,76.92,65.0,58.46,0.0,1.0,38.0,3.8,0.0,0.0,0.0,0.0,5.0,0.0
+261,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 6,21.0,147.0,13.0,81.99,261.0,55.17,2.0,5.0,144.0,6.85,1.0,0.0,3.0,0.09,9.0,33.33
+262,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 5,16.0,80.0,16.0,82.55,149.0,52.34,3.0,3.0,78.0,4.87,1.0,0.0,2.0,0.06,10.0,20.0
+263,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 4,9.0,19.0,10.0,76.92,39.0,48.71,2.0,1.0,19.0,2.11,0.0,0.0,0.0,0.0,0.0,0.0
+264,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 3,13.0,12.0,3.0,68.57,35.0,34.28,0.0,0.0,12.0,0.92,0.0,0.0,0.0,0.0,4.0,0.0
+265,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 2,15.0,58.0,10.0,82.07,106.0,50.94,1.0,1.0,54.0,3.6,1.0,0.0,4.0,0.2,10.0,40.0
+266,155,Prashanth Kumar Rai,Raider,28,/teams/haryana-steelers,53.0,Season 1,7.0,5.0,2.0,76.92,13.0,38.46,0.0,0.0,5.0,0.71,0.0,0.0,0.0,0.0,8.0,0.0
+267,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Overall,78.0,306.0,15.0,74.28,700.0,41.85,4.0,8.0,293.0,3.75,1.0,0.0,13.0,0.15,45.0,28.88
+268,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 7,14.0,38.0,9.0,71.05,114.0,32.45,0.0,0.0,37.0,2.64,0.0,0.0,1.0,0.07,6.0,16.66
+269,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 6,17.0,74.0,13.0,75.0,140.0,50.0,1.0,3.0,70.0,4.11,0.0,0.0,4.0,0.23,9.0,44.44
+270,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 5,16.0,87.0,11.0,77.54,187.0,45.45,1.0,4.0,85.0,5.31,0.0,0.0,2.0,0.12,10.0,20.0
+271,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 4,6.0,13.0,5.0,68.51,54.0,24.07,1.0,0.0,13.0,2.16,0.0,0.0,0.0,0.0,1.0,0.0
+272,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 3,9.0,33.0,15.0,82.75,58.0,53.44,0.0,1.0,31.0,3.44,1.0,0.0,2.0,0.11,5.0,40.0
+273,211,Deepak Narwal,Raider,3,/teams/jaipur-pink-panthers,53.0,Season 2,16.0,61.0,10.0,70.74,147.0,38.77,1.0,0.0,57.0,3.56,0.0,0.0,4.0,0.25,14.0,28.57
+274,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Overall,101.0,469.0,15.0,77.94,1002.0,44.51,14.0,9.0,446.0,4.41,3.0,0.0,23.0,0.19,97.0,23.71
+275,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 7,11.0,36.0,8.0,81.52,92.0,38.04,0.0,0.0,35.0,3.18,0.0,0.0,1.0,0.09,8.0,12.5
+276,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 6,18.0,82.0,12.0,77.77,171.0,46.19,2.0,2.0,79.0,4.38,1.0,0.0,3.0,0.11,11.0,27.27
+277,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 5,21.0,89.0,9.0,78.77,212.0,41.98,0.0,0.0,89.0,4.23,0.0,0.0,0.0,0.0,12.0,0.0
+278,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 4,11.0,65.0,13.0,76.66,120.0,50.83,2.0,2.0,61.0,5.54,0.0,0.0,4.0,0.36,17.0,23.52
+279,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 3,15.0,90.0,13.0,83.15,184.0,42.93,2.0,2.0,79.0,5.26,2.0,0.0,11.0,0.6,20.0,55.0
+280,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 2,14.0,50.0,12.0,72.85,140.0,34.28,3.0,1.0,48.0,3.42,0.0,0.0,2.0,0.14,15.0,13.33
+281,12,Jang Kun Lee,Raider,6,/teams/patna-pirates,56.0,Season 1,11.0,57.0,15.0,71.08,83.0,66.26,5.0,2.0,55.0,5.0,0.0,0.0,2.0,0.18,14.0,14.28
+282,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Overall,108.0,284.0,8.0,90.62,32.0,21.87,0.0,0.0,7.0,0.06,23.0,18.0,277.0,2.35,552.0,50.18
+283,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 7,17.0,37.0,5.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,37.0,2.0,78.0,47.43
+284,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 6,14.0,31.0,4.0,75.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,31.0,2.0,69.0,44.92
+285,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 5,20.0,42.0,7.0,88.88,9.0,33.33,0.0,0.0,3.0,0.15,4.0,2.0,39.0,1.75,83.0,46.98
+286,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 4,14.0,50.0,8.0,87.5,8.0,37.5,0.0,0.0,3.0,0.21,3.0,4.0,47.0,3.14,87.0,54.02
+287,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 3,13.0,46.0,6.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,46.0,3.38,74.0,62.16
+288,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 2,14.0,42.0,5.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,42.0,2.78,72.0,58.33
+289,71,Mohit Chhillar,"Defender, right corner",29,/teams/tamil-thalaivas,56.0,Season 1,16.0,36.0,8.0,100.0,1.0,100.0,0.0,0.0,1.0,0.06,5.0,2.0,35.0,1.87,89.0,39.32
+290,376,Athul MS,Raider,5,/teams/u-mumba,56.0,Overall,35.0,100.0,8.0,62.08,211.0,46.91,0.0,0.0,99.0,2.82,0.0,0.0,1.0,0.02,20.0,5.0
+291,376,Athul MS,Raider,5,/teams/u-mumba,56.0,Season 7,12.0,36.0,8.0,65.21,92.0,39.13,0.0,0.0,36.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0
+292,376,Athul MS,Raider,5,/teams/u-mumba,56.0,Season 6,19.0,56.0,8.0,60.0,105.0,52.38,0.0,0.0,55.0,2.89,0.0,0.0,1.0,0.05,16.0,6.25
+293,376,Athul MS,Raider,5,/teams/u-mumba,56.0,Season 5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,376,Athul MS,Raider,5,/teams/u-mumba,56.0,Season 4,4.0,8.0,7.0,57.14,14.0,57.14,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0
+295,795,Monu,Raider,6,/teams/patna-pirates,56.0,Overall,50.0,142.0,7.0,74.71,261.0,28.73,2.0,0.0,75.0,1.5,10.0,1.0,67.0,1.14,114.0,58.77
+296,795,Monu,Raider,6,/teams/patna-pirates,56.0,Season 7,17.0,36.0,5.0,78.33,60.0,18.33,0.0,0.0,11.0,0.64,7.0,0.0,25.0,1.05,37.0,67.56
+297,795,Monu,Raider,6,/teams/patna-pirates,56.0,Season 6,14.0,57.0,7.0,70.16,124.0,36.29,1.0,0.0,45.0,3.21,2.0,0.0,12.0,0.71,23.0,52.17
+298,795,Monu,Raider,6,/teams/patna-pirates,56.0,Season 5,19.0,49.0,6.0,79.22,77.0,24.67,1.0,0.0,19.0,1.0,1.0,1.0,30.0,1.52,54.0,55.55
+299,2291,Amit Kumar,Raider,7,/teams/puneri-paltan,60.0,Overall,18.0,43.0,9.0,69.66,89.0,28.08,1.0,0.0,25.0,1.38,1.0,0.0,18.0,0.94,40.0,45.0
+300,2291,Amit Kumar,Raider,7,/teams/puneri-paltan,60.0,Season 7,12.0,35.0,9.0,66.66,60.0,28.33,0.0,0.0,17.0,1.41,1.0,0.0,18.0,1.41,37.0,48.64
+301,2291,Amit Kumar,Raider,7,/teams/puneri-paltan,60.0,Season 6,6.0,8.0,5.0,75.86,29.0,27.58,1.0,0.0,8.0,1.33,0.0,0.0,0.0,0.0,3.0,0.0
+302,571,Mohammad Esmaeil Maghsoudlou Mahalli,Raider,6,/teams/patna-pirates,60.0,Overall,16.0,35.0,9.0,75.96,104.0,26.92,0.0,0.0,28.0,1.75,2.0,0.0,7.0,0.31,19.0,36.84
+303,571,Mohammad Esmaeil Maghsoudlou Mahalli,Raider,6,/teams/patna-pirates,60.0,Season 7,16.0,35.0,9.0,75.96,104.0,26.92,0.0,0.0,28.0,1.75,2.0,0.0,7.0,0.31,19.0,36.84
+304,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Overall,56.0,95.0,6.0,90.9,11.0,0.0,0.0,0.0,0.0,0.0,7.0,4.0,95.0,1.57,264.0,35.98
+305,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 7,15.0,35.0,6.0,66.66,3.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,35.0,2.26,87.0,40.22
+306,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 6,22.0,39.0,5.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,39.0,1.63,118.0,33.05
+307,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 5,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+308,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 3,9.0,12.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.33,34.0,35.29
+310,179,Vikas Kale,"Defender, right cover",28,/teams/haryana-steelers,60.0,Season 2,8.0,9.0,5.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,9.0,0.75,24.0,37.5
+311,489,Abozar Mohajermighani,Defender,8,/teams/telugu-titans,63.0,Overall,61.0,156.0,6.0,92.1,38.0,5.26,0.0,0.0,2.0,0.03,13.0,6.0,154.0,2.31,289.0,53.28
+312,489,Abozar Mohajermighani,Defender,8,/teams/telugu-titans,63.0,Season 7,16.0,34.0,4.0,66.66,6.0,16.66,0.0,0.0,1.0,0.06,3.0,0.0,33.0,1.87,75.0,44.0
+313,489,Abozar Mohajermighani,Defender,8,/teams/telugu-titans,63.0,Season 6,21.0,56.0,6.0,100.0,26.0,0.0,0.0,0.0,0.0,0.0,8.0,4.0,56.0,2.28,98.0,57.14
+314,489,Abozar Mohajermighani,Defender,8,/teams/telugu-titans,63.0,Season 5,24.0,66.0,5.0,83.33,6.0,16.66,0.0,0.0,1.0,0.04,2.0,2.0,65.0,2.62,116.0,56.03
+315,363,Sumit Singh,Raider,1,/teams/bengaluru-bulls,63.0,Overall,30.0,58.0,7.0,69.67,122.0,40.16,0.0,0.0,49.0,1.63,2.0,0.0,9.0,0.23,23.0,39.13
+316,363,Sumit Singh,Raider,1,/teams/bengaluru-bulls,63.0,Season 7,13.0,34.0,7.0,67.14,70.0,44.28,0.0,0.0,31.0,2.38,1.0,0.0,3.0,0.15,8.0,37.5
+317,363,Sumit Singh,Raider,1,/teams/bengaluru-bulls,63.0,Season 6,8.0,15.0,4.0,77.77,27.0,40.74,0.0,0.0,11.0,1.37,0.0,0.0,4.0,0.5,10.0,40.0
+318,363,Sumit Singh,Raider,1,/teams/bengaluru-bulls,63.0,Season 5,4.0,0.0,0.0,60.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,363,Sumit Singh,Raider,1,/teams/bengaluru-bulls,63.0,Season 4,5.0,9.0,4.0,70.0,20.0,35.0,0.0,0.0,7.0,1.4,1.0,0.0,2.0,0.2,5.0,40.0
+320,357,Parvesh Bhainswal,"Defender, left cover",31,/teams/gujarat-fortunegiants,63.0,Overall,73.0,176.0,8.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,176.0,2.27,318.0,55.34
+321,357,Parvesh Bhainswal,"Defender, left cover",31,/teams/gujarat-fortunegiants,63.0,Season 7,17.0,39.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,39.0,2.17,74.0,52.7
+322,357,Parvesh Bhainswal,"Defender, left cover",31,/teams/gujarat-fortunegiants,63.0,Season 6,25.0,86.0,8.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,86.0,3.28,138.0,62.31
+323,357,Parvesh Bhainswal,"Defender, left cover",31,/teams/gujarat-fortunegiants,63.0,Season 5,24.0,48.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,48.0,1.83,89.0,53.93
+324,357,Parvesh Bhainswal,"Defender, left cover",31,/teams/gujarat-fortunegiants,63.0,Season 4,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.42,17.0,17.64
+325,794,Amit Sheoran,Defender,1,/teams/bengaluru-bulls,63.0,Overall,36.0,72.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,72.0,1.86,149.0,48.32
+326,794,Amit Sheoran,Defender,1,/teams/bengaluru-bulls,63.0,Season 7,17.0,34.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,34.0,1.82,72.0,47.22
+327,794,Amit Sheoran,Defender,1,/teams/bengaluru-bulls,63.0,Season 6,15.0,38.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,38.0,2.4,71.0,53.52
+328,794,Amit Sheoran,Defender,1,/teams/bengaluru-bulls,63.0,Season 5,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+329,745,Vijay,All Rounder,2,/teams/dabang-delhi-kc,67.0,Overall,55.0,170.0,8.0,84.52,252.0,43.65,2.0,0.0,110.0,2.0,4.0,1.0,60.0,1.01,157.0,38.21
+330,745,Vijay,All Rounder,2,/teams/dabang-delhi-kc,67.0,Season 7,15.0,33.0,6.0,84.48,58.0,39.65,1.0,0.0,23.0,1.53,0.0,0.0,10.0,0.66,30.0,33.33
+331,745,Vijay,All Rounder,2,/teams/dabang-delhi-kc,67.0,Season 6,21.0,73.0,8.0,81.08,111.0,54.05,0.0,0.0,60.0,2.85,1.0,0.0,13.0,0.57,44.0,29.54
+332,745,Vijay,All Rounder,2,/teams/dabang-delhi-kc,67.0,Season 5,19.0,64.0,7.0,89.15,83.0,32.53,1.0,0.0,27.0,1.42,3.0,1.0,37.0,1.78,83.0,44.57
+333,2485,Sonu Jaglan,Raider,31,/teams/gujarat-fortunegiants,68.0,Overall,12.0,32.0,8.0,73.52,68.0,41.17,3.0,0.0,28.0,2.33,1.0,0.0,4.0,0.25,4.0,100.0
+334,2485,Sonu Jaglan,Raider,31,/teams/gujarat-fortunegiants,68.0,Season 7,12.0,32.0,8.0,73.52,68.0,41.17,3.0,0.0,28.0,2.33,1.0,0.0,4.0,0.25,4.0,100.0
+335,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Overall,89.0,147.0,8.0,88.23,34.0,0.0,0.0,0.0,0.0,0.0,18.0,7.0,147.0,1.44,322.0,45.65
+336,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 7,14.0,31.0,6.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,31.0,1.92,64.0,48.43
+337,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 6,22.0,40.0,6.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,40.0,1.5,96.0,41.66
+338,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 5,23.0,30.0,4.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,30.0,1.21,68.0,44.11
+339,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 4,5.0,0.0,0.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0
+340,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 3,12.0,9.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,0.66,24.0,37.5
+341,240,Ravi Kumar,"Defender, right cover",28,/teams/haryana-steelers,69.0,Season 2,13.0,37.0,8.0,86.36,22.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,37.0,2.53,61.0,60.65
+342,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Overall,94.0,393.0,15.0,78.95,860.0,39.41,17.0,6.0,339.0,3.6,6.0,0.0,54.0,0.51,146.0,36.98
+343,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 7,12.0,31.0,12.0,68.75,64.0,46.87,1.0,1.0,30.0,2.5,0.0,0.0,1.0,0.08,2.0,50.0
+344,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 6,19.0,97.0,15.0,77.46,213.0,44.13,6.0,2.0,94.0,4.94,0.0,0.0,3.0,0.15,16.0,18.75
+345,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 5,20.0,104.0,14.0,82.53,292.0,32.87,3.0,2.0,96.0,4.8,0.0,0.0,8.0,0.4,37.0,21.62
+346,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 4,14.0,75.0,11.0,85.39,178.0,35.39,4.0,0.0,63.0,4.5,3.0,0.0,12.0,0.64,30.0,40.0
+347,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 3,14.0,48.0,11.0,71.42,70.0,38.57,0.0,0.0,27.0,1.92,3.0,0.0,21.0,1.28,38.0,55.26
+348,251,Meraj Sheykh,All Rounder,2,/teams/dabang-delhi-kc,69.0,Season 2,15.0,38.0,11.0,62.79,43.0,67.44,3.0,1.0,29.0,1.93,0.0,0.0,9.0,0.6,23.0,39.13
+349,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Overall,116.0,324.0,9.0,80.34,229.0,42.79,4.0,0.0,98.0,0.84,12.0,4.0,226.0,1.84,469.0,48.18
+350,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 7,17.0,35.0,4.0,69.23,13.0,61.53,0.0,0.0,8.0,0.47,1.0,0.0,27.0,1.52,61.0,44.26
+351,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 6,22.0,71.0,7.0,83.33,72.0,40.27,1.0,0.0,29.0,1.31,1.0,0.0,42.0,1.86,88.0,47.72
+352,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 5,23.0,64.0,7.0,81.48,27.0,44.44,0.0,0.0,12.0,0.52,3.0,2.0,52.0,2.13,112.0,46.42
+353,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 4,16.0,33.0,4.0,100.0,9.0,55.55,0.0,0.0,5.0,0.31,1.0,0.0,28.0,1.68,62.0,45.16
+354,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 3,14.0,41.0,5.0,75.43,57.0,35.08,2.0,0.0,20.0,1.42,0.0,0.0,21.0,1.5,52.0,40.38
+355,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 2,14.0,44.0,9.0,85.71,35.0,37.14,0.0,0.0,13.0,0.92,4.0,1.0,31.0,1.92,53.0,58.49
+356,160,Ran Singh,All Rounder,29,/teams/tamil-thalaivas,69.0,Season 1,10.0,36.0,8.0,68.75,16.0,68.75,1.0,0.0,11.0,1.1,2.0,1.0,25.0,2.3,41.0,60.97
+357,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Overall,84.0,233.0,8.0,81.13,53.0,16.98,0.0,0.0,9.0,0.1,18.0,11.0,224.0,2.45,420.0,53.33
+358,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 7,12.0,31.0,5.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,31.0,2.33,61.0,50.81
+359,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 6,18.0,51.0,8.0,0.0,2.0,100.0,0.0,0.0,2.0,0.11,4.0,4.0,49.0,2.5,85.0,57.64
+360,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 5,22.0,61.0,6.0,85.71,7.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,61.0,2.5,117.0,52.13
+361,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 4,16.0,53.0,6.0,0.0,2.0,100.0,0.0,0.0,2.0,0.12,4.0,3.0,51.0,2.93,89.0,57.3
+362,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 3,4.0,11.0,3.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.75,27.0,40.74
+363,212,Amit Hooda,"Defender, right corner",3,/teams/jaipur-pink-panthers,69.0,Season 2,12.0,26.0,5.0,85.71,35.0,14.28,0.0,0.0,5.0,0.41,1.0,0.0,21.0,1.66,41.0,51.21
+364,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Overall,102.0,266.0,8.0,92.53,67.0,13.43,1.0,0.0,9.0,0.08,14.0,16.0,257.0,2.38,555.0,46.3
+365,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 7,13.0,29.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,29.0,2.0,72.0,40.27
+366,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 6,20.0,57.0,6.0,87.5,8.0,12.5,0.0,0.0,1.0,0.05,4.0,4.0,56.0,2.6,113.0,49.55
+367,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 5,21.0,69.0,8.0,88.88,18.0,27.77,1.0,0.0,5.0,0.23,3.0,5.0,64.0,2.9,111.0,57.65
+368,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 4,12.0,25.0,5.0,100.0,13.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,25.0,1.91,58.0,43.1
+369,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 3,11.0,34.0,5.0,94.11,17.0,5.88,0.0,0.0,1.0,0.09,0.0,3.0,33.0,3.0,65.0,50.76
+370,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 2,13.0,27.0,5.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,27.0,2.0,66.0,40.9
+371,161,Girish Maruti Ernak,"Defender, left corner",7,/teams/puneri-paltan,73.0,Season 1,12.0,25.0,6.0,83.33,6.0,33.33,0.0,0.0,2.0,0.16,1.0,1.0,23.0,1.83,70.0,32.85
+372,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Overall,74.0,236.0,15.0,83.04,637.0,33.43,5.0,5.0,213.0,2.87,7.0,1.0,23.0,0.21,85.0,27.05
+373,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 7,14.0,29.0,5.0,87.09,93.0,23.65,0.0,0.0,22.0,1.57,1.0,0.0,7.0,0.42,22.0,31.81
+374,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 6,6.0,7.0,5.0,65.38,26.0,26.92,0.0,0.0,7.0,1.16,0.0,0.0,0.0,0.0,7.0,0.0
+375,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 5,12.0,38.0,13.0,80.55,108.0,32.4,0.0,1.0,35.0,2.91,1.0,0.0,3.0,0.16,14.0,21.42
+376,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 4,12.0,35.0,10.0,90.0,100.0,24.0,1.0,0.0,24.0,2.0,5.0,1.0,11.0,0.5,19.0,57.89
+377,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 3,10.0,13.0,4.0,71.64,67.0,19.4,0.0,0.0,13.0,1.3,0.0,0.0,0.0,0.0,4.0,0.0
+378,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 2,10.0,47.0,10.0,79.83,124.0,37.09,2.0,1.0,46.0,4.6,0.0,0.0,1.0,0.1,6.0,16.66
+379,105,Shabeer Bappu,Raider,29,/teams/tamil-thalaivas,73.0,Season 1,10.0,67.0,15.0,89.91,119.0,55.46,2.0,3.0,66.0,6.6,0.0,0.0,1.0,0.1,13.0,7.69
+380,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Overall,94.0,395.0,15.0,83.47,920.0,41.3,15.0,1.0,380.0,4.04,2.0,0.0,15.0,0.13,91.0,16.48
+381,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 7,10.0,29.0,8.0,85.48,62.0,45.16,2.0,0.0,28.0,2.8,0.0,0.0,1.0,0.1,2.0,50.0
+382,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 6,17.0,71.0,9.0,82.38,176.0,38.63,3.0,0.0,68.0,4.0,1.0,0.0,3.0,0.11,19.0,15.78
+383,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 5,18.0,77.0,15.0,87.65,235.0,31.91,2.0,1.0,75.0,4.16,0.0,0.0,2.0,0.11,13.0,15.38
+384,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 4,9.0,7.0,3.0,78.94,38.0,18.42,0.0,0.0,7.0,0.77,0.0,0.0,0.0,0.0,7.0,0.0
+385,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 3,13.0,64.0,9.0,80.13,146.0,41.78,0.0,0.0,61.0,4.69,1.0,0.0,3.0,0.15,16.0,18.75
+386,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 2,13.0,64.0,9.0,83.45,133.0,46.61,5.0,0.0,62.0,4.76,0.0,0.0,2.0,0.15,13.0,15.38
+387,111,Sukesh Hegde,Raider,4,/teams/bengal-warriors,73.0,Season 1,14.0,83.0,9.0,81.53,130.0,60.76,3.0,0.0,79.0,5.64,0.0,0.0,4.0,0.28,21.0,19.04
+388,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Overall,109.0,224.0,9.0,100.0,4.0,25.0,0.0,0.0,1.0,0.0,22.0,5.0,223.0,1.84,479.0,46.55
+389,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 7,16.0,28.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,28.0,1.68,72.0,38.88
+390,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 6,19.0,40.0,5.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,40.0,1.89,90.0,44.44
+391,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 5,22.0,44.0,5.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,44.0,1.68,104.0,42.3
+392,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 4,14.0,26.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,26.0,1.71,62.0,41.93
+393,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 3,16.0,31.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0,1.87,62.0,50.0
+394,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 2,13.0,39.0,9.0,100.0,1.0,100.0,0.0,0.0,1.0,0.07,7.0,3.0,38.0,2.38,58.0,65.51
+395,54,Jeeva Kumar,"Defender, right and left cover",4,/teams/bengal-warriors,76.0,Season 1,9.0,16.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.77,31.0,51.61
+396,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Overall,76.0,290.0,11.0,77.82,699.0,39.48,8.0,4.0,276.0,3.63,2.0,0.0,14.0,0.15,57.0,24.56
+397,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Season 7,14.0,28.0,7.0,75.0,92.0,28.26,0.0,0.0,26.0,1.85,0.0,0.0,2.0,0.14,5.0,40.0
+398,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Season 6,19.0,85.0,9.0,73.63,201.0,40.29,4.0,0.0,81.0,4.26,0.0,0.0,4.0,0.21,21.0,19.04
+399,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Season 5,21.0,105.0,11.0,83.8,247.0,39.67,2.0,3.0,98.0,4.66,2.0,0.0,7.0,0.23,18.0,38.88
+400,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Season 4,15.0,62.0,10.0,75.53,139.0,43.88,1.0,1.0,61.0,4.06,0.0,0.0,1.0,0.06,10.0,10.0
+401,293,Nilesh Salunke,Raider,3,/teams/jaipur-pink-panthers,76.0,Season 3,7.0,10.0,5.0,75.0,20.0,50.0,1.0,0.0,10.0,1.42,0.0,0.0,0.0,0.0,3.0,0.0
+402,2290,Rajnish,Raider,8,/teams/telugu-titans,76.0,Overall,12.0,37.0,10.0,75.86,87.0,41.37,1.0,1.0,36.0,3.0,0.0,0.0,1.0,0.08,9.0,11.11
+403,2290,Rajnish,Raider,8,/teams/telugu-titans,76.0,Season 7,8.0,28.0,10.0,78.68,61.0,44.26,1.0,1.0,27.0,3.37,0.0,0.0,1.0,0.12,6.0,16.66
+404,2290,Rajnish,Raider,8,/teams/telugu-titans,76.0,Season 6,4.0,9.0,5.0,69.23,26.0,34.61,0.0,0.0,9.0,2.25,0.0,0.0,0.0,0.0,3.0,0.0
+405,2657,Ashu Singh,"Defender, right cover",30,/teams/up-yoddha,76.0,Overall,17.0,31.0,4.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,31.0,1.7,74.0,41.89
+406,2657,Ashu Singh,"Defender, right cover",30,/teams/up-yoddha,76.0,Season 7,17.0,31.0,4.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,31.0,1.7,74.0,41.89
+407,2492,Jadhav Balasaheb Shahaji,"Defender, right cover",7,/teams/puneri-paltan,80.0,Overall,16.0,27.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,27.0,1.37,50.0,54.0
+408,2492,Jadhav Balasaheb Shahaji,"Defender, right cover",7,/teams/puneri-paltan,80.0,Season 7,16.0,27.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,27.0,1.37,50.0,54.0
+409,735,Vishal,All Rounder,3,/teams/jaipur-pink-panthers,80.0,Overall,22.0,57.0,9.0,78.57,14.0,21.42,0.0,0.0,3.0,0.13,12.0,2.0,54.0,1.9,105.0,51.42
+410,735,Vishal,All Rounder,3,/teams/jaipur-pink-panthers,80.0,Season 7,11.0,36.0,9.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,36.0,2.63,56.0,64.28
+411,735,Vishal,All Rounder,3,/teams/jaipur-pink-panthers,80.0,Season 6,6.0,10.0,3.0,100.0,6.0,16.66,0.0,0.0,1.0,0.16,2.0,0.0,9.0,1.16,26.0,34.61
+412,735,Vishal,All Rounder,3,/teams/jaipur-pink-panthers,80.0,Season 5,5.0,11.0,7.0,57.14,7.0,28.57,0.0,0.0,2.0,0.4,3.0,1.0,9.0,1.2,23.0,39.13
+413,121,Vikas Jaglan,All Rounder,6,/teams/patna-pirates,82.0,Overall,44.0,75.0,9.0,78.76,113.0,37.16,2.0,0.0,42.0,0.95,0.0,0.0,33.0,0.75,93.0,35.48
+414,121,Vikas Jaglan,All Rounder,6,/teams/patna-pirates,82.0,Season 7,17.0,25.0,6.0,80.43,46.0,23.91,0.0,0.0,11.0,0.64,0.0,0.0,14.0,0.82,47.0,29.78
+415,121,Vikas Jaglan,All Rounder,6,/teams/patna-pirates,82.0,Season 6,14.0,37.0,9.0,78.57,42.0,50.0,1.0,0.0,21.0,1.5,0.0,0.0,16.0,1.14,37.0,43.24
+416,121,Vikas Jaglan,All Rounder,6,/teams/patna-pirates,82.0,Season 5,13.0,13.0,5.0,76.0,25.0,40.0,1.0,0.0,10.0,0.76,0.0,0.0,3.0,0.23,9.0,33.33
+417,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Overall,74.0,279.0,17.0,75.49,653.0,42.41,4.0,5.0,277.0,3.74,0.0,0.0,2.0,0.02,37.0,5.4
+418,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 7,6.0,25.0,10.0,79.66,59.0,42.37,0.0,1.0,25.0,4.16,0.0,0.0,0.0,0.0,2.0,0.0
+419,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 6,13.0,45.0,9.0,80.0,90.0,50.0,1.0,0.0,45.0,3.46,0.0,0.0,0.0,0.0,5.0,0.0
+420,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 5,21.0,122.0,17.0,75.7,284.0,42.95,2.0,3.0,122.0,5.8,0.0,0.0,0.0,0.0,13.0,0.0
+421,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 4,9.0,21.0,6.0,75.75,66.0,30.3,0.0,0.0,20.0,2.22,0.0,0.0,1.0,0.11,7.0,14.28
+422,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 3,5.0,6.0,3.0,80.0,25.0,24.0,0.0,0.0,6.0,1.2,0.0,0.0,0.0,0.0,2.0,0.0
+423,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 2,10.0,16.0,7.0,61.9,42.0,38.09,1.0,0.0,16.0,1.6,0.0,0.0,0.0,0.0,1.0,0.0
+424,156,Pawan Kumar Kadian,Raider,7,/teams/puneri-paltan,82.0,Season 1,10.0,44.0,14.0,72.41,87.0,49.42,0.0,1.0,43.0,4.3,0.0,0.0,1.0,0.1,7.0,14.28
+425,684,Rakesh Gowda,Raider,8,/teams/telugu-titans,84.0,Overall,7.0,24.0,7.0,81.81,44.0,36.36,0.0,0.0,16.0,2.28,3.0,0.0,8.0,0.71,14.0,57.14
+426,684,Rakesh Gowda,Raider,8,/teams/telugu-titans,84.0,Season 7,7.0,24.0,7.0,81.81,44.0,36.36,0.0,0.0,16.0,2.28,3.0,0.0,8.0,0.71,14.0,57.14
+427,2020,Amit,"Defender, left cover",30,/teams/up-yoddha,85.0,Overall,31.0,30.0,4.0,100.0,14.0,14.28,0.0,0.0,2.0,0.06,3.0,0.0,28.0,0.8,92.0,30.43
+428,2020,Amit,"Defender, left cover",30,/teams/up-yoddha,85.0,Season 7,17.0,24.0,4.0,100.0,14.0,14.28,0.0,0.0,2.0,0.11,2.0,0.0,22.0,1.17,61.0,36.06
+429,2020,Amit,"Defender, left cover",30,/teams/up-yoddha,85.0,Season 6,14.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,0.35,31.0,19.35
+430,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Overall,85.0,109.0,8.0,90.9,33.0,12.12,0.0,0.0,4.0,0.04,15.0,3.0,105.0,1.05,269.0,39.03
+431,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 7,16.0,21.0,6.0,100.0,3.0,66.66,0.0,0.0,2.0,0.12,3.0,1.0,19.0,1.0,52.0,36.53
+432,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 6,16.0,8.0,2.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.5,36.0,22.22
+433,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 5,20.0,36.0,8.0,93.75,16.0,6.25,0.0,0.0,1.0,0.05,5.0,1.0,35.0,1.5,83.0,42.16
+434,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 4,14.0,15.0,3.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,1.0,40.0,37.5
+435,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 3,11.0,18.0,7.0,77.77,9.0,11.11,0.0,0.0,1.0,0.09,5.0,1.0,17.0,1.09,35.0,48.57
+436,191,C. Arun,"Defender, left cover",8,/teams/telugu-titans,86.0,Season 2,8.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0,1.25,23.0,47.82
+437,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Overall,121.0,191.0,6.0,50.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,8.0,191.0,1.5,490.0,38.97
+438,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 7,16.0,21.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,1.31,63.0,33.33
+439,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 6,22.0,38.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,38.0,1.63,95.0,40.0
+440,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 5,26.0,39.0,6.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,39.0,1.38,113.0,34.51
+441,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 4,14.0,31.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,31.0,2.0,66.0,46.96
+442,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 3,13.0,16.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.23,35.0,45.71
+443,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 2,14.0,26.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26.0,1.85,53.0,49.05
+444,123,Vishal Mane,"Defender, right cover",2,/teams/dabang-delhi-kc,86.0,Season 1,16.0,20.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,20.0,1.18,65.0,30.76
+445,2475,Ajinkya Ashok Pawar,Raider,3,/teams/jaipur-pink-panthers,88.0,Overall,31.0,94.0,9.0,70.3,229.0,39.3,1.0,0.0,90.0,2.9,1.0,0.0,4.0,0.09,15.0,26.66
+446,2475,Ajinkya Ashok Pawar,Raider,3,/teams/jaipur-pink-panthers,88.0,Season 7,14.0,19.0,5.0,62.12,66.0,28.78,0.0,0.0,19.0,1.35,0.0,0.0,0.0,0.0,2.0,0.0
+447,2475,Ajinkya Ashok Pawar,Raider,3,/teams/jaipur-pink-panthers,88.0,Season 6,17.0,75.0,9.0,73.61,163.0,43.55,1.0,0.0,71.0,4.17,1.0,0.0,4.0,0.17,13.0,30.76
+448,2479,Shubham Shinde,"Defender, right corner",7,/teams/puneri-paltan,89.0,Overall,23.0,30.0,3.0,89.47,19.0,5.26,0.0,0.0,1.0,0.04,5.0,0.0,29.0,1.04,82.0,35.36
+449,2479,Shubham Shinde,"Defender, right corner",7,/teams/puneri-paltan,89.0,Season 7,13.0,18.0,3.0,100.0,8.0,12.5,0.0,0.0,1.0,0.07,2.0,0.0,17.0,1.15,44.0,38.63
+450,2479,Shubham Shinde,"Defender, right corner",7,/teams/puneri-paltan,89.0,Season 6,10.0,12.0,3.0,81.81,11.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,12.0,0.9,38.0,31.57
+451,2498,Sushil Gulia,Raider,3,/teams/jaipur-pink-panthers,90.0,Overall,7.0,20.0,8.0,68.75,48.0,39.58,2.0,0.0,19.0,2.71,0.0,0.0,1.0,0.14,4.0,25.0
+452,2498,Sushil Gulia,Raider,3,/teams/jaipur-pink-panthers,90.0,Season 7,7.0,20.0,8.0,68.75,48.0,39.58,2.0,0.0,19.0,2.71,0.0,0.0,1.0,0.14,4.0,25.0
+453,2502,Mohit Sehrawat,"Defender, right cover",1,/teams/bengaluru-bulls,90.0,Overall,11.0,17.0,5.0,78.57,42.0,11.9,0.0,0.0,5.0,0.45,2.0,1.0,12.0,0.9,31.0,38.7
+454,2502,Mohit Sehrawat,"Defender, right cover",1,/teams/bengaluru-bulls,90.0,Season 7,11.0,17.0,5.0,78.57,42.0,11.9,0.0,0.0,5.0,0.45,2.0,1.0,12.0,0.9,31.0,38.7
+455,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Overall,27.0,27.0,4.0,50.0,18.0,27.77,0.0,0.0,5.0,0.18,1.0,0.0,22.0,0.77,68.0,32.35
+456,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Season 7,11.0,17.0,4.0,66.66,6.0,16.66,0.0,0.0,1.0,0.09,1.0,0.0,16.0,1.36,37.0,43.24
+457,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Season 6,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+458,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Season 5,9.0,9.0,2.0,41.66,12.0,33.33,0.0,0.0,4.0,0.44,0.0,0.0,5.0,0.55,23.0,21.73
+459,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Season 4,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,100.0
+460,301,Hadi Tajik,"Defender, right corner",7,/teams/puneri-paltan,90.0,Season 3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+461,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Overall,50.0,66.0,4.0,84.84,33.0,9.09,0.0,0.0,3.0,0.06,4.0,0.0,63.0,1.18,165.0,38.18
+462,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Season 7,12.0,16.0,4.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.33,51.0,31.37
+463,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Season 6,18.0,30.0,4.0,77.77,9.0,11.11,0.0,0.0,1.0,0.05,4.0,0.0,29.0,1.38,60.0,48.33
+464,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Season 5,5.0,1.0,1.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,3.0,33.33
+465,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Season 4,4.0,2.0,2.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.5,7.0,28.57
+466,311,Anil Kumar,"Defender, left cover",2,/teams/dabang-delhi-kc,93.0,Season 3,11.0,21.0,4.0,80.0,15.0,13.33,0.0,0.0,2.0,0.18,0.0,0.0,19.0,1.72,51.0,37.25
+467,2672,Sumit Malik,"Defender, left corner",31,/teams/gujarat-fortunegiants,94.0,Overall,14.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,1.0,32.0,46.87
+468,2672,Sumit Malik,"Defender, left corner",31,/teams/gujarat-fortunegiants,94.0,Season 7,14.0,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,1.0,32.0,46.87
+469,2512,Ajeet,"Defender, right cover",29,/teams/tamil-thalaivas,95.0,Overall,14.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,0.92,51.0,27.45
+470,2512,Ajeet,"Defender, right cover",29,/teams/tamil-thalaivas,95.0,Season 7,14.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,0.92,51.0,27.45
+471,2486,Harendra Kumar,"Defender, left cover",5,/teams/u-mumba,95.0,Overall,14.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,14.0,0.92,46.0,30.43
+472,2486,Harendra Kumar,"Defender, left cover",5,/teams/u-mumba,95.0,Season 7,14.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,14.0,0.92,46.0,30.43
+473,347,Sagar B Krishna,All Rounder,7,/teams/puneri-paltan,97.0,Overall,58.0,70.0,7.0,89.47,19.0,5.26,0.0,0.0,1.0,0.01,7.0,5.0,69.0,1.06,146.0,47.26
+474,347,Sagar B Krishna,All Rounder,7,/teams/puneri-paltan,97.0,Season 7,10.0,13.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,13.0,1.0,23.0,56.52
+475,347,Sagar B Krishna,All Rounder,7,/teams/puneri-paltan,97.0,Season 6,20.0,18.0,5.0,88.88,9.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,18.0,0.85,45.0,40.0
+476,347,Sagar B Krishna,All Rounder,7,/teams/puneri-paltan,97.0,Season 5,17.0,33.0,6.0,90.0,10.0,10.0,0.0,0.0,1.0,0.05,3.0,3.0,32.0,1.7,62.0,51.61
+477,347,Sagar B Krishna,All Rounder,7,/teams/puneri-paltan,97.0,Season 4,11.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.54,16.0,37.5
+478,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Overall,40.0,63.0,6.0,79.81,213.0,18.3,0.0,0.0,39.0,0.97,2.0,0.0,24.0,0.55,71.0,33.8
+479,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Season 7,10.0,14.0,5.0,68.75,16.0,43.75,0.0,0.0,7.0,0.7,1.0,0.0,7.0,0.6,14.0,50.0
+480,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Season 6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+481,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Season 5,18.0,30.0,4.0,86.53,104.0,15.38,0.0,0.0,16.0,0.88,1.0,0.0,14.0,0.72,41.0,34.14
+482,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Season 3,4.0,9.0,6.0,78.37,37.0,21.62,0.0,0.0,8.0,2.0,0.0,0.0,1.0,0.25,4.0,25.0
+483,268,Vineet Sharma,Raider,29,/teams/tamil-thalaivas,97.0,Season 2,8.0,10.0,4.0,71.42,56.0,14.28,0.0,0.0,8.0,1.0,0.0,0.0,2.0,0.25,12.0,16.66
+484,214,Amit Kumar,Raider,8,/teams/telugu-titans,97.0,Overall,11.0,17.0,3.0,92.59,54.0,7.4,0.0,0.0,4.0,0.36,2.0,0.0,13.0,1.0,29.0,44.82
+485,214,Amit Kumar,Raider,8,/teams/telugu-titans,97.0,Season 7,9.0,13.0,3.0,93.61,47.0,6.38,0.0,0.0,3.0,0.33,2.0,0.0,10.0,0.88,21.0,47.61
+486,214,Amit Kumar,Raider,8,/teams/telugu-titans,97.0,Season 6,2.0,4.0,3.0,85.71,7.0,14.28,0.0,0.0,1.0,0.5,0.0,0.0,3.0,1.5,8.0,37.5
+487,2667,Ankit,"Defender, right corner",31,/teams/gujarat-fortunegiants,97.0,Overall,12.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,13.0,0.91,31.0,41.93
+488,2667,Ankit,"Defender, right corner",31,/teams/gujarat-fortunegiants,97.0,Season 7,12.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,13.0,0.91,31.0,41.93
+489,2682,Amit Kumar,All Rounder,7,/teams/puneri-paltan,97.0,Overall,5.0,13.0,5.0,56.0,25.0,44.0,0.0,0.0,11.0,2.2,1.0,0.0,2.0,0.2,2.0,100.0
+490,2682,Amit Kumar,All Rounder,7,/teams/puneri-paltan,97.0,Season 7,5.0,13.0,5.0,56.0,25.0,44.0,0.0,0.0,11.0,2.2,1.0,0.0,2.0,0.2,2.0,100.0
+491,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Overall,55.0,155.0,11.0,79.03,353.0,42.2,7.0,2.0,149.0,2.7,0.0,0.0,6.0,0.1,28.0,21.42
+492,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 7,6.0,12.0,5.0,71.42,35.0,28.57,1.0,0.0,10.0,1.66,0.0,0.0,2.0,0.33,3.0,66.66
+493,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 6,15.0,41.0,11.0,76.82,82.0,46.34,3.0,1.0,38.0,2.53,0.0,0.0,3.0,0.2,9.0,33.33
+494,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 5,3.0,4.0,2.0,57.14,14.0,28.57,0.0,0.0,4.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0
+495,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 4,13.0,45.0,7.0,82.07,106.0,42.45,1.0,0.0,45.0,3.46,0.0,0.0,0.0,0.0,8.0,0.0
+496,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 3,8.0,39.0,10.0,83.69,92.0,41.3,1.0,1.0,38.0,4.75,0.0,0.0,1.0,0.12,6.0,16.66
+497,264,Selvamani K,Raider,28,/teams/haryana-steelers,102.0,Season 2,10.0,14.0,5.0,79.16,24.0,58.33,1.0,0.0,14.0,1.4,0.0,0.0,0.0,0.0,2.0,0.0
+498,2494,Sachin Narwal,All Rounder,3,/teams/jaipur-pink-panthers,102.0,Overall,11.0,12.0,4.0,78.12,32.0,34.37,1.0,0.0,11.0,1.0,0.0,0.0,1.0,0.09,5.0,20.0
+499,2494,Sachin Narwal,All Rounder,3,/teams/jaipur-pink-panthers,102.0,Season 7,11.0,12.0,4.0,78.12,32.0,34.37,1.0,0.0,11.0,1.0,0.0,0.0,1.0,0.09,5.0,20.0
+500,665,Pankaj,All Rounder,31,/teams/gujarat-fortunegiants,102.0,Overall,20.0,32.0,6.0,50.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32.0,1.6,79.0,40.5
+501,665,Pankaj,All Rounder,31,/teams/gujarat-fortunegiants,102.0,Season 7,6.0,15.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2.5,27.0,55.55
+502,665,Pankaj,All Rounder,31,/teams/gujarat-fortunegiants,102.0,Season 6,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,33.33
+503,665,Pankaj,All Rounder,31,/teams/gujarat-fortunegiants,102.0,Season 5,13.0,16.0,3.0,50.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.23,49.0,32.65
+504,665,Pankaj,All Rounder,30,/teams/up-yoddha,177.0,Overall,20.0,32.0,6.0,50.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,32.0,1.6,79.0,40.5
+505,665,Pankaj,All Rounder,30,/teams/up-yoddha,177.0,Season 7,6.0,15.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2.5,27.0,55.55
+506,665,Pankaj,All Rounder,30,/teams/up-yoddha,177.0,Season 6,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,33.33
+507,665,Pankaj,All Rounder,30,/teams/up-yoddha,177.0,Season 5,13.0,16.0,3.0,50.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.23,49.0,32.65
+508,2496,Pavan T. R.,"Defender, right cover",3,/teams/jaipur-pink-panthers,105.0,Overall,12.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.0,0.75,29.0,37.93
+509,2496,Pavan T. R.,"Defender, right cover",3,/teams/jaipur-pink-panthers,105.0,Season 7,12.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.0,0.75,29.0,37.93
+510,2503,Banty,Raider,1,/teams/bengaluru-bulls,105.0,Overall,9.0,11.0,4.0,64.28,28.0,32.14,0.0,0.0,9.0,1.0,0.0,0.0,2.0,0.22,4.0,50.0
+511,2503,Banty,Raider,1,/teams/bengaluru-bulls,105.0,Season 7,9.0,11.0,4.0,64.28,28.0,32.14,0.0,0.0,9.0,1.0,0.0,0.0,2.0,0.22,4.0,50.0
+512,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Overall,48.0,145.0,11.0,69.37,320.0,42.5,4.0,2.0,136.0,2.83,0.0,0.0,9.0,0.18,53.0,16.98
+513,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 7,4.0,11.0,5.0,52.17,23.0,43.47,0.0,0.0,10.0,2.5,0.0,0.0,1.0,0.25,4.0,25.0
+514,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 6,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+515,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 5,18.0,70.0,11.0,73.28,131.0,51.9,2.0,2.0,68.0,3.77,0.0,0.0,2.0,0.11,23.0,8.69
+516,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 4,11.0,11.0,3.0,58.13,43.0,20.93,0.0,0.0,9.0,0.81,0.0,0.0,2.0,0.18,8.0,25.0
+517,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 3,12.0,45.0,9.0,74.52,106.0,41.5,2.0,0.0,44.0,3.66,0.0,0.0,1.0,0.08,11.0,9.09
+518,234,Surender Singh,Raider,30,/teams/up-yoddha,105.0,Season 2,2.0,8.0,6.0,62.5,16.0,31.25,0.0,0.0,5.0,2.5,0.0,0.0,3.0,1.5,6.0,50.0
+519,522,Dong Geon Lee,Raider,5,/teams/u-mumba,108.0,Overall,32.0,70.0,10.0,73.41,158.0,44.3,1.0,1.0,70.0,2.18,0.0,0.0,0.0,0.0,6.0,0.0
+520,522,Dong Geon Lee,Raider,5,/teams/u-mumba,108.0,Season 7,4.0,10.0,6.0,72.0,25.0,40.0,0.0,0.0,10.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0
+521,522,Dong Geon Lee,Raider,5,/teams/u-mumba,108.0,Season 6,11.0,31.0,10.0,76.92,65.0,47.69,1.0,1.0,31.0,2.81,0.0,0.0,0.0,0.0,1.0,0.0
+522,522,Dong Geon Lee,Raider,5,/teams/u-mumba,108.0,Season 5,17.0,29.0,5.0,70.58,68.0,42.64,0.0,0.0,29.0,1.7,0.0,0.0,0.0,0.0,5.0,0.0
+523,613,Sunil Siddhgavali,Defender,3,/teams/jaipur-pink-panthers,109.0,Overall,40.0,63.0,8.0,89.47,19.0,26.31,0.0,0.0,5.0,0.12,7.0,5.0,58.0,1.27,159.0,36.47
+524,613,Sunil Siddhgavali,Defender,3,/teams/jaipur-pink-panthers,109.0,Season 7,12.0,9.0,2.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,9.0,0.5,34.0,26.47
+525,613,Sunil Siddhgavali,Defender,3,/teams/jaipur-pink-panthers,109.0,Season 6,16.0,38.0,8.0,86.66,15.0,33.33,0.0,0.0,5.0,0.31,3.0,4.0,33.0,1.87,81.0,40.74
+526,613,Sunil Siddhgavali,Defender,3,/teams/jaipur-pink-panthers,109.0,Season 5,12.0,16.0,6.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,16.0,1.25,44.0,36.36
+527,2298,Armaan,All Rounder,8,/teams/telugu-titans,109.0,Overall,10.0,24.0,13.0,61.81,55.0,40.0,2.0,1.0,22.0,2.2,1.0,0.0,2.0,0.1,8.0,25.0
+528,2298,Armaan,All Rounder,8,/teams/telugu-titans,109.0,Season 7,6.0,9.0,4.0,59.37,32.0,28.12,1.0,0.0,9.0,1.5,0.0,0.0,0.0,0.0,7.0,0.0
+529,2298,Armaan,All Rounder,8,/teams/telugu-titans,109.0,Season 6,4.0,15.0,13.0,65.21,23.0,56.52,1.0,1.0,13.0,3.25,1.0,0.0,2.0,0.25,1.0,200.0
+530,2659,Sagar,"Defender, right corner",29,/teams/tamil-thalaivas,109.0,Overall,9.0,9.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,0.88,18.0,50.0
+531,2659,Sagar,"Defender, right corner",29,/teams/tamil-thalaivas,109.0,Season 7,9.0,9.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,0.88,18.0,50.0
+532,2660,Sushant Sail,Raider,7,/teams/puneri-paltan,112.0,Overall,7.0,8.0,3.0,52.38,21.0,38.09,0.0,0.0,8.0,1.14,0.0,0.0,0.0,0.0,1.0,0.0
+533,2660,Sushant Sail,Raider,7,/teams/puneri-paltan,112.0,Season 7,7.0,8.0,3.0,52.38,21.0,38.09,0.0,0.0,8.0,1.14,0.0,0.0,0.0,0.0,1.0,0.0
+534,2257,Victor Onyango Obiero,All Rounder,29,/teams/tamil-thalaivas,112.0,Overall,6.0,14.0,5.0,66.66,15.0,80.0,0.0,0.0,12.0,2.0,1.0,0.0,2.0,0.16,5.0,40.0
+535,2257,Victor Onyango Obiero,All Rounder,29,/teams/tamil-thalaivas,112.0,Season 7,3.0,8.0,5.0,75.0,8.0,75.0,0.0,0.0,6.0,2.0,1.0,0.0,2.0,0.33,5.0,40.0
+536,2257,Victor Onyango Obiero,All Rounder,29,/teams/tamil-thalaivas,112.0,Season 6,3.0,6.0,5.0,57.14,7.0,85.71,0.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+537,2322,Ankit Beniwal,Raider,8,/teams/telugu-titans,112.0,Overall,6.0,8.0,2.0,52.63,19.0,36.84,0.0,0.0,7.0,1.16,0.0,0.0,1.0,0.16,2.0,50.0
+538,2322,Ankit Beniwal,Raider,8,/teams/telugu-titans,112.0,Season 7,5.0,8.0,2.0,56.25,16.0,43.75,0.0,0.0,7.0,1.4,0.0,0.0,1.0,0.2,2.0,50.0
+539,2322,Ankit Beniwal,Raider,8,/teams/telugu-titans,112.0,Season 6,1.0,0.0,0.0,33.33,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+540,481,Saeid Ghaffari,"Defender, left cover",2,/teams/dabang-delhi-kc,112.0,Overall,9.0,8.0,4.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.88,20.0,40.0
+541,481,Saeid Ghaffari,"Defender, left cover",2,/teams/dabang-delhi-kc,112.0,Season 7,9.0,8.0,4.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.88,20.0,40.0
+542,567,Mohsen Maghsoudloujafari,All Rounder,30,/teams/up-yoddha,116.0,Overall,45.0,110.0,12.0,74.77,218.0,33.94,2.0,1.0,74.0,1.64,4.0,0.0,36.0,0.71,76.0,47.36
+543,567,Mohsen Maghsoudloujafari,All Rounder,30,/teams/up-yoddha,116.0,Season 7,10.0,7.0,2.0,56.52,23.0,17.39,0.0,0.0,4.0,0.4,1.0,0.0,3.0,0.2,8.0,37.5
+544,567,Mohsen Maghsoudloujafari,All Rounder,30,/teams/up-yoddha,116.0,Season 6,19.0,56.0,7.0,77.67,112.0,25.89,0.0,0.0,29.0,1.52,2.0,0.0,27.0,1.31,52.0,51.92
+545,567,Mohsen Maghsoudloujafari,All Rounder,30,/teams/up-yoddha,116.0,Season 5,16.0,47.0,12.0,75.9,83.0,49.39,2.0,1.0,41.0,2.56,1.0,0.0,6.0,0.31,16.0,37.5
+546,2321,Ankush,Raider,30,/teams/up-yoddha,116.0,Overall,3.0,7.0,4.0,66.66,6.0,100.0,0.0,0.0,6.0,2.0,0.0,0.0,1.0,0.33,1.0,100.0
+547,2321,Ankush,Raider,30,/teams/up-yoddha,116.0,Season 7,3.0,7.0,4.0,66.66,6.0,100.0,0.0,0.0,6.0,2.0,0.0,0.0,1.0,0.33,1.0,100.0
+548,2023,Ruturaj Shivaji Koravi,Defender,31,/teams/gujarat-fortunegiants,116.0,Overall,35.0,55.0,5.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,55.0,1.48,150.0,36.66
+549,2023,Ruturaj Shivaji Koravi,Defender,31,/teams/gujarat-fortunegiants,116.0,Season 7,12.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.66,29.0,27.58
+550,2023,Ruturaj Shivaji Koravi,Defender,31,/teams/gujarat-fortunegiants,116.0,Season 6,23.0,47.0,5.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,47.0,1.91,121.0,38.84
+551,676,Santhapanaselvam,All Rounder,3,/teams/jaipur-pink-panthers,116.0,Overall,29.0,40.0,4.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,40.0,1.27,98.0,40.81
+552,676,Santhapanaselvam,All Rounder,3,/teams/jaipur-pink-panthers,116.0,Season 7,5.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0,2.0,21.0,52.38
+553,676,Santhapanaselvam,All Rounder,3,/teams/jaipur-pink-panthers,116.0,Season 6,14.0,14.0,3.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,14.0,0.85,46.0,30.43
+554,676,Santhapanaselvam,All Rounder,3,/teams/jaipur-pink-panthers,116.0,Season 5,10.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,1.5,31.0,48.38
+555,764,Vinod Kumar,All Rounder,31,/teams/gujarat-fortunegiants,116.0,Overall,44.0,106.0,8.0,76.21,164.0,37.8,2.0,0.0,62.0,1.4,9.0,2.0,44.0,0.79,68.0,64.7
+556,764,Vinod Kumar,All Rounder,31,/teams/gujarat-fortunegiants,116.0,Season 7,6.0,7.0,3.0,66.66,21.0,28.57,0.0,0.0,6.0,1.0,0.0,0.0,1.0,0.16,4.0,25.0
+557,764,Vinod Kumar,All Rounder,31,/teams/gujarat-fortunegiants,116.0,Season 6,17.0,51.0,7.0,83.82,68.0,32.35,0.0,0.0,22.0,1.29,4.0,2.0,29.0,1.47,43.0,67.44
+558,764,Vinod Kumar,All Rounder,31,/teams/gujarat-fortunegiants,116.0,Season 5,21.0,48.0,8.0,72.0,75.0,45.33,2.0,0.0,34.0,1.61,5.0,0.0,14.0,0.42,21.0,66.66
+559,2662,Sanket Sawant,"Defender, left cover",7,/teams/puneri-paltan,116.0,Overall,5.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.4,21.0,33.33
+560,2662,Sanket Sawant,"Defender, left cover",7,/teams/puneri-paltan,116.0,Season 7,5.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.4,21.0,33.33
+561,2514,Chand Singh,"Defender, left corner",28,/teams/haryana-steelers,122.0,Overall,6.0,6.0,3.0,100.0,1.0,100.0,0.0,0.0,1.0,0.16,1.0,0.0,5.0,0.66,14.0,35.71
+562,2514,Chand Singh,"Defender, left corner",28,/teams/haryana-steelers,122.0,Season 7,6.0,6.0,3.0,100.0,1.0,100.0,0.0,0.0,1.0,0.16,1.0,0.0,5.0,0.66,14.0,35.71
+563,732,Kuldeep Singh,Defender,28,/teams/haryana-steelers,122.0,Overall,35.0,63.0,6.0,66.66,3.0,33.33,0.0,0.0,1.0,0.02,5.0,3.0,62.0,1.62,141.0,43.97
+564,732,Kuldeep Singh,Defender,28,/teams/haryana-steelers,122.0,Season 7,8.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.75,24.0,25.0
+565,732,Kuldeep Singh,Defender,28,/teams/haryana-steelers,122.0,Season 6,22.0,49.0,6.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,49.0,2.04,105.0,46.66
+566,732,Kuldeep Singh,Defender,28,/teams/haryana-steelers,122.0,Season 5,5.0,8.0,6.0,0.0,1.0,100.0,0.0,0.0,1.0,0.2,1.0,1.0,7.0,1.2,12.0,58.33
+567,519,Young Chang Ko,"Defender, left cover",5,/teams/u-mumba,122.0,Overall,36.0,23.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,23.0,0.47,73.0,31.5
+568,519,Young Chang Ko,"Defender, left cover",5,/teams/u-mumba,122.0,Season 7,9.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0,0.44,12.0,50.0
+569,519,Young Chang Ko,"Defender, left cover",5,/teams/u-mumba,122.0,Season 6,13.0,15.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,15.0,0.84,34.0,44.11
+570,519,Young Chang Ko,"Defender, left cover",5,/teams/u-mumba,122.0,Season 5,14.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.14,27.0,7.4
+571,784,Viraj Vishnu Landge,"Defender, left cover",4,/teams/bengal-warriors,122.0,Overall,33.0,28.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.84,107.0,26.16
+572,784,Viraj Vishnu Landge,"Defender, left cover",4,/teams/bengal-warriors,122.0,Season 7,7.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.85,26.0,23.07
+573,784,Viraj Vishnu Landge,"Defender, left cover",4,/teams/bengal-warriors,122.0,Season 6,7.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.85,29.0,20.68
+574,784,Viraj Vishnu Landge,"Defender, left cover",4,/teams/bengal-warriors,122.0,Season 5,19.0,16.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.84,52.0,30.76
+575,2325,Anand,Raider,29,/teams/tamil-thalaivas,122.0,Overall,8.0,14.0,8.0,70.0,30.0,46.66,1.0,0.0,14.0,1.75,0.0,0.0,0.0,0.0,3.0,0.0
+576,2325,Anand,Raider,29,/teams/tamil-thalaivas,122.0,Season 7,5.0,6.0,4.0,61.53,13.0,46.15,1.0,0.0,6.0,1.2,0.0,0.0,0.0,0.0,3.0,0.0
+577,2325,Anand,Raider,29,/teams/tamil-thalaivas,122.0,Season 6,3.0,8.0,8.0,76.47,17.0,47.05,0.0,0.0,8.0,2.66,0.0,0.0,0.0,0.0,0.0,0.0
+578,2316,Azad Singh,Raider,30,/teams/up-yoddha,127.0,Overall,13.0,29.0,8.0,67.56,74.0,36.48,1.0,0.0,27.0,2.07,0.0,0.0,2.0,0.15,6.0,33.33
+579,2316,Azad Singh,Raider,30,/teams/up-yoddha,127.0,Season 7,4.0,6.0,3.0,65.38,26.0,23.07,0.0,0.0,6.0,1.5,0.0,0.0,0.0,0.0,1.0,0.0
+580,2316,Azad Singh,Raider,30,/teams/up-yoddha,127.0,Season 6,9.0,23.0,8.0,68.75,48.0,43.75,1.0,0.0,21.0,2.33,0.0,0.0,2.0,0.22,5.0,40.0
+581,2471,Ankit,Defender,1,/teams/bengaluru-bulls,127.0,Overall,11.0,8.0,3.0,100.0,9.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,0.63,24.0,33.33
+582,2471,Ankit,Defender,1,/teams/bengaluru-bulls,127.0,Season 7,5.0,5.0,3.0,100.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.8,13.0,38.46
+583,2471,Ankit,Defender,1,/teams/bengaluru-bulls,127.0,Season 6,6.0,3.0,1.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.5,11.0,27.27
+584,2471,Ankit,Defender,1,/teams/bengaluru-bulls,164.0,Overall,11.0,8.0,3.0,100.0,9.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,0.63,24.0,33.33
+585,2471,Ankit,Defender,1,/teams/bengaluru-bulls,164.0,Season 7,5.0,5.0,3.0,100.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.8,13.0,38.46
+586,2471,Ankit,Defender,1,/teams/bengaluru-bulls,164.0,Season 6,6.0,3.0,1.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.5,11.0,27.27
+587,2504,Ashish,Raider,6,/teams/patna-pirates,127.0,Overall,7.0,5.0,2.0,50.0,16.0,31.25,0.0,0.0,5.0,0.71,0.0,0.0,0.0,0.0,2.0,0.0
+588,2504,Ashish,Raider,6,/teams/patna-pirates,127.0,Season 7,7.0,5.0,2.0,50.0,16.0,31.25,0.0,0.0,5.0,0.71,0.0,0.0,0.0,0.0,2.0,0.0
+589,2306,Lalit Chaudhary,Raider,31,/teams/gujarat-fortunegiants,127.0,Overall,7.0,12.0,5.0,44.44,18.0,27.77,0.0,0.0,5.0,0.71,2.0,0.0,7.0,0.71,6.0,116.66
+590,2306,Lalit Chaudhary,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 7,4.0,5.0,3.0,45.45,11.0,18.18,0.0,0.0,2.0,0.5,1.0,0.0,3.0,0.5,2.0,150.0
+591,2306,Lalit Chaudhary,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 6,3.0,7.0,5.0,42.85,7.0,42.85,0.0,0.0,3.0,1.0,1.0,0.0,4.0,1.0,4.0,100.0
+592,768,Vijay Kumar,"Defender, right corner",1,/teams/bengaluru-bulls,127.0,Overall,21.0,14.0,3.0,88.88,9.0,33.33,0.0,0.0,3.0,0.14,3.0,0.0,11.0,0.38,39.0,28.2
+593,768,Vijay Kumar,"Defender, right corner",1,/teams/bengaluru-bulls,127.0,Season 7,9.0,5.0,3.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.44,16.0,31.25
+594,768,Vijay Kumar,"Defender, right corner",1,/teams/bengaluru-bulls,127.0,Season 6,4.0,3.0,2.0,100.0,2.0,100.0,0.0,0.0,2.0,0.5,0.0,0.0,1.0,0.25,11.0,9.09
+595,768,Vijay Kumar,"Defender, right corner",1,/teams/bengaluru-bulls,127.0,Season 5,8.0,6.0,3.0,66.66,3.0,33.33,0.0,0.0,1.0,0.12,2.0,0.0,5.0,0.37,12.0,41.66
+596,768,Vijay Kumar,"Defender, right corner",6,/teams/patna-pirates,164.0,Overall,21.0,14.0,3.0,88.88,9.0,33.33,0.0,0.0,3.0,0.14,3.0,0.0,11.0,0.38,39.0,28.2
+597,768,Vijay Kumar,"Defender, right corner",6,/teams/patna-pirates,164.0,Season 7,9.0,5.0,3.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.44,16.0,31.25
+598,768,Vijay Kumar,"Defender, right corner",6,/teams/patna-pirates,164.0,Season 6,4.0,3.0,2.0,100.0,2.0,100.0,0.0,0.0,2.0,0.5,0.0,0.0,1.0,0.25,11.0,9.09
+599,768,Vijay Kumar,"Defender, right corner",6,/teams/patna-pirates,164.0,Season 5,8.0,6.0,3.0,66.66,3.0,33.33,0.0,0.0,1.0,0.12,2.0,0.0,5.0,0.37,12.0,41.66
+600,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Overall,47.0,152.0,11.0,75.56,356.0,40.44,4.0,0.0,144.0,3.06,1.0,0.0,8.0,0.14,22.0,36.36
+601,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 7,6.0,5.0,4.0,40.0,10.0,50.0,0.0,0.0,5.0,0.83,0.0,0.0,0.0,0.0,0.0,0.0
+602,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 6,10.0,25.0,5.0,75.32,77.0,29.87,2.0,0.0,23.0,2.3,0.0,0.0,2.0,0.2,7.0,28.57
+603,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 5,19.0,97.0,11.0,79.56,230.0,39.56,0.0,0.0,91.0,4.78,1.0,0.0,6.0,0.26,14.0,42.85
+604,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 4,9.0,25.0,9.0,62.16,37.0,67.56,2.0,0.0,25.0,2.77,0.0,0.0,0.0,0.0,1.0,0.0
+605,300,Abolfazl Maghsodloumahali,Raider,31,/teams/gujarat-fortunegiants,127.0,Season 3,3.0,0.0,0.0,50.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+606,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Overall,82.0,156.0,7.0,81.62,185.0,24.32,0.0,0.0,45.0,0.54,13.0,4.0,111.0,1.19,270.0,41.11
+607,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 7,6.0,5.0,4.0,81.81,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0,0.5,19.0,26.31
+608,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 6,24.0,45.0,7.0,92.59,27.0,18.51,0.0,0.0,5.0,0.2,3.0,1.0,40.0,1.54,87.0,45.97
+609,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 5,20.0,32.0,6.0,75.71,70.0,24.28,0.0,0.0,17.0,0.85,1.0,1.0,15.0,0.7,49.0,30.61
+610,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 4,14.0,37.0,7.0,81.25,48.0,29.16,0.0,0.0,14.0,1.0,6.0,1.0,23.0,1.21,44.0,52.27
+611,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 3,13.0,32.0,7.0,84.21,19.0,36.84,0.0,0.0,7.0,0.53,0.0,1.0,25.0,1.92,61.0,40.98
+612,202,Ashish Kumar,All Rounder,1,/teams/bengaluru-bulls,127.0,Season 2,5.0,5.0,4.0,90.0,10.0,20.0,0.0,0.0,2.0,0.4,1.0,0.0,3.0,0.4,10.0,30.0
+613,2507,Amit Kumar,All Rounder,6,/teams/patna-pirates,127.0,Overall,3.0,5.0,4.0,75.0,8.0,62.5,1.0,0.0,5.0,1.66,0.0,0.0,0.0,0.0,1.0,0.0
+614,2507,Amit Kumar,All Rounder,6,/teams/patna-pirates,127.0,Season 7,3.0,5.0,4.0,75.0,8.0,62.5,1.0,0.0,5.0,1.66,0.0,0.0,0.0,0.0,1.0,0.0
+615,2665,Elavarasan A,"Defender, left cover",3,/teams/jaipur-pink-panthers,135.0,Overall,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,1.0,10.0,40.0
+616,2665,Elavarasan A,"Defender, left cover",3,/teams/jaipur-pink-panthers,135.0,Season 7,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,1.0,10.0,40.0
+617,2666,Harmanjit Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Overall,3.0,4.0,4.0,72.72,11.0,36.36,0.0,0.0,4.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0
+618,2666,Harmanjit Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 7,3.0,4.0,4.0,72.72,11.0,36.36,0.0,0.0,4.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0
+619,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Overall,46.0,79.0,7.0,84.54,110.0,23.63,0.0,0.0,26.0,0.56,5.0,3.0,53.0,1.04,136.0,38.97
+620,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Season 7,12.0,4.0,2.0,92.85,14.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.25,11.0,36.36
+621,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Season 6,25.0,68.0,7.0,84.26,89.0,28.08,0.0,0.0,25.0,1.0,4.0,2.0,43.0,1.56,101.0,42.57
+622,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Season 5,9.0,7.0,5.0,71.42,7.0,14.28,0.0,0.0,1.0,0.11,0.0,1.0,6.0,0.66,24.0,25.0
+623,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Season 3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+624,218,Sachin Kumar,All Rounder,30,/teams/up-yoddha,135.0,Season 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+625,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Overall,45.0,100.0,11.0,74.66,225.0,36.44,2.0,1.0,82.0,1.82,1.0,0.0,18.0,0.37,65.0,27.69
+626,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 7,2.0,4.0,3.0,42.85,7.0,57.14,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+627,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+628,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 5,9.0,24.0,7.0,78.37,37.0,45.94,1.0,0.0,17.0,1.88,0.0,0.0,7.0,0.77,20.0,35.0
+629,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 4,6.0,4.0,1.0,76.47,17.0,23.52,0.0,0.0,4.0,0.66,0.0,0.0,0.0,0.0,5.0,0.0
+630,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 3,5.0,6.0,4.0,83.33,12.0,33.33,0.0,0.0,4.0,0.8,0.0,0.0,2.0,0.4,5.0,40.0
+631,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 2,16.0,49.0,11.0,76.11,134.0,32.83,1.0,1.0,44.0,2.75,0.0,0.0,5.0,0.31,22.0,22.72
+632,46,Gurvinder Singh,Raider,31,/teams/gujarat-fortunegiants,135.0,Season 1,7.0,13.0,5.0,61.11,18.0,50.0,0.0,0.0,9.0,1.28,1.0,0.0,4.0,0.42,13.0,30.76
+633,274,Krushna Madane,Defender,8,/teams/telugu-titans,135.0,Overall,14.0,16.0,4.0,84.61,13.0,7.69,0.0,0.0,1.0,0.07,0.0,0.0,15.0,1.07,39.0,38.46
+634,274,Krushna Madane,Defender,8,/teams/telugu-titans,135.0,Season 7,7.0,4.0,2.0,100.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.57,14.0,28.57
+635,274,Krushna Madane,Defender,8,/teams/telugu-titans,135.0,Season 6,6.0,12.0,4.0,100.0,3.0,33.33,0.0,0.0,1.0,0.16,0.0,0.0,11.0,1.83,25.0,44.0
+636,274,Krushna Madane,Defender,8,/teams/telugu-titans,135.0,Season 3,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+637,324,Darshan Kadian,Raider,7,/teams/puneri-paltan,135.0,Overall,37.0,96.0,10.0,74.02,231.0,36.79,2.0,1.0,85.0,2.29,3.0,0.0,11.0,0.21,41.0,26.82
+638,324,Darshan Kadian,Raider,7,/teams/puneri-paltan,135.0,Season 7,5.0,4.0,2.0,76.47,17.0,17.64,0.0,0.0,3.0,0.6,0.0,0.0,1.0,0.2,7.0,14.28
+639,324,Darshan Kadian,Raider,7,/teams/puneri-paltan,135.0,Season 6,14.0,50.0,10.0,79.43,141.0,34.75,1.0,1.0,49.0,3.5,0.0,0.0,1.0,0.07,3.0,33.33
+640,324,Darshan Kadian,Raider,7,/teams/puneri-paltan,135.0,Season 5,16.0,40.0,8.0,63.88,72.0,45.83,1.0,0.0,33.0,2.06,3.0,0.0,7.0,0.25,23.0,30.43
+641,324,Darshan Kadian,Raider,7,/teams/puneri-paltan,135.0,Season 3,2.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,8.0,25.0
+642,578,Mayur Shivtarkar,All Rounder,4,/teams/bengal-warriors,135.0,Overall,29.0,33.0,3.0,68.85,61.0,14.75,0.0,0.0,9.0,0.31,0.0,0.0,24.0,0.82,88.0,27.27
+643,578,Mayur Shivtarkar,All Rounder,4,/teams/bengal-warriors,135.0,Season 7,6.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.66,21.0,19.04
+644,578,Mayur Shivtarkar,All Rounder,4,/teams/bengal-warriors,135.0,Season 6,18.0,23.0,3.0,77.77,36.0,11.11,0.0,0.0,4.0,0.22,0.0,0.0,19.0,1.05,65.0,29.23
+645,578,Mayur Shivtarkar,All Rounder,4,/teams/bengal-warriors,135.0,Season 5,5.0,6.0,3.0,56.0,25.0,20.0,0.0,0.0,5.0,1.0,0.0,0.0,1.0,0.2,2.0,50.0
+646,390,Jawahar Dagar,Defender,6,/teams/patna-pirates,135.0,Overall,44.0,64.0,5.0,70.96,31.0,29.03,0.0,0.0,9.0,0.2,6.0,2.0,55.0,1.11,155.0,35.48
+647,390,Jawahar Dagar,Defender,6,/teams/patna-pirates,135.0,Season 7,5.0,4.0,2.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.8,15.0,26.66
+648,390,Jawahar Dagar,Defender,6,/teams/patna-pirates,135.0,Season 6,15.0,23.0,5.0,60.0,5.0,60.0,0.0,0.0,3.0,0.2,3.0,2.0,20.0,1.13,59.0,33.89
+649,390,Jawahar Dagar,Defender,6,/teams/patna-pirates,135.0,Season 5,18.0,35.0,4.0,78.26,23.0,26.08,0.0,0.0,6.0,0.33,3.0,0.0,29.0,1.44,69.0,42.02
+650,390,Jawahar Dagar,Defender,6,/teams/patna-pirates,135.0,Season 4,6.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.33,12.0,16.66
+651,2478,Purna Singh,Raider,6,/teams/patna-pirates,135.0,Overall,5.0,4.0,1.0,75.0,12.0,33.33,0.0,0.0,4.0,0.8,0.0,0.0,0.0,0.0,2.0,0.0
+652,2478,Purna Singh,Raider,6,/teams/patna-pirates,135.0,Season 7,5.0,4.0,1.0,75.0,12.0,33.33,0.0,0.0,4.0,0.8,0.0,0.0,0.0,0.0,2.0,0.0
+653,2478,Purna Singh,Raider,6,/teams/patna-pirates,135.0,Season 6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+654,2463,Parveen,"Defender, left cover",28,/teams/haryana-steelers,135.0,Overall,25.0,32.0,6.0,85.71,7.0,42.85,0.0,0.0,3.0,0.12,6.0,1.0,29.0,0.92,75.0,38.66
+655,2463,Parveen,"Defender, left cover",28,/teams/haryana-steelers,135.0,Season 7,6.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.5,15.0,26.66
+656,2463,Parveen,"Defender, left cover",28,/teams/haryana-steelers,135.0,Season 6,19.0,28.0,6.0,85.71,7.0,42.85,0.0,0.0,3.0,0.15,5.0,1.0,25.0,1.05,60.0,41.66
+657,2470,Adarsh T,"Defender, left corner",4,/teams/bengal-warriors,145.0,Overall,19.0,17.0,4.0,100.0,1.0,200.0,0.0,0.0,2.0,0.1,3.0,0.0,15.0,0.63,32.0,46.87
+658,2470,Adarsh T,"Defender, left corner",4,/teams/bengal-warriors,145.0,Season 7,9.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.33,9.0,33.33
+659,2470,Adarsh T,"Defender, left corner",4,/teams/bengal-warriors,145.0,Season 6,10.0,14.0,4.0,100.0,1.0,200.0,0.0,0.0,2.0,0.2,3.0,0.0,12.0,0.9,23.0,52.17
+660,2506,M. Abishek,"Defender, right cover",29,/teams/tamil-thalaivas,145.0,Overall,5.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.2,15.0,40.0
+661,2506,M. Abishek,"Defender, right cover",29,/teams/tamil-thalaivas,145.0,Season 7,5.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.2,15.0,40.0
+662,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Overall,25.0,52.0,6.0,77.95,127.0,39.37,4.0,0.0,50.0,2.0,0.0,0.0,2.0,0.08,13.0,15.38
+663,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Season 7,1.0,3.0,3.0,50.0,2.0,150.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+664,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Season 6,6.0,10.0,3.0,58.82,17.0,52.94,1.0,0.0,9.0,1.5,0.0,0.0,1.0,0.16,3.0,33.33
+665,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Season 5,6.0,18.0,6.0,85.71,56.0,30.35,1.0,0.0,17.0,2.83,0.0,0.0,1.0,0.16,3.0,33.33
+666,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Season 3,1.0,0.0,0.0,75.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+667,204,Rakesh Narwal,Raider,4,/teams/bengal-warriors,145.0,Season 2,11.0,21.0,5.0,77.08,48.0,43.75,2.0,0.0,21.0,1.9,0.0,0.0,0.0,0.0,6.0,0.0
+668,2644,Ravinder,All Rounder,6,/teams/patna-pirates,145.0,Overall,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.5,7.0,42.85
+669,2644,Ravinder,All Rounder,6,/teams/patna-pirates,145.0,Season 7,4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.5,7.0,42.85
+670,2669,Balram,All Rounder,2,/teams/dabang-delhi-kc,149.0,Overall,1.0,2.0,2.0,100.0,2.0,100.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+671,2669,Balram,All Rounder,2,/teams/dabang-delhi-kc,149.0,Season 7,1.0,2.0,2.0,100.0,2.0,100.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+672,2683,Palle Mallikarjun,Raider,8,/teams/telugu-titans,149.0,Overall,3.0,2.0,1.0,50.0,10.0,20.0,0.0,0.0,2.0,0.66,0.0,0.0,0.0,0.0,1.0,0.0
+673,2683,Palle Mallikarjun,Raider,8,/teams/telugu-titans,149.0,Season 7,3.0,2.0,1.0,50.0,10.0,20.0,0.0,0.0,2.0,0.66,0.0,0.0,0.0,0.0,1.0,0.0
+674,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Overall,45.0,55.0,4.0,85.71,7.0,14.28,0.0,0.0,1.0,0.02,3.0,0.0,54.0,1.13,145.0,37.24
+675,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Season 7,4.0,2.0,2.0,100.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.5,5.0,40.0
+676,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Season 6,8.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.25,21.0,47.61
+677,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Season 3,7.0,6.0,2.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.85,22.0,27.27
+678,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Season 2,12.0,18.0,3.0,50.0,2.0,50.0,0.0,0.0,1.0,0.08,2.0,0.0,17.0,1.25,42.0,40.47
+679,84,Rajaguru Subramanian,"Defender, right cover",5,/teams/u-mumba,149.0,Season 1,14.0,19.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0,1.28,55.0,34.54
+680,2481,Ponparthiban Subramanian,"Defender, right cover",29,/teams/tamil-thalaivas,149.0,Overall,17.0,19.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,19.0,1.05,58.0,32.75
+681,2481,Ponparthiban Subramanian,"Defender, right cover",29,/teams/tamil-thalaivas,149.0,Season 7,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.4,7.0,28.57
+682,2481,Ponparthiban Subramanian,"Defender, right cover",29,/teams/tamil-thalaivas,149.0,Season 6,12.0,17.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,17.0,1.33,51.0,33.33
+683,2474,Aman Kadian,Raider,2,/teams/dabang-delhi-kc,149.0,Overall,3.0,2.0,1.0,57.14,7.0,28.57,0.0,0.0,2.0,0.66,0.0,0.0,0.0,0.0,1.0,0.0
+684,2474,Aman Kadian,Raider,2,/teams/dabang-delhi-kc,149.0,Season 7,2.0,2.0,1.0,75.0,4.0,50.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+685,2474,Aman Kadian,Raider,2,/teams/dabang-delhi-kc,149.0,Season 6,1.0,0.0,0.0,33.33,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+686,2353,Ajay,Defender,1,/teams/bengaluru-bulls,149.0,Overall,14.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.42,29.0,20.68
+687,2353,Ajay,Defender,1,/teams/bengaluru-bulls,149.0,Season 7,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.28,15.0,13.33
+688,2353,Ajay,Defender,1,/teams/bengaluru-bulls,149.0,Season 6,7.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.57,14.0,28.57
+689,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,149.0,Overall,4.0,3.0,2.0,33.33,9.0,33.33,0.0,0.0,3.0,0.75,0.0,0.0,0.0,0.0,1.0,0.0
+690,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,149.0,Season 7,2.0,2.0,2.0,25.0,4.0,50.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+691,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,149.0,Season 6,2.0,1.0,1.0,40.0,5.0,20.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0
+692,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,177.0,Overall,4.0,3.0,2.0,33.33,9.0,33.33,0.0,0.0,3.0,0.75,0.0,0.0,0.0,0.0,1.0,0.0
+693,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,177.0,Season 7,2.0,2.0,2.0,25.0,4.0,50.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,2318,Arun Kumar HN,Raider,28,/teams/haryana-steelers,177.0,Season 6,2.0,1.0,1.0,40.0,5.0,20.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0
+695,2307,Kamal Singh,Raider,8,/teams/telugu-titans,149.0,Overall,11.0,17.0,6.0,76.74,43.0,30.23,0.0,0.0,13.0,1.18,1.0,0.0,4.0,0.27,12.0,33.33
+696,2307,Kamal Singh,Raider,8,/teams/telugu-titans,149.0,Season 7,3.0,2.0,2.0,75.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.66,6.0,33.33
+697,2307,Kamal Singh,Raider,8,/teams/telugu-titans,149.0,Season 6,8.0,15.0,6.0,77.14,35.0,37.14,0.0,0.0,13.0,1.62,1.0,0.0,2.0,0.12,6.0,33.33
+698,2025,Ajinkya Rohidas Kapre,All Rounder,5,/teams/u-mumba,157.0,Overall,2.0,1.0,1.0,60.0,5.0,20.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0
+699,2025,Ajinkya Rohidas Kapre,All Rounder,5,/teams/u-mumba,157.0,Season 7,2.0,1.0,1.0,60.0,5.0,20.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0
+700,2376,Emad Sedaghatnia,Raider,7,/teams/puneri-paltan,157.0,Overall,1.0,1.0,1.0,50.0,4.0,25.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0
+701,2376,Emad Sedaghatnia,Raider,7,/teams/puneri-paltan,157.0,Season 7,1.0,1.0,1.0,50.0,4.0,25.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0
+702,2489,Satywan,"Defender, left cover",2,/teams/dabang-delhi-kc,157.0,Overall,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,50.0
+703,2489,Satywan,"Defender, left cover",2,/teams/dabang-delhi-kc,157.0,Season 7,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,50.0
+704,2501,Aman,"Defender, left corner",1,/teams/bengaluru-bulls,157.0,Overall,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,4.0,25.0
+705,2501,Aman,"Defender, left corner",1,/teams/bengaluru-bulls,157.0,Season 7,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,4.0,25.0
+706,509,Mohammad Taghi Paein Mahali,Raider,4,/teams/bengal-warriors,157.0,Overall,3.0,1.0,1.0,25.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,4.0,25.0
+707,509,Mohammad Taghi Paein Mahali,Raider,4,/teams/bengal-warriors,157.0,Season 7,3.0,1.0,1.0,25.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,4.0,25.0
+708,2671,Naveen Narwal,"Defender, right cover",4,/teams/bengal-warriors,157.0,Overall,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,8.0,12.5
+709,2671,Naveen Narwal,"Defender, right cover",4,/teams/bengal-warriors,157.0,Season 7,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,8.0,12.5
+710,2515,Vikas Chhillar,Raider,28,/teams/haryana-steelers,157.0,Overall,1.0,1.0,1.0,50.0,2.0,50.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+711,2515,Vikas Chhillar,Raider,28,/teams/haryana-steelers,157.0,Season 7,1.0,1.0,1.0,50.0,2.0,50.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+712,217,Rohit Kumar Choudary,Raider,30,/teams/up-yoddha,164.0,Overall,38.0,96.0,11.0,72.1,294.0,31.63,6.0,1.0,93.0,2.44,0.0,0.0,3.0,0.07,28.0,10.71
+713,217,Rohit Kumar Choudary,Raider,30,/teams/up-yoddha,164.0,Season 6,6.0,3.0,2.0,59.09,22.0,13.63,0.0,0.0,3.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0
+714,217,Rohit Kumar Choudary,Raider,30,/teams/up-yoddha,164.0,Season 5,11.0,13.0,4.0,73.91,46.0,28.26,0.0,0.0,13.0,1.18,0.0,0.0,0.0,0.0,2.0,0.0
+715,217,Rohit Kumar Choudary,Raider,30,/teams/up-yoddha,164.0,Season 3,7.0,16.0,5.0,68.75,48.0,33.33,0.0,0.0,16.0,2.28,0.0,0.0,0.0,0.0,8.0,0.0
+716,217,Rohit Kumar Choudary,Raider,30,/teams/up-yoddha,164.0,Season 2,14.0,64.0,11.0,74.15,178.0,34.26,6.0,1.0,61.0,4.35,0.0,0.0,3.0,0.21,17.0,17.64
+717,2021,Anand V,Raider,1,/teams/bengaluru-bulls,164.0,Overall,3.0,3.0,2.0,66.66,15.0,20.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+718,2021,Anand V,Raider,1,/teams/bengaluru-bulls,164.0,Season 6,3.0,3.0,2.0,66.66,15.0,20.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+719,2262,Md. Masud Karim,Raider,30,/teams/up-yoddha,164.0,Overall,3.0,3.0,2.0,50.0,4.0,75.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+720,2262,Md. Masud Karim,Raider,30,/teams/up-yoddha,164.0,Season 7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+721,2262,Md. Masud Karim,Raider,30,/teams/up-yoddha,164.0,Season 6,3.0,3.0,2.0,50.0,4.0,75.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+722,2302,Mithin Kumar,Raider,4,/teams/bengal-warriors,164.0,Overall,3.0,3.0,2.0,70.0,10.0,30.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+723,2302,Mithin Kumar,Raider,4,/teams/bengal-warriors,164.0,Season 6,3.0,3.0,2.0,70.0,10.0,30.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+724,2335,Vimal Raj V,All Rounder,29,/teams/tamil-thalaivas,170.0,Overall,5.0,2.0,2.0,60.0,10.0,20.0,0.0,0.0,2.0,0.4,0.0,0.0,0.0,0.0,5.0,0.0
+725,2335,Vimal Raj V,All Rounder,29,/teams/tamil-thalaivas,170.0,Season 6,5.0,2.0,2.0,60.0,10.0,20.0,0.0,0.0,2.0,0.4,0.0,0.0,0.0,0.0,5.0,0.0
+726,2313,Gaurav Kumar,Raider,5,/teams/u-mumba,170.0,Overall,3.0,2.0,2.0,50.0,10.0,20.0,0.0,0.0,2.0,0.66,0.0,0.0,0.0,0.0,0.0,0.0
+727,2313,Gaurav Kumar,Raider,5,/teams/u-mumba,170.0,Season 7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+728,2313,Gaurav Kumar,Raider,5,/teams/u-mumba,170.0,Season 6,3.0,2.0,2.0,50.0,10.0,20.0,0.0,0.0,2.0,0.66,0.0,0.0,0.0,0.0,0.0,0.0
+729,793,Amit Kharb,"Defender, right cover",31,/teams/gujarat-fortunegiants,170.0,Overall,8.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.12,10.0,20.0
+730,793,Amit Kharb,"Defender, right cover",31,/teams/gujarat-fortunegiants,170.0,Season 7,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+731,793,Amit Kharb,"Defender, right cover",31,/teams/gujarat-fortunegiants,170.0,Season 6,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.16,8.0,25.0
+732,793,Amit Kharb,"Defender, right cover",31,/teams/gujarat-fortunegiants,170.0,Season 5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+733,698,Vishav Chaudhary,"Defender, left cover",30,/teams/up-yoddha,170.0,Overall,2.0,2.0,1.0,63.63,11.0,18.18,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+734,698,Vishav Chaudhary,"Defender, left cover",30,/teams/up-yoddha,170.0,Season 6,2.0,2.0,1.0,63.63,11.0,18.18,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+735,708,N. Shiva Ramakrishna,All Rounder,3,/teams/jaipur-pink-panthers,170.0,Overall,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,1.0,200.0
+736,708,N. Shiva Ramakrishna,All Rounder,3,/teams/jaipur-pink-panthers,170.0,Season 6,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,1.0,200.0
+737,605,Shubham Ashok Palkar,Raider,31,/teams/gujarat-fortunegiants,170.0,Overall,12.0,9.0,2.0,64.86,37.0,24.32,0.0,0.0,9.0,0.75,0.0,0.0,0.0,0.0,4.0,0.0
+738,605,Shubham Ashok Palkar,Raider,31,/teams/gujarat-fortunegiants,170.0,Season 6,4.0,2.0,1.0,61.53,13.0,15.38,0.0,0.0,2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+739,605,Shubham Ashok Palkar,Raider,31,/teams/gujarat-fortunegiants,170.0,Season 5,8.0,7.0,2.0,66.66,24.0,29.16,0.0,0.0,7.0,0.87,0.0,0.0,0.0,0.0,4.0,0.0
+740,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Overall,47.0,300.0,16.0,79.93,618.0,44.98,7.0,9.0,278.0,5.91,4.0,0.0,22.0,0.38,54.0,40.74
+741,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Season 6,2.0,2.0,2.0,70.0,10.0,20.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0
+742,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Season 5,21.0,120.0,14.0,84.5,271.0,39.48,3.0,3.0,107.0,5.09,2.0,0.0,13.0,0.52,27.0,48.14
+743,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Season 3,1.0,0.0,0.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+744,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Season 2,11.0,67.0,13.0,76.62,154.0,42.2,2.0,2.0,65.0,5.9,0.0,0.0,2.0,0.18,9.0,22.22
+745,124,Wazir Singh,Raider,28,/teams/haryana-steelers,170.0,Season 1,12.0,111.0,16.0,75.97,179.0,58.1,2.0,4.0,104.0,8.66,2.0,0.0,7.0,0.41,15.0,46.66
+746,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Overall,35.0,22.0,5.0,65.71,35.0,40.0,0.0,0.0,14.0,0.4,1.0,0.0,8.0,0.2,43.0,18.6
+747,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Season 6,11.0,1.0,1.0,50.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.09,16.0,6.25
+748,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Season 4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+749,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Season 3,7.0,1.0,1.0,60.0,5.0,20.0,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.0,8.0,0.0
+750,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Season 2,8.0,16.0,5.0,75.0,20.0,55.0,0.0,0.0,11.0,1.37,0.0,0.0,5.0,0.62,10.0,50.0
+751,14,Tae Deok Eom,All Rounder,6,/teams/patna-pirates,177.0,Season 1,9.0,4.0,3.0,50.0,8.0,25.0,0.0,0.0,2.0,0.22,1.0,0.0,2.0,0.11,9.0,22.22
+752,74,Nithesh B R,"Defender, right corner",1,/teams/bengaluru-bulls,177.0,Overall,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,3.0,33.33
+753,74,Nithesh B R,"Defender, right corner",1,/teams/bengaluru-bulls,177.0,Season 6,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,3.0,33.33
+754,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Overall,61.0,95.0,8.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,95.0,1.47,246.0,38.61
+755,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 6,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,14.0,7.14
+756,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 5,12.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.91,42.0,26.19
+757,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 4,14.0,22.0,5.0,100.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,22.0,1.42,50.0,44.0
+758,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 3,16.0,37.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,37.0,2.25,81.0,45.67
+759,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 2,7.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.85,27.0,48.14
+760,164,Bajirao Hodage,"Defender, right cover",3,/teams/jaipur-pink-panthers,177.0,Season 1,6.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,11.0,1.5,32.0,34.37
+761,361,Sombir,Defender,8,/teams/telugu-titans,177.0,Overall,29.0,40.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,40.0,1.17,95.0,42.1
+762,361,Sombir,Defender,8,/teams/telugu-titans,177.0,Season 7,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+763,361,Sombir,Defender,8,/teams/telugu-titans,177.0,Season 6,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,8.0,12.5
+764,361,Sombir,Defender,8,/teams/telugu-titans,177.0,Season 5,17.0,39.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,39.0,1.94,84.0,46.42
+765,361,Sombir,Defender,8,/teams/telugu-titans,177.0,Season 4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+766,690,E Subash,All Rounder,5,/teams/u-mumba,177.0,Overall,4.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.75,10.0,40.0
+767,690,E Subash,All Rounder,5,/teams/u-mumba,177.0,Season 6,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,1.0,100.0
+768,690,E Subash,All Rounder,5,/teams/u-mumba,177.0,Season 5,2.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,9.0,33.33
+769,661,Tapas Pal,All Rounder,2,/teams/dabang-delhi-kc,177.0,Overall,7.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.42,23.0,43.47
+770,661,Tapas Pal,All Rounder,2,/teams/dabang-delhi-kc,177.0,Season 6,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,5.0,20.0
+771,661,Tapas Pal,All Rounder,2,/teams/dabang-delhi-kc,177.0,Season 5,5.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.8,18.0,50.0
+772,2351,Vikram Kandola,"Defender, left cover",31,/teams/gujarat-fortunegiants,177.0,Overall,3.0,1.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,9.0,11.11
+773,2351,Vikram Kandola,"Defender, left cover",31,/teams/gujarat-fortunegiants,177.0,Season 7,2.0,0.0,0.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+774,2351,Vikram Kandola,"Defender, left cover",31,/teams/gujarat-fortunegiants,177.0,Season 6,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,6.0,16.66
+775,2482,Aashish Nagar,"Defender, right corner",30,/teams/up-yoddha,177.0,Overall,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,4.0,25.0
+776,2482,Aashish Nagar,"Defender, right corner",30,/teams/up-yoddha,177.0,Season 7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+777,2482,Aashish Nagar,"Defender, right corner",30,/teams/up-yoddha,177.0,Season 6,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.33,4.0,25.0
